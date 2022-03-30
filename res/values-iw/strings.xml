@@ -28,7 +28,7 @@
     <string name="saturday">יום שבת</string>
     <string name="sunday">יוֹם רִאשׁוֹן</string>
     <string name="rate_us">דרג אותנו</string>
-    <string name="rate_us_tip">אם אתה אוהב אותנו, בבקשה תן לנו 5 כוכבים. </string>
+    <string name="rate_us_tip">אם אתה אוהב אותנו, בבקשה תן לנו 5 כוכבים.</string>
     <string name="here_s_your_5_stars">שבחים גבוהים של חמישה כוכבים</string>
     <string name="four_stars">1-4 כוכבים</string>
     <string name="privacy_policy">מדיניות הפרטיות</string>
@@ -69,13 +69,13 @@
     <string name="close">סגור</string>
     <string name="squeeze_statistics">דחוס %d סרטונים ושמור %s זיכרון</string>
     <string name="please_grant_all_permissions">אנא הענק את כל ההרשאות</string>
-    <string name="coder_quality_tips">(איכות קידוד H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(איכות קידוד H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(רזולוציה נמוכה יותר גורמת לבהירות גרועה יותר)</string>
     <string name="failed">נִכשָׁל</string>
     <string name="processing">מעבד</string>
     <string name="delete_warning">מחק אזהרה</string>
     <string name="no_permission">אין רשות</string>
-    <string name="permission_not_found">רשות לא מספיקה. </string>
+    <string name="permission_not_found">רשות לא מספיקה.</string>
     <string name="quit">לְהַפְסִיק</string>
     <string name="go_setting">עבור להגדרה</string>
     <string name="build_hash">בניית TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">נקה מטמונים</string>
     <string name="warning">אַזהָרָה</string>
     <string name="clear_caches_tips">האם ברצונך לנקות את הקובץ במטמון מהטלפון שלך לצמיתות?</string>
+    <string name="video_play_error">שגיאה בהפעלת וידאו</string>
+    <string name="no_network">שגיאת רשת, אנא בדוק אם אתה מחובר！</string>
+    <string name="video_load_error">שגיאת טעינת וידאו</string>
+    <string name="lock_tip">אנא בטל את נעילת המסך שלך</string>
+    <string name="unlocked">לא נעול</string>
+    <string name="locked">נָעוּל</string>
+    <string name="continue_play">המשך לשחק</string>
+    <string name="error_message">שְׁגִיאָה</string>
+    <string name="replay">שידור חוזר</string>
+    <string name="retry">נסה שוב</string>
+    <string name="net_wifi_tip">אתה משתמש ברשת הסלולרית. </string>
+    <string name="double_speed">2.0x מהירות</string>
+    <string name="invalidate_video_resource">בטל את תוקף משאב הווידאו, אנא נסה שוב</string>
+    <string name="play_all_video_finish">כל הסרטונים בתוכן זה הופעלו</string>
 </resources>

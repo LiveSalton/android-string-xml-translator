@@ -28,7 +28,7 @@
     <string name="saturday">Jumamosi</string>
     <string name="sunday">Jumapili</string>
     <string name="rate_us">Tukadirie</string>
-    <string name="rate_us_tip">Ikiwa unatupenda, tafadhali tupe nyota 5. </string>
+    <string name="rate_us_tip">Ikiwa unatupenda, tafadhali tupe nyota 5.</string>
     <string name="here_s_your_5_stars">Nyota tano sifa ya juu</string>
     <string name="four_stars">Nyota 1-4</string>
     <string name="privacy_policy">Sera ya faragha</string>
@@ -69,13 +69,13 @@
     <string name="close">Funga</string>
     <string name="squeeze_statistics">Video %d zilizobanwa na kuhifadhi kumbukumbu %s</string>
     <string name="please_grant_all_permissions">Tafadhali toa ruhusa zote</string>
-    <string name="coder_quality_tips">(Ubora wa usimbaji H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Ubora wa usimbaji H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(azimio la chini husababisha uwazi mbaya zaidi)</string>
     <string name="failed">imeshindwa</string>
     <string name="processing">usindikaji</string>
     <string name="delete_warning">Futa Onyo</string>
     <string name="no_permission">Hakuna Ruhusa</string>
-    <string name="permission_not_found">Ruhusa haitoshi. </string>
+    <string name="permission_not_found">Ruhusa haitoshi.</string>
     <string name="quit">Acha</string>
     <string name="go_setting">Nenda kwa Kuweka</string>
     <string name="build_hash">Jenga TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Futa Akiba</string>
     <string name="warning">Onyo</string>
     <string name="clear_caches_tips">Je, ungependa kufuta akiba ya faili kutoka kwa simu yako kabisa?</string>
+    <string name="video_play_error">Hitilafu ya kucheza video</string>
+    <string name="no_network">Hitilafu ya mtandao, tafadhali angalia ikiwa umeunganishwa!</string>
+    <string name="video_load_error">Hitilafu ya upakiaji wa video</string>
+    <string name="lock_tip">Tafadhali fungua skrini yako</string>
+    <string name="unlocked">Imefunguliwa</string>
+    <string name="locked">Imefungwa</string>
+    <string name="continue_play">Endelea kucheza</string>
+    <string name="error_message">Hitilafu</string>
+    <string name="replay">Cheza tena</string>
+    <string name="retry">Jaribu tena</string>
+    <string name="net_wifi_tip">Unatumia mtandao wa simu. </string>
+    <string name="double_speed">2.0x Kasi</string>
+    <string name="invalidate_video_resource">Batilisha rasilimali ya video, tafadhali jaribu tena</string>
+    <string name="play_all_video_finish">Video zote katika maudhui haya zimechezwa</string>
 </resources>

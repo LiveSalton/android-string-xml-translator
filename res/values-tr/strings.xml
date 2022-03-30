@@ -28,7 +28,7 @@
     <string name="saturday">Cumartesi</string>
     <string name="sunday">Pazar</string>
     <string name="rate_us">Bizi değerlendirin</string>
-    <string name="rate_us_tip">Bizi beğendiyseniz, lütfen bize 5 yıldız verin. </string>
+    <string name="rate_us_tip">Bizi beğendiyseniz, lütfen bize 5 yıldız verin.</string>
     <string name="here_s_your_5_stars">Beş yıldızlı yüksek övgü</string>
     <string name="four_stars">1-4 Yıldız</string>
     <string name="privacy_policy">Gizlilik Politikası</string>
@@ -69,13 +69,13 @@
     <string name="close">Kapat</string>
     <string name="squeeze_statistics">Sıkıştırılmış %d video ve %s bellek tasarrufu</string>
     <string name="please_grant_all_permissions">Lütfen tüm izinleri verin</string>
-    <string name="coder_quality_tips">(Kodlama kalitesi H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodlama kalitesi H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(düşük çözünürlük daha kötü netlikle sonuçlanır)</string>
     <string name="failed">arızalı</string>
     <string name="processing">işleme</string>
     <string name="delete_warning">Uyarıyı Sil</string>
     <string name="no_permission">İzin yok</string>
-    <string name="permission_not_found">İzin yeterli değil. </string>
+    <string name="permission_not_found">İzin yeterli değil.</string>
     <string name="quit">Çıkış yapmak</string>
     <string name="go_setting">Ayara Git</string>
     <string name="build_hash">ETİKET oluştur</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Önbellekleri Temizle</string>
     <string name="warning">Uyarı</string>
     <string name="clear_caches_tips">Dosyayı telefonunuzdan kalıcı olarak temizlemek istiyor musunuz?</string>
+    <string name="video_play_error">Video oynatma hatası</string>
+    <string name="no_network">Ağ hatası, lütfen bağlı olup olmadığınızı kontrol edin！</string>
+    <string name="video_load_error">Video yükleme hatası</string>
+    <string name="lock_tip">Lütfen ekranınızın kilidini açın</string>
+    <string name="unlocked">kilidi açıldı</string>
+    <string name="locked">Kilitli</string>
+    <string name="continue_play">Oynatmaya devam et</string>
+    <string name="error_message">Hata</string>
+    <string name="replay">tekrar oynat</string>
+    <string name="retry">yeniden dene</string>
+    <string name="net_wifi_tip">Mobil ağı kullanıyorsunuz. </string>
+    <string name="double_speed">2.0x Hız</string>
+    <string name="invalidate_video_resource">Video kaynağını geçersiz kılın, lütfen tekrar deneyin</string>
+    <string name="play_all_video_finish">Bu içerikteki tüm videolar oynatıldı</string>
 </resources>

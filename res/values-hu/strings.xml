@@ -28,7 +28,7 @@
     <string name="saturday">szombat</string>
     <string name="sunday">vasárnap</string>
     <string name="rate_us">Értékelj minket</string>
-    <string name="rate_us_tip">Ha tetszik nekünk, kérjük, adjon nekünk 5 csillagot. </string>
+    <string name="rate_us_tip">Ha tetszik nekünk, kérjük, adjon nekünk 5 csillagot.</string>
     <string name="here_s_your_5_stars">Öt csillagos dicséret</string>
     <string name="four_stars">1-4 csillag</string>
     <string name="privacy_policy">Adatvédelmi irányelvek</string>
@@ -69,13 +69,13 @@
     <string name="close">Bezárás</string>
     <string name="squeeze_statistics">%d videó tömörítve és %s memória mentése</string>
     <string name="please_grant_all_permissions">Kérjük, adjon meg minden engedélyt</string>
-    <string name="coder_quality_tips">(Kódolási minőség H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kódolási minőség H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(az alacsonyabb felbontás rosszabb tisztaságot eredményez)</string>
     <string name="failed">nem sikerült</string>
     <string name="processing">feldolgozás</string>
     <string name="delete_warning">Figyelmeztetés törlése</string>
     <string name="no_permission">Nincs engedélye</string>
-    <string name="permission_not_found">Az engedély nem elég. </string>
+    <string name="permission_not_found">Az engedély nem elég.</string>
     <string name="quit">Kilépés</string>
     <string name="go_setting">Ugrás a Beállításokra</string>
     <string name="build_hash">Építsd meg a TAG-et</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Gyorsítótárak törlése</string>
     <string name="warning">Figyelem</string>
     <string name="clear_caches_tips">Szeretné véglegesen törölni a fájl gyorsítótárát a telefonjáról?</string>
+    <string name="video_play_error">Videó lejátszási hiba</string>
+    <string name="no_network">Hálózati hiba, ellenőrizze, hogy csatlakozik-e!</string>
+    <string name="video_load_error">Videó betöltési hiba</string>
+    <string name="lock_tip">Kérjük, oldja fel a képernyő zárolását</string>
+    <string name="unlocked">Feloldva</string>
+    <string name="locked">Zárt</string>
+    <string name="continue_play">Folytassa a játékot</string>
+    <string name="error_message">Hiba</string>
+    <string name="replay">Visszajátszás</string>
+    <string name="retry">Próbálja újra</string>
+    <string name="net_wifi_tip">Ön a mobilhálózatot használja. </string>
+    <string name="double_speed">2,0x sebesség</string>
+    <string name="invalidate_video_resource">Érvénytelen videoforrás, kérjük, próbálja újra</string>
+    <string name="play_all_video_finish">A tartalomban szereplő összes videó lejátszása megtörtént</string>
 </resources>

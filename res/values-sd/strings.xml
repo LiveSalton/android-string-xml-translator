@@ -28,7 +28,7 @@
     <string name="saturday">ڇنڇر</string>
     <string name="sunday">آچر</string>
     <string name="rate_us">اسان جي شرح</string>
-    <string name="rate_us_tip">جيڪڏھن توھان اسان کي پسند ڪريو، مھرباني ڪري اسان کي 5 تارن ڏيو. </string>
+    <string name="rate_us_tip">جيڪڏھن توھان اسان کي پسند ڪريو، مھرباني ڪري اسان کي 5 تارن ڏيو.</string>
     <string name="here_s_your_5_stars">فائيو اسٽار اعلي ساراهه</string>
     <string name="four_stars">1-4 اسٽار</string>
     <string name="privacy_policy">رازداري پاليسي</string>
@@ -69,13 +69,13 @@
     <string name="close">بند</string>
     <string name="squeeze_statistics">%d وڊيوز دٻايو ۽ %s ياداشت محفوظ ڪريو</string>
     <string name="please_grant_all_permissions">مھرباني ڪري سڀ اجازتون ڏيو</string>
-    <string name="coder_quality_tips">(انڪوڊنگ معيار H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(انڪوڊنگ معيار H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(گهٽ ريزوليوشن جا نتيجا بدتر وضاحت ۾)</string>
     <string name="failed">ناڪام</string>
     <string name="processing">پروسيسنگ</string>
     <string name="delete_warning">ڊيڄاريندڙ کي ختم ڪريو</string>
     <string name="no_permission">اجازت ناهي</string>
-    <string name="permission_not_found">اجازت ڪافي نه آهي. </string>
+    <string name="permission_not_found">اجازت ڪافي نه آهي.</string>
     <string name="quit">ڇڏڻ</string>
     <string name="go_setting">وڃو سيٽنگ</string>
     <string name="build_hash">TAG ٺاهيو</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">ڪيش صاف ڪريو</string>
     <string name="warning">ڊيڄاريندڙ</string>
     <string name="clear_caches_tips">ڇا توھان چاھيو ٿا ته ڪيش فائل کي پنھنجي فون مان مستقل طور تي صاف ڪريو؟</string>
+    <string name="video_play_error">وڊيو پلے بیک غلطي</string>
+    <string name="no_network">نيٽ ورڪ جي غلطي، مهرباني ڪري چيڪ ڪريو ته توهان ڳنڍيل آهيو!</string>
+    <string name="video_load_error">وڊيو لوڊ ڪرڻ جي غلطي</string>
+    <string name="lock_tip">مھرباني ڪري پنھنجي اسڪرين کي کوليو</string>
+    <string name="unlocked">لاڪ ٿيل</string>
+    <string name="locked">بند ٿيل</string>
+    <string name="continue_play">راند جاري رکو</string>
+    <string name="error_message">نقص</string>
+    <string name="replay">وري هلايو</string>
+    <string name="retry">ٻيهر ڪوشش ڪريو</string>
+    <string name="net_wifi_tip">توهان موبائل نيٽ ورڪ استعمال ڪري رهيا آهيو. </string>
+    <string name="double_speed">2.0x اسپيڊ</string>
+    <string name="invalidate_video_resource">وڊيو وسيلن کي غلط ڪريو، مھرباني ڪري ٻيهر ڪوشش ڪريو</string>
+    <string name="play_all_video_finish">هن مواد ۾ سڀئي وڊيوز ختم ٿي چڪيون آهن</string>
 </resources>

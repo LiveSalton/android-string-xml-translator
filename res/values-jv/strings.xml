@@ -28,7 +28,7 @@
     <string name="saturday">sabtu</string>
     <string name="sunday">Minggu</string>
     <string name="rate_us">Rate Kita</string>
-    <string name="rate_us_tip">Yen sampeyan seneng karo kita, menehi 5 bintang. </string>
+    <string name="rate_us_tip">Yen sampeyan seneng karo kita, menehi 5 bintang.</string>
     <string name="here_s_your_5_stars">Pujian dhuwur lintang lima</string>
     <string name="four_stars">1-4 Lintang</string>
     <string name="privacy_policy">Kabijakan privasi</string>
@@ -69,13 +69,13 @@
     <string name="close">Nutup</string>
     <string name="squeeze_statistics">%d video sing dikompres lan nyimpen %s memori</string>
     <string name="please_grant_all_permissions">Mangga wenehi kabeh ijin</string>
-    <string name="coder_quality_tips">(Kualitas enkoding H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kualitas enkoding H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(resolusi sing luwih murah nyebabake kajelasan sing luwih elek)</string>
     <string name="failed">gagal</string>
     <string name="processing">pangolahan</string>
     <string name="delete_warning">Mbusak Pènget</string>
     <string name="no_permission">Ora Idin</string>
-    <string name="permission_not_found">Idin ora cukup. </string>
+    <string name="permission_not_found">Idin ora cukup.</string>
     <string name="quit">mandek</string>
     <string name="go_setting">Bukak Setelan</string>
     <string name="build_hash">Gawe TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Mbusak Cache</string>
     <string name="warning">Pènget</string>
     <string name="clear_caches_tips">Apa sampeyan pengin mbusak cache file saka telpon kanthi permanen?</string>
+    <string name="video_play_error">kesalahan puter maneh video</string>
+    <string name="no_network">Kesalahan jaringan, priksa manawa sampeyan wis nyambung!</string>
+    <string name="video_load_error">kesalahan loading video</string>
+    <string name="lock_tip">Mangga mbukak kunci layar</string>
+    <string name="unlocked">Mbukak kunci</string>
+    <string name="locked">Dikunci</string>
+    <string name="continue_play">Terus muter</string>
+    <string name="error_message">Kesalahan</string>
+    <string name="replay">Muter maneh</string>
+    <string name="retry">Coba maneh</string>
+    <string name="net_wifi_tip">Sampeyan nggunakake jaringan seluler. </string>
+    <string name="double_speed">2.0x Kacepetan</string>
+    <string name="invalidate_video_resource">Sumber video ora valid, coba maneh</string>
+    <string name="play_all_video_finish">Kabeh video ing isi iki wis diputer liwat</string>
 </resources>

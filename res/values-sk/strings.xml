@@ -28,7 +28,7 @@
     <string name="saturday">sobota</string>
     <string name="sunday">nedeľa</string>
     <string name="rate_us">Ohodnoť nás</string>
-    <string name="rate_us_tip">Ak sa vám páčime, dajte nám 5 hviezdičiek. </string>
+    <string name="rate_us_tip">Ak sa vám páčime, dajte nám 5 hviezdičiek.</string>
     <string name="here_s_your_5_stars">Päťhviezdičková vysoká chvála</string>
     <string name="four_stars">1-4 hviezdičky</string>
     <string name="privacy_policy">Zásady ochrany osobných údajov</string>
@@ -69,13 +69,13 @@
     <string name="close">Zavrieť</string>
     <string name="squeeze_statistics">Komprimované %d videá a úspora %s pamäte</string>
     <string name="please_grant_all_permissions">Udeľte všetky povolenia</string>
-    <string name="coder_quality_tips">(Kvalita kódovania H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kvalita kódovania H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(nižšie rozlíšenie má za následok horšiu jasnosť)</string>
     <string name="failed">nepodarilo</string>
     <string name="processing">spracovanie</string>
     <string name="delete_warning">Odstrániť upozornenie</string>
     <string name="no_permission">Bez povolenia</string>
-    <string name="permission_not_found">Povolenie nestačí. </string>
+    <string name="permission_not_found">Povolenie nestačí.</string>
     <string name="quit">Ukončite</string>
     <string name="go_setting">Prejsť na nastavenie</string>
     <string name="build_hash">Zostavte TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Vymazať vyrovnávacie pamäte</string>
     <string name="warning">Pozor</string>
     <string name="clear_caches_tips">Chcete natrvalo vymazať vyrovnávaciu pamäť súboru z telefónu?</string>
+    <string name="video_play_error">Chyba prehrávania videa</string>
+    <string name="no_network">Chyba siete, skontrolujte, či ste pripojení!</string>
+    <string name="video_load_error">Chyba pri načítavaní videa</string>
+    <string name="lock_tip">Odomknite obrazovku</string>
+    <string name="unlocked">Odomknuté</string>
+    <string name="locked">Zamknuté</string>
+    <string name="continue_play">Pokračujte v hre</string>
+    <string name="error_message">Chyba</string>
+    <string name="replay">Prehrať znova</string>
+    <string name="retry">Skúsiť znova</string>
+    <string name="net_wifi_tip">Používate mobilnú sieť. </string>
+    <string name="double_speed">2,0x rýchlosť</string>
+    <string name="invalidate_video_resource">Neplatnosť zdroja videa, skúste to znova</string>
+    <string name="play_all_video_finish">Všetky videá v tomto obsahu sa prehrali</string>
 </resources>

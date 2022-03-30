@@ -28,7 +28,7 @@
     <string name="saturday">sábado</string>
     <string name="sunday">domingo</string>
     <string name="rate_us">Nos califica</string>
-    <string name="rate_us_tip">Si te gusta, por favor danos 5 estrellas. </string>
+    <string name="rate_us_tip">Si te gusta, por favor danos 5 estrellas.</string>
     <string name="here_s_your_5_stars">Elogio de cinco estrellas</string>
     <string name="four_stars">1-4 estrellas</string>
     <string name="privacy_policy">Política de privacidad</string>
@@ -69,13 +69,13 @@
     <string name="close">Cerrar</string>
     <string name="squeeze_statistics">Comprimió %d videos y guardó %s de memoria</string>
     <string name="please_grant_all_permissions">Por favor concede todos los permisos</string>
-    <string name="coder_quality_tips">(Calidad de codificación H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Calidad de codificación H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(resolución más baja da como resultado una claridad peor)</string>
     <string name="failed">ha fallado</string>
     <string name="processing">Procesando</string>
     <string name="delete_warning">Eliminar advertencia</string>
     <string name="no_permission">Sin autorización</string>
-    <string name="permission_not_found">El permiso no es suficiente. </string>
+    <string name="permission_not_found">El permiso no es suficiente.</string>
     <string name="quit">Dejar</string>
     <string name="go_setting">Ir a configuración</string>
     <string name="build_hash">ETIQUETA de compilación</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Borrar cachés</string>
     <string name="warning">Advertencia</string>
     <string name="clear_caches_tips">¿Quieres borrar los cachés del archivo de tu teléfono de forma permanente?</string>
+    <string name="video_play_error">Error de reproducción de video</string>
+    <string name="no_network">Error de red, compruebe si está conectado！</string>
+    <string name="video_load_error">error al cargar el video</string>
+    <string name="lock_tip">Por favor, desbloquee su pantalla</string>
+    <string name="unlocked">desbloqueado</string>
+    <string name="locked">bloqueado</string>
+    <string name="continue_play">continuar jugando</string>
+    <string name="error_message">Error</string>
+    <string name="replay">Repetición</string>
+    <string name="retry">Rever</string>
+    <string name="net_wifi_tip">Estás usando la red móvil. </string>
+    <string name="double_speed">Velocidad 2.0x</string>
+    <string name="invalidate_video_resource">Invalide el recurso de video, inténtelo de nuevo</string>
+    <string name="play_all_video_finish">Todos los videos en este contenido tienen play over</string>
 </resources>

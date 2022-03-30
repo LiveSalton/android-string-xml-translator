@@ -28,7 +28,7 @@
     <string name="saturday">shanba</string>
     <string name="sunday">yakshanba</string>
     <string name="rate_us">Bizga baho bering</string>
-    <string name="rate_us_tip">Agar bizni yoqtirsangiz, iltimos, bizga 5 yulduz bering. </string>
+    <string name="rate_us_tip">Agar bizni yoqtirsangiz, iltimos, bizga 5 yulduz bering.</string>
     <string name="here_s_your_5_stars">Besh yulduzli yuqori maqtov</string>
     <string name="four_stars">1-4 yulduz</string>
     <string name="privacy_policy">Maxfiylik siyosati</string>
@@ -69,13 +69,13 @@
     <string name="close">Yopish</string>
     <string name="squeeze_statistics">Siqilgan %d ta video va %s xotirani saqlang</string>
     <string name="please_grant_all_permissions">Iltimos, barcha ruxsatlarni bering</string>
-    <string name="coder_quality_tips">(H265 > H264 > MPEG kodlash sifati)</string>
+    <string name="coder_quality_tips">(H265 &gt; H264 &gt; MPEG kodlash sifati)</string>
     <string name="density_quality_tips">(pastroq aniqlik yomonroq ravshanlikka olib keladi)</string>
     <string name="failed">muvaffaqiyatsiz</string>
     <string name="processing">qayta ishlash</string>
     <string name="delete_warning">Ogohlantirishni o\'chirish</string>
     <string name="no_permission">Ruxsat yo\'q</string>
-    <string name="permission_not_found">Ruxsat yetarli emas. </string>
+    <string name="permission_not_found">Ruxsat yetarli emas.</string>
     <string name="quit">Chiqish</string>
     <string name="go_setting">Sozlamaga o\'ting</string>
     <string name="build_hash">TAG yaratish</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Keshlarni tozalash</string>
     <string name="warning">Ogohlantirish</string>
     <string name="clear_caches_tips">Telefoningizdagi fayl keshlarini butunlay tozalamoqchimisiz?</string>
+    <string name="video_play_error">Videoni ijro etishda xato</string>
+    <string name="no_network">Tarmoq xatosi, ulanganligingizni tekshiring!</string>
+    <string name="video_load_error">Videoni yuklashda xatolik yuz berdi</string>
+    <string name="lock_tip">Iltimos, ekran qulfini oching</string>
+    <string name="unlocked">Qulfdan chiqarilgan</string>
+    <string name="locked">Qulflangan</string>
+    <string name="continue_play">O'yinni davom ettiring</string>
+    <string name="error_message">Xato</string>
+    <string name="replay">Takrorlash</string>
+    <string name="retry">Qayta urinish</string>
+    <string name="net_wifi_tip">Siz mobil tarmoqdan foydalanyapsiz. </string>
+    <string name="double_speed">2,0x tezlik</string>
+    <string name="invalidate_video_resource">Video resurs yaroqsiz, qayta urinib ko‘ring</string>
+    <string name="play_all_video_finish">Ushbu kontentdagi barcha videolar oʻynaldi</string>
 </resources>
