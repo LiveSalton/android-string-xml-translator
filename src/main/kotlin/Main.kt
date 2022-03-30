@@ -16,26 +16,26 @@ object Main {
     }
 
     fun translate() {
-        Translator.translate("res/values/strings.xml", Languages.CHINESE_SIMPLIFIED)
-//        Languages.languages.apply {
-//            remove(Languages.ASSAMESE)
-//            remove(Languages.ENGLISH)
-//            remove(Languages.FIJIAN)
-//            remove(Languages.INUKTITUT)
-//            remove(Languages.HMONG_DAW)
-//            remove(Languages.QUERETARO_OTOMI)
-//            remove(Languages.DARI)
-//            remove(Languages.TIGRINYA)
-//            remove(Languages.KLINGON_LATIN)
-//            remove(Languages.KLINGON_PIQAD)
-//            remove(Languages.TONGAN)
-//            remove(Languages.TAHITIAN)
-//            remove(Languages.YUCATEC_MAYA)
-//            remove(Languages.AUTO)
-//            forEachIndexed { index, lang ->
-//                Translator.translate("output/values/strings.xml", lang)
-//            }
-//        }
+//        Translator.translate("res/values/strings.xml", Languages.CHINESE_SIMPLIFIED)
+        Languages.languages.apply {
+            remove(Languages.ASSAMESE)
+            remove(Languages.ENGLISH)
+            remove(Languages.FIJIAN)
+            remove(Languages.INUKTITUT)
+            remove(Languages.HMONG_DAW)
+            remove(Languages.QUERETARO_OTOMI)
+            remove(Languages.DARI)
+            remove(Languages.TIGRINYA)
+            remove(Languages.KLINGON_LATIN)
+            remove(Languages.KLINGON_PIQAD)
+            remove(Languages.TONGAN)
+            remove(Languages.TAHITIAN)
+            remove(Languages.YUCATEC_MAYA)
+            remove(Languages.AUTO)
+            forEachIndexed { index, lang ->
+                Translator.translate("res/values/strings.xml", lang)
+            }
+        }
     }
 
     fun translateReadMe() {

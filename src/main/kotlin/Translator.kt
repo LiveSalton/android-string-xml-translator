@@ -21,8 +21,8 @@ object Translator {
                     println("find:${it.first}")
                     left.second = it.second
                 } ?: kotlin.run {
-                    println("translate:${left.first}")
                     val translatedContent = googleTranslator.translate(left.second, language.code)
+                    println("translate:${left.first},$translatedContent")
                     left.second = translatedContent
                 }
             }
