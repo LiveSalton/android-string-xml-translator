@@ -28,7 +28,7 @@
     <string name="saturday">Moqebelo</string>
     <string name="sunday">Sontaha</string>
     <string name="rate_us">Reka Re</string>
-    <string name="rate_us_tip">Haeba oa re rata, ka kopo re fe linaleli tse 5. </string>
+    <string name="rate_us_tip">Haeba oa re rata, ka kopo re fe linaleli tse 5.</string>
     <string name="here_s_your_5_stars">Naleli tse hlano thoriso e phahameng</string>
     <string name="four_stars">1-4 Naleli</string>
     <string name="privacy_policy">Leano la Lekunutu</string>
@@ -69,13 +69,13 @@
     <string name="close">Koala</string>
     <string name="squeeze_statistics">E hatisitsoe %d livideo ebe u boloka mohopolo oa %s</string>
     <string name="please_grant_all_permissions">Ka kopo fana ka litumello tsohle</string>
-    <string name="coder_quality_tips">(Boleng ba khouto H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Boleng ba khouto H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(qeto e tlase e fella ka ho hlaka le ho feta)</string>
     <string name="failed">hlolehile</string>
     <string name="processing">ho sebetsa</string>
     <string name="delete_warning">Hlakola Temoso</string>
     <string name="no_permission">Ha ho Tumello</string>
-    <string name="permission_not_found">Tumello ha ea lekana. </string>
+    <string name="permission_not_found">Tumello ha ea lekana.</string>
     <string name="quit">Tlohela</string>
     <string name="go_setting">Eya Setting</string>
     <string name="build_hash">Haha TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Hlakola Cache</string>
     <string name="warning">Tlhokomediso</string>
     <string name="clear_caches_tips">Na u batla ho hlakola lifaele tsa cache fonong ea hau ka ho sa feleng?</string>
+    <string name="video_play_error">Phoso ea ho bapala video</string>
+    <string name="no_network">Phoso ea marang-rang, ka kopo sheba hore na u hokahane!</string>
+    <string name="video_load_error">Phoso ea ho kenya lifitio</string>
+    <string name="lock_tip">Ka kopo, notlolla skrini sa hau</string>
+    <string name="unlocked">notletsoe</string>
+    <string name="locked">Notletsoe</string>
+    <string name="continue_play">Tsoela pele ho bapala</string>
+    <string name="error_message">Phoso</string>
+    <string name="replay">Bapala hape</string>
+    <string name="retry">Leka hape</string>
+    <string name="net_wifi_tip">U sebelisa marang-rang a selefouno.</string>
+    <string name="double_speed">2.0x Lebelo</string>
+    <string name="invalidate_video_resource">Sesebediswa sa vidio se fosahetse, ka kopo leka hape</string>
+    <string name="play_all_video_finish">Livideo tsohle tse ka har'a litaba tsena li bapaloa</string>
 </resources>

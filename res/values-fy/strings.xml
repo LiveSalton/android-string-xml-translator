@@ -28,7 +28,7 @@
     <string name="saturday">sneon</string>
     <string name="sunday">snein</string>
     <string name="rate_us">Beoardielje ús</string>
-    <string name="rate_us_tip">As jo ​​​​fan ús leuk fine, jou ús asjebleaft 5 stjerren. </string>
+    <string name="rate_us_tip">As jo ​​​​fan ús leuk fine, jou ús asjebleaft 5 stjerren.</string>
     <string name="here_s_your_5_stars">Fiif stjerren hege lof</string>
     <string name="four_stars">1-4 Stjerren</string>
     <string name="privacy_policy">Privacybelied</string>
@@ -69,13 +69,13 @@
     <string name="close">Slute</string>
     <string name="squeeze_statistics">Komprimearre %d fideo\'s en bewarje %s ûnthâld</string>
     <string name="please_grant_all_permissions">Jou asjebleaft alle tagongsrjochten</string>
-    <string name="coder_quality_tips">(Kodearring kwaliteit H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodearring kwaliteit H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(legere resolúsje liedt ta minder dúdlikens)</string>
     <string name="failed">mislearre</string>
     <string name="processing">bewurking</string>
     <string name="delete_warning">Warskôging wiskje</string>
     <string name="no_permission">Gjin tastimming</string>
-    <string name="permission_not_found">Tastimming net genôch. </string>
+    <string name="permission_not_found">Tastimming net genôch.</string>
     <string name="quit">Oerjaan</string>
     <string name="go_setting">Gean Setting</string>
     <string name="build_hash">Bouwe TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Cache wiskje</string>
     <string name="warning">Warskôging</string>
     <string name="clear_caches_tips">Wolle jo it bestân permanint wiskje fan jo tillefoan?</string>
+    <string name="video_play_error">Fideo-ôfspielflater</string>
+    <string name="no_network">Netwurkflater, kontrolearje asjebleaft as jo ferbûn binne!</string>
+    <string name="video_load_error">Fideo laden flater</string>
+    <string name="lock_tip">Untskoattelje asjebleaft jo skerm</string>
+    <string name="unlocked">Untskoattele</string>
+    <string name="locked">Op slot</string>
+    <string name="continue_play">Trochgean te spyljen</string>
+    <string name="error_message">Fersin</string>
+    <string name="replay">Replay</string>
+    <string name="retry">Opnij besykje</string>
+    <string name="net_wifi_tip">Jo brûke it mobile netwurk.</string>
+    <string name="double_speed">2.0x snelheid</string>
+    <string name="invalidate_video_resource">Fideoboarne ûnjildich meitsje, besykje it nochris</string>
+    <string name="play_all_video_finish">Alle fideo's yn dizze ynhâld hawwe oerspield</string>
 </resources>

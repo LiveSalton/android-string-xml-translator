@@ -28,7 +28,7 @@
     <string name="saturday">şənbə</string>
     <string name="sunday">bazar günü</string>
     <string name="rate_us">Bizi qiymətləndirin</string>
-    <string name="rate_us_tip">Bizi bəyənirsinizsə, bizə 5 ulduz verin. </string>
+    <string name="rate_us_tip">Bizi bəyənirsinizsə, bizə 5 ulduz verin.</string>
     <string name="here_s_your_5_stars">Beş ulduzlu yüksək tərif</string>
     <string name="four_stars">1-4 Ulduz</string>
     <string name="privacy_policy">Gizlilik Siyasəti</string>
@@ -69,13 +69,13 @@
     <string name="close">Yaxın</string>
     <string name="squeeze_statistics">Sıxılmış %d video və %s yaddaşa qənaət edin</string>
     <string name="please_grant_all_permissions">Bütün icazələri verin</string>
-    <string name="coder_quality_tips">(Kodlaşdırma keyfiyyəti H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodlaşdırma keyfiyyəti H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(aşağı ayırdetmə daha pis aydınlığa səbəb olur)</string>
     <string name="failed">uğursuz oldu</string>
     <string name="processing">emal</string>
     <string name="delete_warning">Xəbərdarlığı silin</string>
     <string name="no_permission">İcazə yoxdur</string>
-    <string name="permission_not_found">İcazə kifayət deyil. </string>
+    <string name="permission_not_found">İcazə kifayət deyil.</string>
     <string name="quit">Çıxın</string>
     <string name="go_setting">Parametrlərə keçin</string>
     <string name="build_hash">TAG yaradın</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Keşləri təmizləyin</string>
     <string name="warning">Xəbərdarlıq</string>
     <string name="clear_caches_tips">Faylı telefonunuzdan həmişəlik keşləri təmizləmək istəyirsiniz?</string>
+    <string name="video_play_error">Video oynatma xətası</string>
+    <string name="no_network">Şəbəkə xətası, qoşulduğunuzu yoxlayın!</string>
+    <string name="video_load_error">Video yükləmə xətası</string>
+    <string name="lock_tip">Zəhmət olmasa ekranınızın kilidini açın</string>
+    <string name="unlocked">Kilidi açıldı</string>
+    <string name="locked">Bağlanıb</string>
+    <string name="continue_play">Oynamağa davam edin</string>
+    <string name="error_message">Səhv</string>
+    <string name="replay">Təkrar çalın</string>
+    <string name="retry">Yenidən cəhd edin</string>
+    <string name="net_wifi_tip">Siz mobil şəbəkədən istifadə edirsiniz.</string>
+    <string name="double_speed">2.0x Sürət</string>
+    <string name="invalidate_video_resource">Video resursunu etibarsız edin, yenidən cəhd edin</string>
+    <string name="play_all_video_finish">Bu məzmundakı bütün videolar oxunub</string>
 </resources>

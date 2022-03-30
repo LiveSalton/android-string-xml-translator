@@ -28,7 +28,7 @@
     <string name="saturday">ਸ਼ਨੀਵਾਰ</string>
     <string name="sunday">ਐਤਵਾਰ</string>
     <string name="rate_us">ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ</string>
-    <string name="rate_us_tip">ਜੇਕਰ ਤੁਸੀਂ ਸਾਨੂੰ ਪਸੰਦ ਕਰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ 5 ਸਟਾਰ ਦਿਓ। </string>
+    <string name="rate_us_tip">ਜੇਕਰ ਤੁਸੀਂ ਸਾਨੂੰ ਪਸੰਦ ਕਰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ 5 ਸਟਾਰ ਦਿਓ।</string>
     <string name="here_s_your_5_stars">ਪੰਜ ਤਾਰਾ ਉੱਚ ਪ੍ਰਸ਼ੰਸਾ</string>
     <string name="four_stars">1-4 ਤਾਰਾ</string>
     <string name="privacy_policy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
@@ -69,13 +69,13 @@
     <string name="close">ਬੰਦ ਕਰੋ</string>
     <string name="squeeze_statistics">ਸੰਕੁਚਿਤ %d ਵੀਡੀਓ ਅਤੇ %s ਮੈਮੋਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
     <string name="please_grant_all_permissions">ਕਿਰਪਾ ਕਰਕੇ ਸਾਰੀਆਂ ਇਜਾਜ਼ਤਾਂ ਦਿਓ</string>
-    <string name="coder_quality_tips">(ਏਨਕੋਡਿੰਗ ਗੁਣਵੱਤਾ H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(ਏਨਕੋਡਿੰਗ ਗੁਣਵੱਤਾ H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(ਘੱਟ ਰੈਜ਼ੋਲਿਊਸ਼ਨ ਦਾ ਨਤੀਜਾ ਇੱਕ ਬਦਤਰ ਸਪੱਸ਼ਟਤਾ ਵਿੱਚ ਹੁੰਦਾ ਹੈ)</string>
     <string name="failed">ਅਸਫਲ</string>
     <string name="processing">ਕਾਰਵਾਈ</string>
     <string name="delete_warning">ਚੇਤਾਵਨੀ ਮਿਟਾਓ</string>
     <string name="no_permission">ਕੋਈ ਇਜਾਜ਼ਤ ਨਹੀਂ</string>
-    <string name="permission_not_found">ਇਜਾਜ਼ਤ ਕਾਫ਼ੀ ਨਹੀਂ ਹੈ। </string>
+    <string name="permission_not_found">ਇਜਾਜ਼ਤ ਕਾਫ਼ੀ ਨਹੀਂ ਹੈ।</string>
     <string name="quit">ਛੱਡੋ</string>
     <string name="go_setting">ਸੈਟਿੰਗ \'ਤੇ ਜਾਓ</string>
     <string name="build_hash">TAG ਬਣਾਓ</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">ਕੈਸ਼ ਕਲੀਅਰ ਕਰੋ</string>
     <string name="warning">ਚੇਤਾਵਨੀ</string>
     <string name="clear_caches_tips">ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਫ਼ੋਨ ਤੋਂ ਫ਼ਾਈਲ ਨੂੰ ਪੱਕੇ ਤੌਰ \'ਤੇ ਕੈਸ਼ ਕਲੀਅਰ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="video_play_error">ਵੀਡੀਓ ਪਲੇਬੈਕ ਗੜਬੜ</string>
+    <string name="no_network">ਨੈੱਟਵਰਕ ਗੜਬੜ, ਕਿਰਪਾ ਕਰਕੇ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ ਤੁਸੀਂ ਕਨੈਕਟ ਹੋ!</string>
+    <string name="video_load_error">ਵੀਡੀਓ ਲੋਡ ਕਰਨ ਵਿੱਚ ਗੜਬੜ</string>
+    <string name="lock_tip">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਸਕ੍ਰੀਨ ਨੂੰ ਅਨਲੌਕ ਕਰੋ</string>
+    <string name="unlocked">ਅਨਲੌਕ ਕੀਤਾ</string>
+    <string name="locked">ਬੰਦ</string>
+    <string name="continue_play">ਖੇਡਣਾ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="error_message">ਗਲਤੀ</string>
+    <string name="replay">ਰੀਪਲੇ</string>
+    <string name="retry">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="net_wifi_tip">ਤੁਸੀਂ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੋ।</string>
+    <string name="double_speed">2.0x ਸਪੀਡ</string>
+    <string name="invalidate_video_resource">ਵੀਡੀਓ ਸਰੋਤ ਨੂੰ ਅਵੈਧ ਕਰੋ, ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="play_all_video_finish">ਇਸ ਸਮਗਰੀ ਦੇ ਸਾਰੇ ਵੀਡੀਓਜ਼ ਪਲੇ ਓਵਰ ਹੋ ਗਏ ਹਨ</string>
 </resources>

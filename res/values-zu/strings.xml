@@ -28,7 +28,7 @@
     <string name="saturday">NgoMgqibelo</string>
     <string name="sunday">NgeSonto</string>
     <string name="rate_us">Linganisa Us</string>
-    <string name="rate_us_tip">Uma usithanda, sicela usinikeze izinkanyezi ezi-5. </string>
+    <string name="rate_us_tip">Uma usithanda, sicela usinikeze izinkanyezi ezi-5.</string>
     <string name="here_s_your_5_stars">Izinkanyezi ezinhlanu udumo oluphezulu</string>
     <string name="four_stars">1-4 Inkanyezi</string>
     <string name="privacy_policy">Inqubomgomo yobumfihlo</string>
@@ -69,13 +69,13 @@
     <string name="close">Vala</string>
     <string name="squeeze_statistics">Amavidiyo angu-%d acindezelwe futhi alondoloze inkumbulo engu-%s</string>
     <string name="please_grant_all_permissions">Sicela unikeze zonke izimvume</string>
-    <string name="coder_quality_tips">(Ikhwalithi yokufaka ikhodi H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Ikhwalithi yokufaka ikhodi H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(ukulungiswa okuphansi kubangela ukucaca okubi kakhulu)</string>
     <string name="failed">kwehlulekile</string>
     <string name="processing">ukucubungula</string>
     <string name="delete_warning">Susa Isexwayiso</string>
     <string name="no_permission">Ayikho Imvume</string>
-    <string name="permission_not_found">Imvume ayanele. </string>
+    <string name="permission_not_found">Imvume ayanele.</string>
     <string name="quit">Yeka</string>
     <string name="go_setting">Hamba ku-Setting</string>
     <string name="build_hash">Yakha i-TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Sula Izinqolobane</string>
     <string name="warning">Isexwayiso</string>
     <string name="clear_caches_tips">Ingabe ufuna ukusula inqolobane yefayela kusuka efonini yakho unaphakade?</string>
+    <string name="video_play_error">Iphutha lokudlala ividiyo</string>
+    <string name="no_network">Iphutha lenethiwekhi, sicela uhlole ukuthi uxhumekile yini!</string>
+    <string name="video_load_error">Iphutha lokulayisha ividiyo</string>
+    <string name="lock_tip">Sicela uvule isikrini sakho</string>
+    <string name="unlocked">Kuvuliwe</string>
+    <string name="locked">Kukhiyiwe</string>
+    <string name="continue_play">Qhubeka nokudlala</string>
+    <string name="error_message">Iphutha</string>
+    <string name="replay">Dlala kabusha</string>
+    <string name="retry">Zama futhi</string>
+    <string name="net_wifi_tip">Usebenzisa inethiwekhi yeselula.</string>
+    <string name="double_speed">2.0x Isivinini</string>
+    <string name="invalidate_video_resource">Insiza yevidiyo engavumelekile, sicela uzame futhi</string>
+    <string name="play_all_video_finish">Wonke amavidiyo akulokhu okuqukethwe adlaliwe</string>
 </resources>

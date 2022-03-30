@@ -28,7 +28,7 @@
     <string name="saturday">Dé Sathairn</string>
     <string name="sunday">Domhnach</string>
     <string name="rate_us">Ráta Linn</string>
-    <string name="rate_us_tip">Más maith leat sinn, tabhair 5 réalta dúinn le do thoil. </string>
+    <string name="rate_us_tip">Más maith leat sinn, tabhair 5 réalta dúinn le do thoil.</string>
     <string name="here_s_your_5_stars">Cúig réalta moladh ard</string>
     <string name="four_stars">1-4 Réalta</string>
     <string name="privacy_policy">Beartas Príobháideachais</string>
@@ -69,13 +69,13 @@
     <string name="close">Dún</string>
     <string name="squeeze_statistics">Físeáin %d comhbhrúite agus sábháil %s cuimhne</string>
     <string name="please_grant_all_permissions">Tabhair gach cead le do thoil</string>
-    <string name="coder_quality_tips">(Cáilíocht ionchódaithe H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Cáilíocht ionchódaithe H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(tá soiléireacht níos measa mar thoradh ar réiteach níos ísle)</string>
     <string name="failed">theip</string>
     <string name="processing">próiseáil</string>
     <string name="delete_warning">Scrios Rabhadh</string>
     <string name="no_permission">Gan Chead</string>
-    <string name="permission_not_found">Ní leor cead. </string>
+    <string name="permission_not_found">Ní leor cead.</string>
     <string name="quit">Scoir</string>
     <string name="go_setting">Téigh Socrú</string>
     <string name="build_hash">Tóg TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Taisce Glan</string>
     <string name="warning">Rabhadh</string>
     <string name="clear_caches_tips">Ar mhaith leat an comhad taisce a ghlanadh ó do ghuthán go buan?</string>
+    <string name="video_play_error">Earráid athsheinm físe</string>
+    <string name="no_network">Earráid líonra, seiceáil an bhfuil tú ceangailte！</string>
+    <string name="video_load_error">Earráid luchtú físeáin</string>
+    <string name="lock_tip">Díghlasáil do scáileán le do thoil</string>
+    <string name="unlocked">Díghlasáilte</string>
+    <string name="locked">Faoi ghlas</string>
+    <string name="continue_play">Lean ar aghaidh leis an imirt</string>
+    <string name="error_message">Earráid</string>
+    <string name="replay">Athimirt</string>
+    <string name="retry">Bain triail eile as</string>
+    <string name="net_wifi_tip">Tá an líonra soghluaiste in úsáid agat.</string>
+    <string name="double_speed">Luas 2.0x</string>
+    <string name="invalidate_video_resource">Déan acmhainn físeáin neamhbhailí, bain triail eile as, le do thoil</string>
+    <string name="play_all_video_finish">Tá na físeáin go léir san ábhar seo tar éis a sheinm</string>
 </resources>

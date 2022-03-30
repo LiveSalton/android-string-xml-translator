@@ -28,7 +28,7 @@
     <string name="saturday">शनिवार</string>
     <string name="sunday">रविवार</string>
     <string name="rate_us">आम्हाला रेट करा</string>
-    <string name="rate_us_tip">तुम्हाला आम्हाला आवडत असल्यास, कृपया आम्हाला 5 तारे द्या. </string>
+    <string name="rate_us_tip">तुम्हाला आम्हाला आवडत असल्यास, कृपया आम्हाला 5 तारे द्या.</string>
     <string name="here_s_your_5_stars">पंचतारांकित उच्च स्तुती</string>
     <string name="four_stars">1-4 तारा</string>
     <string name="privacy_policy">गोपनीयता धोरण</string>
@@ -69,13 +69,13 @@
     <string name="close">बंद</string>
     <string name="squeeze_statistics">%d व्हिडिओ संकुचित केले आणि %s मेमरी जतन करा</string>
     <string name="please_grant_all_permissions">कृपया सर्व परवानग्या द्या</string>
-    <string name="coder_quality_tips">(एंकोडिंग गुणवत्ता H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(एंकोडिंग गुणवत्ता H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(कमी रिझोल्यूशनमुळे वाईट स्पष्टता येते)</string>
     <string name="failed">अयशस्वी</string>
     <string name="processing">प्रक्रिया करत आहे</string>
     <string name="delete_warning">चेतावणी हटवा</string>
     <string name="no_permission">परवानगी नाही</string>
-    <string name="permission_not_found">परवानगी पुरेशी नाही. </string>
+    <string name="permission_not_found">परवानगी पुरेशी नाही.</string>
     <string name="quit">सोडा</string>
     <string name="go_setting">सेटिंग वर जा</string>
     <string name="build_hash">TAG तयार करा</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">कॅशे साफ करा</string>
     <string name="warning">चेतावणी</string>
     <string name="clear_caches_tips">तुम्‍हाला तुमच्‍या फोनवरून फाइल कॅशे कायमची साफ करायची आहे का?</string>
+    <string name="video_play_error">व्हिडिओ प्लेबॅक त्रुटी</string>
+    <string name="no_network">नेटवर्क एरर, कृपया तुम्ही कनेक्ट आहात का ते तपासा！</string>
+    <string name="video_load_error">व्हिडिओ लोड करताना त्रुटी</string>
+    <string name="lock_tip">कृपया तुमची स्क्रीन अनलॉक करा</string>
+    <string name="unlocked">अनलॉक केले</string>
+    <string name="locked">कुलूपबंद</string>
+    <string name="continue_play">खेळणे सुरू ठेवा</string>
+    <string name="error_message">त्रुटी</string>
+    <string name="replay">रिप्ले करा</string>
+    <string name="retry">पुन्हा प्रयत्न करा</string>
+    <string name="net_wifi_tip">तुम्ही मोबाईल नेटवर्क वापरत आहात.</string>
+    <string name="double_speed">2.0x गती</string>
+    <string name="invalidate_video_resource">व्हिडिओ संसाधन अवैध करा, कृपया पुन्हा प्रयत्न करा</string>
+    <string name="play_all_video_finish">या सामग्रीमधील सर्व व्हिडिओ प्ले झाले आहेत</string>
 </resources>

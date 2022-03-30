@@ -14,6 +14,7 @@ object Translator {
     fun translate(filePath: String, language: Lang) {
         val toTranslateList = getStringXmlData(filePath)
         val savePath = "res/${Languages.getValuesDirectoryName(language)}/strings.xml"
+        var isChange = false
         if (File(savePath).exists()) {
             val translatedList = getStringXmlData(savePath)
             toTranslateList.forEach { left ->
@@ -24,6 +25,7 @@ object Translator {
                     val translatedContent = googleTranslator.translate(left.second, language.code)
                     println("translate:${left.first},$translatedContent")
                     left.second = translatedContent
+                    isChange = true
                 }
             }
         } else {
@@ -32,12 +34,15 @@ object Translator {
                     val translatedContent = googleTranslator.translate(it.second, language.code)
                     println("${it.second}->$translatedContent")
                     it.second = translatedContent
+                    isChange = true
                 } catch (ex: Exception) {
                     //
                 }
             }
         }
-        writeTranslateList(toTranslateList, savePath)
+        if (isChange) {
+            writeTranslateList(toTranslateList, savePath)
+        }
     }
 
     private fun getStringXmlData(filePath: String): MutableList<Pair> {

@@ -28,7 +28,7 @@
     <string name="saturday">Субота</string>
     <string name="sunday">нядзеля</string>
     <string name="rate_us">Ацаніце нас</string>
-    <string name="rate_us_tip">Калі мы вам падабаемся, дайце нам 5 зорак. </string>
+    <string name="rate_us_tip">Калі мы вам падабаемся, дайце нам 5 зорак.</string>
     <string name="here_s_your_5_stars">Пяць зорак высокая адзнака</string>
     <string name="four_stars">1-4 зоркі</string>
     <string name="privacy_policy">Палітыка прыватнасці</string>
@@ -69,13 +69,13 @@
     <string name="close">Закрыць</string>
     <string name="squeeze_statistics">Сціснута %d відэа і зэканоміць памяць %s</string>
     <string name="please_grant_all_permissions">Дайце ўсе дазволы</string>
-    <string name="coder_quality_tips">(Якасць кадавання H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Якасць кадавання H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(ніжэйшае разрозненне прыводзіць да горшай выразнасці)</string>
     <string name="failed">не атрымалася</string>
     <string name="processing">апрацоўка</string>
     <string name="delete_warning">Выдаліць папярэджанне</string>
     <string name="no_permission">Няма дазволу</string>
-    <string name="permission_not_found">Дазволу недастаткова. </string>
+    <string name="permission_not_found">Дазволу недастаткова.</string>
     <string name="quit">Кіньце</string>
     <string name="go_setting">Перайсці да налады</string>
     <string name="build_hash">Пабудаваць TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Ачысціць кэшы</string>
     <string name="warning">Папярэджанне</string>
     <string name="clear_caches_tips">Вы хочаце назаўсёды ачысціць кэш файла з тэлефона?</string>
+    <string name="video_play_error">Памылка прайгравання відэа</string>
+    <string name="no_network">Памылка сеткі, праверце, ці падключаны вы!</string>
+    <string name="video_load_error">Памылка загрузкі відэа</string>
+    <string name="lock_tip">Калі ласка, разблакуйце экран</string>
+    <string name="unlocked">Разблакіраваны</string>
+    <string name="locked">Зачынены</string>
+    <string name="continue_play">Працягвайце гуляць</string>
+    <string name="error_message">Памылка</string>
+    <string name="replay">Паўтор</string>
+    <string name="retry">Паўтарыце спробу</string>
+    <string name="net_wifi_tip">Вы карыстаецеся мабільнай сеткай.</string>
+    <string name="double_speed">2.0x хуткасць</string>
+    <string name="invalidate_video_resource">Несапраўдны відэарэсурс, калі ласка, паспрабуйце яшчэ раз</string>
+    <string name="play_all_video_finish">Усе відэа ў гэтым змесціве прайграна</string>
 </resources>

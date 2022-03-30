@@ -28,7 +28,7 @@
     <string name="saturday">lørdag</string>
     <string name="sunday">Søndag</string>
     <string name="rate_us">Bedøm os</string>
-    <string name="rate_us_tip">Hvis du kan lide os, så giv os venligst 5 stjerner. </string>
+    <string name="rate_us_tip">Hvis du kan lide os, så giv os venligst 5 stjerner.</string>
     <string name="here_s_your_5_stars">Femstjernet stor ros</string>
     <string name="four_stars">1-4 stjerner</string>
     <string name="privacy_policy">Fortrolighedspolitik</string>
@@ -69,13 +69,13 @@
     <string name="close">Tæt</string>
     <string name="squeeze_statistics">Komprimeret %d videoer og gem %s hukommelse</string>
     <string name="please_grant_all_permissions">Giv venligst alle tilladelser</string>
-    <string name="coder_quality_tips">(Kodningskvalitet H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodningskvalitet H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(lavere opløsning resulterer i en dårligere klarhed)</string>
     <string name="failed">mislykkedes</string>
     <string name="processing">forarbejdning</string>
     <string name="delete_warning">Slet advarsel</string>
     <string name="no_permission">Ingen tilladelse</string>
-    <string name="permission_not_found">Tilladelse ikke nok. </string>
+    <string name="permission_not_found">Tilladelse ikke nok.</string>
     <string name="quit">Afslut</string>
     <string name="go_setting">Gå til indstilling</string>
     <string name="build_hash">Byg TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Ryd caches</string>
     <string name="warning">Advarsel</string>
     <string name="clear_caches_tips">Vil du rydde cachen fra din telefon permanent?</string>
+    <string name="video_play_error">Videoafspilningsfejl</string>
+    <string name="no_network">Netværksfejl, tjek venligst om du er tilsluttet!</string>
+    <string name="video_load_error">Fejl ved indlæsning af video</string>
+    <string name="lock_tip">Lås venligst din skærm op</string>
+    <string name="unlocked">Ulåst</string>
+    <string name="locked">Låst</string>
+    <string name="continue_play">Fortsæt med at spille</string>
+    <string name="error_message">Fejl</string>
+    <string name="replay">Genafspilning</string>
+    <string name="retry">Prøve igen</string>
+    <string name="net_wifi_tip">Du bruger mobilnetværket.</string>
+    <string name="double_speed">2,0x hastighed</string>
+    <string name="invalidate_video_resource">Ugyldig videoressource, prøv venligst igen</string>
+    <string name="play_all_video_finish">Alle videoer i dette indhold er blevet afspillet</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="saturday">sâmbătă</string>
     <string name="sunday">duminică</string>
     <string name="rate_us">Ne evalua</string>
-    <string name="rate_us_tip">Dacă vă place de noi, vă rugăm să ne acordați 5 stele. </string>
+    <string name="rate_us_tip">Dacă vă place de noi, vă rugăm să ne acordați 5 stele.</string>
     <string name="here_s_your_5_stars">Laude de cinci stele</string>
     <string name="four_stars">1-4 stele</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
@@ -69,13 +69,13 @@
     <string name="close">Închide</string>
     <string name="squeeze_statistics">S-au comprimat %d videoclipuri și salvează %s memorie</string>
     <string name="please_grant_all_permissions">Vă rugăm să acordați toate permisiunile</string>
-    <string name="coder_quality_tips">(Calitate codificare H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Calitate codificare H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(rezoluția mai mică are ca rezultat o claritate mai slabă)</string>
     <string name="failed">a eșuat</string>
     <string name="processing">prelucrare</string>
     <string name="delete_warning">Ștergeți avertismentul</string>
     <string name="no_permission">Fara permisiune</string>
-    <string name="permission_not_found">Permisiunea nu este suficientă. </string>
+    <string name="permission_not_found">Permisiunea nu este suficientă.</string>
     <string name="quit">Părăsi</string>
     <string name="go_setting">Du-te la Setare</string>
     <string name="build_hash">Creați TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Ștergeți memoria cache</string>
     <string name="warning">Avertizare</string>
     <string name="clear_caches_tips">Doriți să ștergeți definitiv fișierul cache din telefonul dvs.?</string>
+    <string name="video_play_error">Eroare de redare video</string>
+    <string name="no_network">Eroare de rețea, vă rugăm să verificați dacă sunteți conectat!</string>
+    <string name="video_load_error">Eroare la încărcarea videoclipului</string>
+    <string name="lock_tip">Vă rugăm să deblocați ecranul</string>
+    <string name="unlocked">Deblocat</string>
+    <string name="locked">Blocat</string>
+    <string name="continue_play">Continuați jocul</string>
+    <string name="error_message">Eroare</string>
+    <string name="replay">Reluare</string>
+    <string name="retry">Reîncercați</string>
+    <string name="net_wifi_tip">Utilizați rețeaua mobilă.</string>
+    <string name="double_speed">Viteza de 2,0x</string>
+    <string name="invalidate_video_resource">Invalidați resursa video, vă rugăm să încercați din nou</string>
+    <string name="play_all_video_finish">Toate videoclipurile din acest conținut au fost redate</string>
 </resources>

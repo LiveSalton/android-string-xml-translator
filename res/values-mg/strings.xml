@@ -28,7 +28,7 @@
     <string name="saturday">Asabotsy</string>
     <string name="sunday">ALAHADY</string>
     <string name="rate_us">Hamarino izahay</string>
-    <string name="rate_us_tip">Raha tianao izahay dia omeo kintana 5 izahay. </string>
+    <string name="rate_us_tip">Raha tianao izahay dia omeo kintana 5 izahay.</string>
     <string name="here_s_your_5_stars">Fiderana ambony kintana dimy</string>
     <string name="four_stars">1-4 Kintana</string>
     <string name="privacy_policy">Politika Fiarovana fiainan\'olona</string>
@@ -69,13 +69,13 @@
     <string name="close">AKAIKY</string>
     <string name="squeeze_statistics">Horonantsary %d voaporitra ary mitahiry fahatsiarovana %s</string>
     <string name="please_grant_all_permissions">Omeo ny alalana rehetra azafady</string>
-    <string name="coder_quality_tips">(Kalitao famandrihana H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kalitao famandrihana H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(Ny fanapahan-kevitra ambany kokoa dia miteraka mazava kokoa)</string>
     <string name="failed">tsy nahomby</string>
     <string name="processing">fanodinana</string>
     <string name="delete_warning">Fafao ny fampitandremana</string>
     <string name="no_permission">Tsy misy alalana</string>
-    <string name="permission_not_found">Tsy ampy ny alalana. </string>
+    <string name="permission_not_found">Tsy ampy ny alalana.</string>
     <string name="quit">Mialà</string>
     <string name="go_setting">Mandehana Setting</string>
     <string name="build_hash">Manangana TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Fadio ny cache</string>
     <string name="warning">FAMPITANDREMANA</string>
     <string name="clear_caches_tips">Te-hamafa ny cache amin\'ny findainao mandrakizay ve ianao?</string>
+    <string name="video_play_error">Hadisoana famerenan-dahatsary</string>
+    <string name="no_network">Error amin'ny tambajotra, azafady jereo raha mifandray ianao!</string>
+    <string name="video_load_error">Error amin'ny fandefasana horonan-tsary</string>
+    <string name="lock_tip">Azafady sokafy ny efijery anao</string>
+    <string name="unlocked">nanokatra</string>
+    <string name="locked">Mihidy</string>
+    <string name="continue_play">Tohizo ny lalao</string>
+    <string name="error_message">fahadisoana</string>
+    <string name="replay">Famerenana</string>
+    <string name="retry">Hanandrana indray</string>
+    <string name="net_wifi_tip">Mampiasa ny tambajotra finday ianao.</string>
+    <string name="double_speed">2.0x hafainganam-pandeha</string>
+    <string name="invalidate_video_resource">Foana ny loharanon-dahatsary, andramo indray azafady</string>
+    <string name="play_all_video_finish">Ny horonan-tsary rehetra amin'ity atiny ity dia efa nilalao</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="saturday">සෙනසුරාදා</string>
     <string name="sunday">ඉරිදා</string>
     <string name="rate_us">අපිව අගය කරන්න</string>
-    <string name="rate_us_tip">ඔබ අපට කැමති නම්, කරුණාකර අපට තරු 5ක් ලබා දෙන්න. </string>
+    <string name="rate_us_tip">ඔබ අපට කැමති නම්, කරුණාකර අපට තරු 5ක් ලබා දෙන්න.</string>
     <string name="here_s_your_5_stars">තරු පහේ ඉහළ ප්‍රශංසාව</string>
     <string name="four_stars">1-4 තරු</string>
     <string name="privacy_policy">රහස්යතා ප්රතිපත්තිය</string>
@@ -69,13 +69,13 @@
     <string name="close">වසන්න</string>
     <string name="squeeze_statistics">සම්පීඩිත වීඩියෝ %d සහ %s මතකය සුරකින්න</string>
     <string name="please_grant_all_permissions">කරුණාකර සියලු අවසර ලබා දෙන්න</string>
-    <string name="coder_quality_tips">(කේතන ගුණත්වය H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(කේතන ගුණත්වය H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(අඩු විභේදනය නරක පැහැදිලි බවක් ඇති කරයි)</string>
     <string name="failed">අසාර්ථක විය</string>
     <string name="processing">සැකසීම</string>
     <string name="delete_warning">අනතුරු ඇඟවීම මකන්න</string>
     <string name="no_permission">අවසර නැත</string>
-    <string name="permission_not_found">අවසරය මදි. </string>
+    <string name="permission_not_found">අවසරය මදි.</string>
     <string name="quit">ඉවත්</string>
     <string name="go_setting">සැකසීමට යන්න</string>
     <string name="build_hash">TAG සාදන්න</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">හැඹිලි හිස් කරන්න</string>
     <string name="warning">අවවාදයයි</string>
     <string name="clear_caches_tips">ඔබට ඔබගේ දුරකථනයෙන් ගොනුව ස්ථිරවම හැඹිලි ඉවත් කිරීමට අවශ්‍යද?</string>
+    <string name="video_play_error">වීඩියෝ නැවත ධාවනය කිරීමේ දෝෂයකි</string>
+    <string name="no_network">ජාල දෝෂයක්, කරුණාකර ඔබ සම්බන්ධ වී ඇත්දැයි පරීක්ෂා කරන්න!</string>
+    <string name="video_load_error">වීඩියෝ පැටවීමේ දෝෂයකි</string>
+    <string name="lock_tip">කරුණාකර ඔබගේ තිරය අගුළු හරින්න</string>
+    <string name="unlocked">අගුලු හරින ලදී</string>
+    <string name="locked">අගුලු දමා ඇත</string>
+    <string name="continue_play">දිගටම සෙල්ලම් කරන්න</string>
+    <string name="error_message">දෝෂයකි</string>
+    <string name="replay">නැවත ධාවනය කරන්න</string>
+    <string name="retry">නැවත උත්සාහ කරන්න</string>
+    <string name="net_wifi_tip">ඔබ ජංගම ජාලය භාවිතා කරයි.</string>
+    <string name="double_speed">2.0x වේගය</string>
+    <string name="invalidate_video_resource">වීඩියෝ සම්පත අවලංගු කරන්න, කරුණාකර නැවත උත්සාහ කරන්න</string>
+    <string name="play_all_video_finish">මෙම අන්තර්ගතයේ සියලුම වීඩියෝ වාදනය වී ඇත</string>
 </resources>

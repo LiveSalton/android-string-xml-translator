@@ -28,7 +28,7 @@
     <string name="saturday">lördag</string>
     <string name="sunday">söndag</string>
     <string name="rate_us">Gradera oss</string>
-    <string name="rate_us_tip">Om du gillar oss, vänligen ge oss 5 stjärnor. </string>
+    <string name="rate_us_tip">Om du gillar oss, vänligen ge oss 5 stjärnor.</string>
     <string name="here_s_your_5_stars">Femstjärnigt högt beröm</string>
     <string name="four_stars">1-4 stjärnor</string>
     <string name="privacy_policy">Integritetspolicy</string>
@@ -69,13 +69,13 @@
     <string name="close">Stänga</string>
     <string name="squeeze_statistics">Komprimerade %d videor och spara %s minne</string>
     <string name="please_grant_all_permissions">Vänligen ge alla behörigheter</string>
-    <string name="coder_quality_tips">(Kodningskvalitet H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodningskvalitet H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(lägre upplösning ger sämre klarhet)</string>
     <string name="failed">misslyckades</string>
     <string name="processing">bearbetning</string>
     <string name="delete_warning">Ta bort Varning</string>
     <string name="no_permission">Inget tillstånd</string>
-    <string name="permission_not_found">Tillstånd inte tillräckligt. </string>
+    <string name="permission_not_found">Tillstånd inte tillräckligt.</string>
     <string name="quit">Sluta</string>
     <string name="go_setting">Gå till Inställning</string>
     <string name="build_hash">Bygg TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Rensa cacher</string>
     <string name="warning">Varning</string>
     <string name="clear_caches_tips">Vill du rensa cacheminnet av filen från din telefon permanent?</string>
+    <string name="video_play_error">Videouppspelningsfel</string>
+    <string name="no_network">Nätverksfel, kontrollera om du är ansluten!</string>
+    <string name="video_load_error">Videoladdningsfel</string>
+    <string name="lock_tip">Lås upp din skärm</string>
+    <string name="unlocked">Olåst</string>
+    <string name="locked">Låst</string>
+    <string name="continue_play">Fortsätt spela</string>
+    <string name="error_message">Fel</string>
+    <string name="replay">Repris</string>
+    <string name="retry">Försök igen</string>
+    <string name="net_wifi_tip">Du använder mobilnätet.</string>
+    <string name="double_speed">2,0x hastighet</string>
+    <string name="invalidate_video_resource">Ogiltigförklara videoresursen, försök igen</string>
+    <string name="play_all_video_finish">Alla videor i detta innehåll har spelats upp</string>
 </resources>

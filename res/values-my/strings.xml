@@ -28,7 +28,7 @@
     <string name="saturday">စနေနေ့</string>
     <string name="sunday">တနင်္ဂနွေ</string>
     <string name="rate_us">အဆင့်သတ်မှတ်ပေးပါ</string>
-    <string name="rate_us_tip">ငါတို့ကိုကြိုက်တယ်ဆိုရင် ကြယ် 5 ပွင့်ပေးပါ။ </string>
+    <string name="rate_us_tip">ငါတို့ကိုကြိုက်တယ်ဆိုရင် ကြယ် 5 ပွင့်ပေးပါ။</string>
     <string name="here_s_your_5_stars">ကြယ်ငါးပွင့်ချီးမြင့်သည်။</string>
     <string name="four_stars">1-4 ကြယ်ပွင့်</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
@@ -69,13 +69,13 @@
     <string name="close">ပိတ်လိုက်</string>
     <string name="squeeze_statistics">ဗီဒီယို %d ခုကို ချုံ့ပြီး %s မှတ်ဉာဏ်ကို သိမ်းဆည်းပါ။</string>
     <string name="please_grant_all_permissions">ကျေးဇူးပြု၍ ခွင့်ပြုချက်အားလုံးကို ပေးပါ။</string>
-    <string name="coder_quality_tips">(ကုဒ်ပြောင်းခြင်း အရည်အသွေး H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(ကုဒ်ပြောင်းခြင်း အရည်အသွေး H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(ကြည်လင်ပြတ်သားမှု နည်းပါးခြင်းက ပိုမိုရှင်းလင်းပြတ်သားမှုကို ဖြစ်စေသည်)</string>
     <string name="failed">မအောင်မြင်</string>
     <string name="processing">လုပ်ဆောင်နေသည်</string>
     <string name="delete_warning">သတိပေးချက် ဖျက်ပါ။</string>
     <string name="no_permission">ခွင့်မပြုပါ။</string>
-    <string name="permission_not_found">ခွင့်ပြုချက်မလုံလောက်ပါ။ </string>
+    <string name="permission_not_found">ခွင့်ပြုချက်မလုံလောက်ပါ။</string>
     <string name="quit">ထွက်သည်</string>
     <string name="go_setting">Setting ကိုသွားပါ။</string>
     <string name="build_hash">TAG တည်ဆောက်ပါ။</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">ကက်ရှ်များကို ရှင်းလင်းပါ။</string>
     <string name="warning">သတိပေးချက်</string>
     <string name="clear_caches_tips">သင့်ဖုန်းမှ ကက်ရှ်ဖိုင်ကို အပြီးတိုင်ရှင်းလင်းလိုပါသလား။</string>
+    <string name="video_play_error">ဗီဒီယိုဖွင့်ရာတွင် အမှားအယွင်းရှိသည်။</string>
+    <string name="no_network">ကွန်ရက် အမှားအယွင်း ရှိ၊ မရှိ စစ်ဆေးပါ။</string>
+    <string name="video_load_error">ဗီဒီယိုတင်ရာတွင် အမှားအယွင်းရှိသည်။</string>
+    <string name="lock_tip">သင့်မျက်နှာပြင်ကို လော့ခ်ဖွင့်ပါ။</string>
+    <string name="unlocked">သော့ဖွင့်ထားသည်။</string>
+    <string name="locked">သော့ခတ်ထားသည်။</string>
+    <string name="continue_play">ဆက်ကစားပါ။</string>
+    <string name="error_message">အမှား</string>
+    <string name="replay">ပြန်ဖွင့်သည်။</string>
+    <string name="retry">ပြန်ကြိုးစားပါ။</string>
+    <string name="net_wifi_tip">သင်သည် မိုဘိုင်းကွန်ရက်ကို အသုံးပြုနေပါသည်။</string>
+    <string name="double_speed">2.0x မြန်နှုန်း</string>
+    <string name="invalidate_video_resource">ဗီဒီယိုရင်းမြစ်ကို မမှန်ကန်ပါ၊ ကျေးဇူးပြု၍ ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="play_all_video_finish">ဤအကြောင်းအရာရှိ ဗီဒီယိုအားလုံးသည် ပြီးဆုံးသွားပါပြီ။</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="saturday">Sabatu</string>
     <string name="sunday">Dumenica</string>
     <string name="rate_us">Valutaci</string>
-    <string name="rate_us_tip">Se ti piace noi, dammi 5 stelle. </string>
+    <string name="rate_us_tip">Se ti piace noi, dammi 5 stelle.</string>
     <string name="here_s_your_5_stars">Elogi à cinque stelle</string>
     <string name="four_stars">1-4 stelle</string>
     <string name="privacy_policy">Pulitica di privacy</string>
@@ -69,13 +69,13 @@
     <string name="close">Chiudi</string>
     <string name="squeeze_statistics">Cumpressu %d video è salvà %s memoria</string>
     <string name="please_grant_all_permissions">Per piacè cuncede tutti i permessi</string>
-    <string name="coder_quality_tips">(Qualità di codificazione H265> H264> MPEG)</string>
+    <string name="coder_quality_tips">(Qualità di codificazione H265&gt; H264&gt; MPEG)</string>
     <string name="density_quality_tips">(una risoluzione più bassa si traduce in una peor chiarezza)</string>
     <string name="failed">fiascatu</string>
     <string name="processing">trasfurmazioni</string>
     <string name="delete_warning">Elimina l\'Avvertimentu</string>
     <string name="no_permission">Nisun permessu</string>
-    <string name="permission_not_found">U permessu ùn hè micca abbastanza. </string>
+    <string name="permission_not_found">U permessu ùn hè micca abbastanza.</string>
     <string name="quit">Lascia</string>
     <string name="go_setting">Vai a paràmetra</string>
     <string name="build_hash">Custruisce TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Sguassà i cache</string>
     <string name="warning">Attenzione</string>
     <string name="clear_caches_tips">Vulete sguassà cache u schedariu da u vostru telefunu permanentemente?</string>
+    <string name="video_play_error">Errore di riproduzione di video</string>
+    <string name="no_network">Errore di rete, verificate se site cunnessu!</string>
+    <string name="video_load_error">Errore di carica di video</string>
+    <string name="lock_tip">Per piacè sbloccate u vostru schermu</string>
+    <string name="unlocked">Sbloccatu</string>
+    <string name="locked">Chjosu</string>
+    <string name="continue_play">Cuntinuà à ghjucà</string>
+    <string name="error_message">Errore</string>
+    <string name="replay">Replay</string>
+    <string name="retry">Riprova</string>
+    <string name="net_wifi_tip">Aduprate a reta mobile.</string>
+    <string name="double_speed">2.0x velocità</string>
+    <string name="invalidate_video_resource">Invalidate a risorsa video, per piacè pruvate di novu</string>
+    <string name="play_all_video_finish">Tutti i video in stu cuntenutu sò ghjucati</string>
 </resources>

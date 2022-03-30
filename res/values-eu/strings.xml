@@ -28,7 +28,7 @@
     <string name="saturday">Larunbata</string>
     <string name="sunday">Igandea</string>
     <string name="rate_us">Baloratu gaitzazu</string>
-    <string name="rate_us_tip">Gustatzen bazaizu, mesedez, eman 5 izar. </string>
+    <string name="rate_us_tip">Gustatzen bazaizu, mesedez, eman 5 izar.</string>
     <string name="here_s_your_5_stars">Bost izarreko laudorio handia</string>
     <string name="four_stars">1-4 izar</string>
     <string name="privacy_policy">Pribatutasun politika</string>
@@ -69,13 +69,13 @@
     <string name="close">Itxi</string>
     <string name="squeeze_statistics">%d bideo konprimitu eta %s memoria gorde</string>
     <string name="please_grant_all_permissions">Mesedez, eman baimen guztiak</string>
-    <string name="coder_quality_tips">(Kodeketaren kalitatea H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodeketaren kalitatea H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(bereizmen txikiagoak argitasun okerragoa dakar)</string>
     <string name="failed">huts egin zuen</string>
     <string name="processing">prozesatzea</string>
     <string name="delete_warning">Ezabatu abisua</string>
     <string name="no_permission">Baimenik ez</string>
-    <string name="permission_not_found">Baimena ez da nahikoa. </string>
+    <string name="permission_not_found">Baimena ez da nahikoa.</string>
     <string name="quit">Irten</string>
     <string name="go_setting">Joan Ezarpenak</string>
     <string name="build_hash">Eraiki TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Garbitu cacheak</string>
     <string name="warning">Abisua</string>
     <string name="clear_caches_tips">Telefonoko fitxategia betirako garbitu nahi duzu cacheak?</string>
+    <string name="video_play_error">Bideoa erreproduzitzeko errorea</string>
+    <string name="no_network">Sareko errorea, egiaztatu konektatuta zauden!</string>
+    <string name="video_load_error">Bideoa kargatzean</string>
+    <string name="lock_tip">Mesedez, desblokeatu pantaila</string>
+    <string name="unlocked">Desblokeatua</string>
+    <string name="locked">Blokeatua</string>
+    <string name="continue_play">Jarraitu jolasten</string>
+    <string name="error_message">Errorea</string>
+    <string name="replay">Erreprodukzioa</string>
+    <string name="retry">Saiatu berriro</string>
+    <string name="net_wifi_tip">Sare mugikorra erabiltzen ari zara.</string>
+    <string name="double_speed">2.0x abiadura</string>
+    <string name="invalidate_video_resource">Baliogabetu bideo-baliabidea, saiatu berriro</string>
+    <string name="play_all_video_finish">Eduki honetako bideo guztiak erreproduzitu dira</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="saturday">Samschdeg</string>
     <string name="sunday">Sonndeg</string>
     <string name="rate_us">Bewäert eis</string>
-    <string name="rate_us_tip">Wann Dir eis gär hutt, gitt eis w.e.g. 5 Stären. </string>
+    <string name="rate_us_tip">Wann Dir eis gär hutt, gitt eis w.e.g. 5 Stären.</string>
     <string name="here_s_your_5_stars">Fënnef Stär héich luewen</string>
     <string name="four_stars">1-4 Stären</string>
     <string name="privacy_policy">Privatsphär Politik</string>
@@ -69,13 +69,13 @@
     <string name="close">Zoumaachen</string>
     <string name="squeeze_statistics">Kompriméiert %d Videoen a späichert %s Erënnerung</string>
     <string name="please_grant_all_permissions">Gitt w.e.g. all Permissiounen</string>
-    <string name="coder_quality_tips">(Kodéierungsqualitéit H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodéierungsqualitéit H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(méi niddereg Opléisung féiert zu enger méi schlechter Kloerheet)</string>
     <string name="failed">gescheitert</string>
     <string name="processing">Veraarbechtung</string>
     <string name="delete_warning">Läschen Warnung</string>
     <string name="no_permission">Keng Erlaabnis</string>
-    <string name="permission_not_found">Erlaabnis net genuch. </string>
+    <string name="permission_not_found">Erlaabnis net genuch.</string>
     <string name="quit">Gitt op</string>
     <string name="go_setting">Go Setting</string>
     <string name="build_hash">Bauen TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Cache läschen</string>
     <string name="warning">Warnung</string>
     <string name="clear_caches_tips">Wëllt Dir de Cache vun Ärem Telefon permanent läschen?</string>
+    <string name="video_play_error">Video Playback Feeler</string>
+    <string name="no_network">Netzwierkfehler, kontrolléiert w.e.g. ob Dir verbonne sidd!</string>
+    <string name="video_load_error">Video Luede Feeler</string>
+    <string name="lock_tip">Spär w.e.g. Ären Écran op</string>
+    <string name="unlocked">Opgespaart</string>
+    <string name="locked">Spär</string>
+    <string name="continue_play">Spill weider</string>
+    <string name="error_message">Feeler</string>
+    <string name="replay">Replay</string>
+    <string name="retry">Nach eng Kéier probéieren</string>
+    <string name="net_wifi_tip">Dir benotzt de mobilen Netzwierk.</string>
+    <string name="double_speed">2.0x Geschwindegkeet</string>
+    <string name="invalidate_video_resource">Videoressource ongëlteg, probéiert w.e.g. nach eng Kéier</string>
+    <string name="play_all_video_finish">All d'Videoen an dësem Inhalt hu gespillt iwwer</string>
 </resources>

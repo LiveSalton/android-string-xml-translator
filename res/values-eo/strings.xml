@@ -28,7 +28,7 @@
     <string name="saturday">sabato</string>
     <string name="sunday">dimanĉo</string>
     <string name="rate_us">Taksi nin</string>
-    <string name="rate_us_tip">Se vi ŝatas nin, bonvolu doni al ni 5 stelojn. </string>
+    <string name="rate_us_tip">Se vi ŝatas nin, bonvolu doni al ni 5 stelojn.</string>
     <string name="here_s_your_5_stars">Kvinstelo alta laŭdo</string>
     <string name="four_stars">1-4 Stelo</string>
     <string name="privacy_policy">Privateca politiko</string>
@@ -69,13 +69,13 @@
     <string name="close">Fermu</string>
     <string name="squeeze_statistics">Kunpremis %d filmetojn kaj ŝparu %s memoron</string>
     <string name="please_grant_all_permissions">Bonvolu doni ĉiujn permesojn</string>
-    <string name="coder_quality_tips">(Kodiga kvalito H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kodiga kvalito H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(pli malalta rezolucio rezultigas pli malbonan klarecon)</string>
     <string name="failed">malsukcesis</string>
     <string name="processing">prilaborado</string>
     <string name="delete_warning">Forigi Averton</string>
     <string name="no_permission">Neniu Permeso</string>
-    <string name="permission_not_found">Permeso ne sufiĉas. </string>
+    <string name="permission_not_found">Permeso ne sufiĉas.</string>
     <string name="quit">Forlasu</string>
     <string name="go_setting">Iru Agordo</string>
     <string name="build_hash">Konstruu TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Forigi Kaŝmemorojn</string>
     <string name="warning">Averto</string>
     <string name="clear_caches_tips">Ĉu vi volas forigi kaŝmemorojn la dosieron de via telefono konstante?</string>
+    <string name="video_play_error">Eraro pri reprodukto de video</string>
+    <string name="no_network">Reta eraro, bonvolu kontroli ĉu vi estas konektita!</string>
+    <string name="video_load_error">Eraro de ŝarĝo de video</string>
+    <string name="lock_tip">Bonvolu malŝlosi vian ekranon</string>
+    <string name="unlocked">Malŝlosita</string>
+    <string name="locked">Ŝlosita</string>
+    <string name="continue_play">Daŭrigu ludadon</string>
+    <string name="error_message">Eraro</string>
+    <string name="replay">Ripeto</string>
+    <string name="retry">Reprovi</string>
+    <string name="net_wifi_tip">Vi uzas la moveblan reton.</string>
+    <string name="double_speed">2.0x Rapido</string>
+    <string name="invalidate_video_resource">Malvalidigu videorimedon, bonvolu provi denove</string>
+    <string name="play_all_video_finish">Ĉiuj videoj en ĉi tiu enhavo finiĝis</string>
 </resources>

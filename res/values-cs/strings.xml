@@ -28,7 +28,7 @@
     <string name="saturday">sobota</string>
     <string name="sunday">Neděle</string>
     <string name="rate_us">Ohodnoťte nás</string>
-    <string name="rate_us_tip">Pokud se vám líbíme, dejte nám 5 hvězdiček. </string>
+    <string name="rate_us_tip">Pokud se vám líbíme, dejte nám 5 hvězdiček.</string>
     <string name="here_s_your_5_stars">Pět hvězdiček vysoká pochvala</string>
     <string name="four_stars">1-4 hvězdičky</string>
     <string name="privacy_policy">Zásady ochrany osobních údajů</string>
@@ -69,13 +69,13 @@
     <string name="close">Zavřít</string>
     <string name="squeeze_statistics">Zkomprimováno %d videí a ušetřeno %s paměti</string>
     <string name="please_grant_all_permissions">Udělte prosím všechna oprávnění</string>
-    <string name="coder_quality_tips">(Kvalita kódování H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kvalita kódování H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(nižší rozlišení má za následek horší jasnost)</string>
     <string name="failed">nepodařilo</string>
     <string name="processing">zpracovává se</string>
     <string name="delete_warning">Smazat varování</string>
     <string name="no_permission">Bez povolení</string>
-    <string name="permission_not_found">Povolení nestačí. </string>
+    <string name="permission_not_found">Povolení nestačí.</string>
     <string name="quit">Přestat</string>
     <string name="go_setting">Přejít na nastavení</string>
     <string name="build_hash">Sestavte TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Vymazat mezipaměti</string>
     <string name="warning">Varování</string>
     <string name="clear_caches_tips">Chcete trvale vymazat mezipaměť souboru z telefonu?</string>
+    <string name="video_play_error">Chyba přehrávání videa</string>
+    <string name="no_network">Chyba sítě, zkontrolujte, zda jste připojeni!</string>
+    <string name="video_load_error">Chyba při načítání videa</string>
+    <string name="lock_tip">Odemkněte prosím obrazovku</string>
+    <string name="unlocked">Odemčený</string>
+    <string name="locked">Zamčeno</string>
+    <string name="continue_play">Pokračujte ve hře</string>
+    <string name="error_message">Chyba</string>
+    <string name="replay">Přehrát</string>
+    <string name="retry">Zkuste to znovu</string>
+    <string name="net_wifi_tip">Používáte mobilní síť.</string>
+    <string name="double_speed">2,0x rychlost</string>
+    <string name="invalidate_video_resource">Zrušte platnost zdroje videa, zkuste to znovu</string>
+    <string name="play_all_video_finish">Všechna videa v tomto obsahu byla přehrána</string>
 </resources>

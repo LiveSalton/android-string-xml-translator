@@ -28,7 +28,7 @@
     <string name="saturday">শনিবার</string>
     <string name="sunday">রবিবার</string>
     <string name="rate_us">আমাদের ব্যাপারে আপনার মতামত দিন</string>
-    <string name="rate_us_tip">আপনি যদি আমাদের পছন্দ করেন, দয়া করে আমাদের 5 তারা দিন। </string>
+    <string name="rate_us_tip">আপনি যদি আমাদের পছন্দ করেন, দয়া করে আমাদের 5 তারা দিন।</string>
     <string name="here_s_your_5_stars">পাঁচ তারকা উচ্চ প্রশংসা</string>
     <string name="four_stars">1-4 স্টার</string>
     <string name="privacy_policy">গোপনীয়তা নীতি</string>
@@ -69,13 +69,13 @@
     <string name="close">বন্ধ</string>
     <string name="squeeze_statistics">%d ভিডিও সংকুচিত করুন এবং %s মেমরি সংরক্ষণ করুন</string>
     <string name="please_grant_all_permissions">অনুগ্রহ করে সকল অনুমতি দিন</string>
-    <string name="coder_quality_tips">(এনকোডিং গুণমান H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(এনকোডিং গুণমান H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(নিম্ন রেজোলিউশনের ফলে আরও খারাপ স্পষ্টতা)</string>
     <string name="failed">ব্যর্থ</string>
     <string name="processing">প্রক্রিয়াকরণ</string>
     <string name="delete_warning">সতর্কতা মুছুন</string>
     <string name="no_permission">অনুমতি নেই</string>
-    <string name="permission_not_found">অনুমতি যথেষ্ট নয়। </string>
+    <string name="permission_not_found">অনুমতি যথেষ্ট নয়।</string>
     <string name="quit">প্রস্থান করুন</string>
     <string name="go_setting">সেটিং এ যান</string>
     <string name="build_hash">TAG তৈরি করুন</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">ক্যাশে সাফ করুন</string>
     <string name="warning">সতর্কতা</string>
     <string name="clear_caches_tips">আপনি কি স্থায়ীভাবে আপনার ফোন থেকে ফাইল ক্যাশে সাফ করতে চান?</string>
+    <string name="video_play_error">ভিডিও প্লেব্যাক ত্রুটি</string>
+    <string name="no_network">নেটওয়ার্ক ত্রুটি, আপনি সংযুক্ত কিনা চেক করুন!</string>
+    <string name="video_load_error">ভিডিও লোডিং ত্রুটি৷</string>
+    <string name="lock_tip">আপনার স্ক্রীন আনলক করুন</string>
+    <string name="unlocked">আনলক করা হয়েছে</string>
+    <string name="locked">তালাবদ্ধ</string>
+    <string name="continue_play">খেলা চালিয়ে যান</string>
+    <string name="error_message">ত্রুটি</string>
+    <string name="replay">আবার দেখাও</string>
+    <string name="retry">পুনরায় চেষ্টা করা</string>
+    <string name="net_wifi_tip">আপনি মোবাইল নেটওয়ার্ক ব্যবহার করছেন।</string>
+    <string name="double_speed">2.0x গতি</string>
+    <string name="invalidate_video_resource">ভিডিও সংস্থান অবৈধ করুন, অনুগ্রহ করে আবার চেষ্টা করুন</string>
+    <string name="play_all_video_finish">এই বিষয়বস্তুর সমস্ত ভিডিও শেষ হয়ে গেছে</string>
 </resources>

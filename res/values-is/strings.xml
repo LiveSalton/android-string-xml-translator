@@ -28,7 +28,7 @@
     <string name="saturday">laugardag</string>
     <string name="sunday">sunnudag</string>
     <string name="rate_us">Gefðu okkur einkunn</string>
-    <string name="rate_us_tip">Ef þér líkar við okkur, vinsamlegast gefðu okkur 5 stjörnur. </string>
+    <string name="rate_us_tip">Ef þér líkar við okkur, vinsamlegast gefðu okkur 5 stjörnur.</string>
     <string name="here_s_your_5_stars">Fimm stjörnu mikið lof</string>
     <string name="four_stars">1-4 stjörnur</string>
     <string name="privacy_policy">Friðhelgisstefna</string>
@@ -69,13 +69,13 @@
     <string name="close">Loka</string>
     <string name="squeeze_statistics">Þjappað %d myndskeið og vistaðu %s minni</string>
     <string name="please_grant_all_permissions">Vinsamlegast veittu allar heimildir</string>
-    <string name="coder_quality_tips">(Kóðunargæði H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(Kóðunargæði H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(lægri upplausn leiðir til verri skýrleika)</string>
     <string name="failed">mistókst</string>
     <string name="processing">vinnslu</string>
     <string name="delete_warning">Eyða viðvörun</string>
     <string name="no_permission">Ekkert leyfi</string>
-    <string name="permission_not_found">Leyfi ekki nóg. </string>
+    <string name="permission_not_found">Leyfi ekki nóg.</string>
     <string name="quit">Hætta</string>
     <string name="go_setting">Farðu í stillingar</string>
     <string name="build_hash">Byggja TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Hreinsaðu skyndiminni</string>
     <string name="warning">Viðvörun</string>
     <string name="clear_caches_tips">Viltu hreinsa skyndiminni skrána úr símanum þínum varanlega?</string>
+    <string name="video_play_error">Villa við spilun myndbands</string>
+    <string name="no_network">Netvilla, vinsamlegast athugaðu hvort þú sért tengdur！</string>
+    <string name="video_load_error">Villa við hleðslu myndbands</string>
+    <string name="lock_tip">Vinsamlegast opnaðu skjáinn þinn</string>
+    <string name="unlocked">Ólæst</string>
+    <string name="locked">Læst</string>
+    <string name="continue_play">Haltu áfram að spila</string>
+    <string name="error_message">Villa</string>
+    <string name="replay">Endurspilun</string>
+    <string name="retry">Reyndu aftur</string>
+    <string name="net_wifi_tip">Þú ert að nota farsímakerfið.</string>
+    <string name="double_speed">2,0x hraði</string>
+    <string name="invalidate_video_resource">Ógilda myndefni, vinsamlegast reyndu aftur</string>
+    <string name="play_all_video_finish">Öll myndskeiðin í þessu efni hafa verið spiluð</string>
 </resources>

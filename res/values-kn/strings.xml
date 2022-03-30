@@ -28,7 +28,7 @@
     <string name="saturday">ಶನಿವಾರ</string>
     <string name="sunday">ಭಾನುವಾರ</string>
     <string name="rate_us">ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ</string>
-    <string name="rate_us_tip">ನೀವು ನಮ್ಮನ್ನು ಇಷ್ಟಪಟ್ಟರೆ, ದಯವಿಟ್ಟು ನಮಗೆ 5 ನಕ್ಷತ್ರಗಳನ್ನು ನೀಡಿ. </string>
+    <string name="rate_us_tip">ನೀವು ನಮ್ಮನ್ನು ಇಷ್ಟಪಟ್ಟರೆ, ದಯವಿಟ್ಟು ನಮಗೆ 5 ನಕ್ಷತ್ರಗಳನ್ನು ನೀಡಿ.</string>
     <string name="here_s_your_5_stars">ಪಂಚತಾರಾ ಉನ್ನತ ಪ್ರಶಂಸೆ</string>
     <string name="four_stars">1-4 ನಕ್ಷತ್ರ</string>
     <string name="privacy_policy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
@@ -69,13 +69,13 @@
     <string name="close">ಮುಚ್ಚಿ</string>
     <string name="squeeze_statistics">%d ವೀಡಿಯೊಗಳನ್ನು ಸಂಕುಚಿತಗೊಳಿಸಲಾಗಿದೆ ಮತ್ತು %s ಮೆಮೊರಿಯನ್ನು ಉಳಿಸಿ</string>
     <string name="please_grant_all_permissions">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಅನುಮತಿಗಳನ್ನು ನೀಡಿ</string>
-    <string name="coder_quality_tips">(ಎನ್ಕೋಡಿಂಗ್ ಗುಣಮಟ್ಟ H265 > H264 > MPEG)</string>
+    <string name="coder_quality_tips">(ಎನ್ಕೋಡಿಂಗ್ ಗುಣಮಟ್ಟ H265 &gt; H264 &gt; MPEG)</string>
     <string name="density_quality_tips">(ಕಡಿಮೆ ರೆಸಲ್ಯೂಶನ್ ಕೆಟ್ಟ ಸ್ಪಷ್ಟತೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ)</string>
     <string name="failed">ವಿಫಲವಾಯಿತು</string>
     <string name="processing">ಸಂಸ್ಕರಣೆ</string>
     <string name="delete_warning">ಎಚ್ಚರಿಕೆ ಅಳಿಸಿ</string>
     <string name="no_permission">ಅನುಮತಿ ಇಲ್ಲ</string>
-    <string name="permission_not_found">ಅನುಮತಿ ಸಾಕಾಗುವುದಿಲ್ಲ. </string>
+    <string name="permission_not_found">ಅನುಮತಿ ಸಾಕಾಗುವುದಿಲ್ಲ.</string>
     <string name="quit">ಬಿಟ್ಟು</string>
     <string name="go_setting">ಸೆಟ್ಟಿಂಗ್‌ಗೆ ಹೋಗಿ</string>
     <string name="build_hash">TAG ಅನ್ನು ನಿರ್ಮಿಸಿ</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">ಸಂಗ್ರಹಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
     <string name="warning">ಎಚ್ಚರಿಕೆ</string>
     <string name="clear_caches_tips">ನಿಮ್ಮ ಫೋನ್‌ನಿಂದ ಫೈಲ್ ಅನ್ನು ಶಾಶ್ವತವಾಗಿ ಕ್ಯಾಷ್‌ಗಳನ್ನು ತೆರವುಗೊಳಿಸಲು ನೀವು ಬಯಸುವಿರಾ?</string>
+    <string name="video_play_error">ವೀಡಿಯೊ ಪ್ಲೇಬ್ಯಾಕ್ ದೋಷ</string>
+    <string name="no_network">ನೆಟ್‌ವರ್ಕ್ ದೋಷ, ದಯವಿಟ್ಟು ನೀವು ಸಂಪರ್ಕ ಹೊಂದಿದ್ದೀರಾ ಎಂದು ಪರಿಶೀಲಿಸಿ!</string>
+    <string name="video_load_error">ವೀಡಿಯೊ ಲೋಡಿಂಗ್ ದೋಷ</string>
+    <string name="lock_tip">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪರದೆಯನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಿ</string>
+    <string name="unlocked">ಅನ್‌ಲಾಕ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="locked">ಲಾಕ್ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="continue_play">ಆಟ ಮುಂದುವರಿಸಿ</string>
+    <string name="error_message">ದೋಷ</string>
+    <string name="replay">ಮರುಪಂದ್ಯ</string>
+    <string name="retry">ಮರುಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="net_wifi_tip">ನೀವು ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್ ಬಳಸುತ್ತಿರುವಿರಿ.</string>
+    <string name="double_speed">2.0x ವೇಗ</string>
+    <string name="invalidate_video_resource">ವೀಡಿಯೊ ಸಂಪನ್ಮೂಲವನ್ನು ಅಮಾನ್ಯಗೊಳಿಸಿ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="play_all_video_finish">ಈ ವಿಷಯದಲ್ಲಿರುವ ಎಲ್ಲಾ ವೀಡಿಯೊಗಳು ಪ್ಲೇ ಓವರ್ ಆಗಿವೆ</string>
 </resources>
