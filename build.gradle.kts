@@ -19,6 +19,8 @@ dependencies {
     implementation("org.jsoup:jsoup:1.14.3")
     implementation("com.github.Ars3ne:internationale:1.0.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.0")
+//    implementation("com.github.EvanRupert:ExcelKt:v0.1.2")
+    implementation("org.apache.poi:poi:+")
 //    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.0")
 }
 

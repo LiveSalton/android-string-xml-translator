@@ -1,7 +1,4 @@
 import br.com.ars3ne.internationale.translators.GoogleTranslate
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.SupervisorJob
 import lang.Lang
 import lang.Languages
 import org.jsoup.Jsoup
@@ -15,20 +12,35 @@ import kotlin.io.path.exists
 object Translator {
     private val googleTranslator: GoogleTranslate = GoogleTranslate()
     fun translate(filePath: String, language: Lang) {
-        val list = getToTranslateList(filePath)
-        list.forEach {
-            try {
-                val translatedContent = googleTranslator.translate(it.second, language.code)
-                println("${it.second}->$translatedContent")
-                it.second = translatedContent
-            } catch (ex: Exception) {
-                //
+        val toTranslateList = getStringXmlData(filePath)
+        val savePath = "res/${Languages.getValuesDirectoryName(language)}/strings.xml"
+        if (File(savePath).exists()) {
+            val translatedList = getStringXmlData(savePath)
+            toTranslateList.forEach { left ->
+                translatedList.find { it.first == left.first }?.let {
+                    println("find:${it.first}")
+                    left.second = it.second
+                } ?: kotlin.run {
+                    println("translate:${left.first}")
+                    val translatedContent = googleTranslator.translate(left.second, language.code)
+                    left.second = translatedContent
+                }
+            }
+        } else {
+            toTranslateList.forEach {
+                try {
+                    val translatedContent = googleTranslator.translate(it.second, language.code)
+                    println("${it.second}->$translatedContent")
+                    it.second = translatedContent
+                } catch (ex: Exception) {
+                    //
+                }
             }
         }
-        writeTranslateList(list, language)
+        writeTranslateList(toTranslateList, savePath)
     }
 
-    private fun getToTranslateList(filePath: String): MutableList<Pair> {
+    private fun getStringXmlData(filePath: String): MutableList<Pair> {
         val doc = Jsoup.parse(File(filePath), "UTF-8")
         val elements = doc.body().getElementsByTag("resources")[0]
         val toTranslateList: MutableList<Pair> = mutableListOf()
@@ -63,7 +75,7 @@ object Translator {
         return list
     }
 
-    private fun writeTranslateList(list: MutableList<Pair>, language: Lang) {
+    private fun writeTranslateList(list: MutableList<Pair>, savePath: String) {
         val targetBuilder = StringBuilder()
         targetBuilder.append("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n")
         targetBuilder.append("<resources>\n")
@@ -72,7 +84,7 @@ object Translator {
             targetBuilder.append(String.format(template, it.first, it.second))
         }
         targetBuilder.append("</resources>\n")
-        val path = Paths.get("output/${Languages.getValuesDirectoryName(language)}/strings.xml")
+        val path = Paths.get(savePath)
         if (!path.parent.exists()) {
             Files.createDirectories(path.parent)
         }
