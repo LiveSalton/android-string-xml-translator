@@ -89,15 +89,14 @@ object Translator {
             targetBuilder.append(String.format(template, it.first, it.second))
         }
         targetBuilder.append("</resources>\n")
-        val path = Paths.get(savePath)
-        if (!path.parent.exists()) {
-            Files.createDirectories(path.parent)
+        val saveFile = File(savePath)
+        if (!saveFile.parentFile.exists()) {
+            saveFile.parentFile.mkdirs()
         }
-        if (Files.exists(path)) {
-            Files.delete(path)
+        if (saveFile.exists()) {
+            saveFile.delete()
         }
-        Files.createFile(path)
-        Files.write(path, targetBuilder.toString().toByteArray(), StandardOpenOption.TRUNCATE_EXISTING)
-        println("wrote file :$path")
+        saveFile.writeText(targetBuilder.toString(), Charsets.UTF_8)
+        println("wrote file :$savePath")
     }
 }
