@@ -28,7 +28,7 @@
     <string name="saturday">Σάββατο</string>
     <string name="sunday">Κυριακή</string>
     <string name="rate_us">Βαθμολογήστε μας</string>
-    <string name="rate_us_tip">Αν σας αρέσουν, δώστε μας 5 αστέρια.</string>
+    <string name="rate_us_tip">Αν σας αρέσουν, δώστε μας 5 αστέρια. </string>
     <string name="here_s_your_5_stars">Έπαινος πέντε αστέρων</string>
     <string name="four_stars">1-4 αστέρι</string>
     <string name="privacy_policy">Πολιτική απορρήτου</string>
@@ -69,13 +69,13 @@
     <string name="close">Κλείσε</string>
     <string name="squeeze_statistics">Συμπίεση %d βίντεο και εξοικονόμηση μνήμης %s</string>
     <string name="please_grant_all_permissions">Παρακαλούμε χορηγήστε όλες τις άδειες</string>
-    <string name="coder_quality_tips">(Ποιότητα κωδικοποίησης H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Ποιότητα κωδικοποίησης H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(η χαμηλότερη ανάλυση οδηγεί σε χειρότερη ευκρίνεια)</string>
     <string name="failed">απέτυχε</string>
     <string name="processing">επεξεργασία</string>
     <string name="delete_warning">Διαγραφή προειδοποίησης</string>
     <string name="no_permission">Χωρίς άδεια</string>
-    <string name="permission_not_found">Η άδεια δεν αρκεί.</string>
+    <string name="permission_not_found">Η άδεια δεν αρκεί. </string>
     <string name="quit">Εγκαταλείπω</string>
     <string name="go_setting">Μετάβαση Ρύθμιση</string>
     <string name="build_hash">Δημιουργία TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Εκκαθάριση κρυφής μνήμης</string>
     <string name="warning">Προειδοποίηση</string>
     <string name="clear_caches_tips">Θέλετε να διαγράψετε οριστικά τις κρυφές μνήμες του αρχείου από το τηλέφωνό σας;</string>
-    <string name="video_play_error">Σφάλμα αναπαραγωγής βίντεο</string>
-    <string name="no_network">Σφάλμα δικτύου, ελέγξτε εάν είστε συνδεδεμένοι!</string>
-    <string name="video_load_error">Σφάλμα φόρτωσης βίντεο</string>
-    <string name="lock_tip">Ξεκλειδώστε την οθόνη σας</string>
-    <string name="unlocked">Ακλείδωτος</string>
-    <string name="locked">Κλειδωμένο</string>
-    <string name="continue_play">Συνεχίστε το παιχνίδι</string>
-    <string name="error_message">Λάθος</string>
-    <string name="replay">Επανάληψη</string>
-    <string name="retry">Ξαναδοκιμάσετε</string>
-    <string name="net_wifi_tip">Χρησιμοποιείτε το δίκτυο κινητής τηλεφωνίας. </string>
-    <string name="double_speed">Ταχύτητα 2,0x</string>
-    <string name="invalidate_video_resource">Ακύρωση πόρου βίντεο, δοκιμάστε ξανά</string>
-    <string name="play_all_video_finish">Όλα τα βίντεο σε αυτό το περιεχόμενο αναπαράγονται</string>
 </resources>

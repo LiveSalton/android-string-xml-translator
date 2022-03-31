@@ -28,7 +28,7 @@
     <string name="saturday">шанбе</string>
     <string name="sunday">якшанбе</string>
     <string name="rate_us">Ба мо баҳо диҳед</string>
-    <string name="rate_us_tip">Агар ба шумо маъқул бошад, лутфан ба мо 5 ситора диҳед.</string>
+    <string name="rate_us_tip">Агар ба шумо маъқул бошад, лутфан ба мо 5 ситора диҳед. </string>
     <string name="here_s_your_5_stars">Ситоиши панҷситорадори баланд</string>
     <string name="four_stars">1-4 ситора</string>
     <string name="privacy_policy">Сиёсати Корбурди Маълумоти Шахсӣ</string>
@@ -69,13 +69,13 @@
     <string name="close">Пӯшед</string>
     <string name="squeeze_statistics">%d видео фишурда шуд ва %s хотираро захира кунед</string>
     <string name="please_grant_all_permissions">Лутфан ҳама иҷозатҳоро диҳед</string>
-    <string name="coder_quality_tips">(Рамзгузории сифати H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Рамзгузории сифати H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(ҳалномаи паст боиси возеҳи бадтар мегардад)</string>
     <string name="failed">ноком шуд</string>
     <string name="processing">коркард</string>
     <string name="delete_warning">Огоҳиро нест кунед</string>
     <string name="no_permission">Иҷозат нест</string>
-    <string name="permission_not_found">Иҷозат кофӣ нест.</string>
+    <string name="permission_not_found">Иҷозат кофӣ нест. </string>
     <string name="quit">Истед</string>
     <string name="go_setting">Ба Танзимот гузаред</string>
     <string name="build_hash">TAG созед</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Тоза кардани кэшҳо</string>
     <string name="warning">Огоҳӣ</string>
     <string name="clear_caches_tips">Оё шумо мехоҳед кэшҳои файлро аз телефони худ ба таври доимӣ тоза кунед?</string>
-    <string name="video_play_error">Хатогии бозикунии видео</string>
-    <string name="no_network">Хатогии шабака, лутфан тафтиш кунед, ки шумо пайваст шудаед!</string>
-    <string name="video_load_error">Хатогии боркунии видео</string>
-    <string name="lock_tip">Лутфан экрани худро кушоед</string>
-    <string name="unlocked">Қулф кушода шуд</string>
-    <string name="locked">Қулф карда шудааст</string>
-    <string name="continue_play">Бозиро идома диҳед</string>
-    <string name="error_message">Хатогӣ</string>
-    <string name="replay">Бозӣ</string>
-    <string name="retry">Аз нав кӯшиш кунед</string>
-    <string name="net_wifi_tip">Шумо шабакаи мобилиро истифода мебаред. </string>
-    <string name="double_speed">2.0x Суръат</string>
-    <string name="invalidate_video_resource">Манбаи видеоиро беэътибор кунед, лутфан дубора кӯшиш кунед</string>
-    <string name="play_all_video_finish">Ҳама видеоҳои ин мундариҷа бозӣ кардаанд</string>
 </resources>

@@ -69,7 +69,7 @@
     <string name="close">選ぶ</string>
     <string name="squeeze_statistics">圧縮された％dビデオと％sメモリの節約</string>
     <string name="please_grant_all_permissions">すべての権限を付与してください</string>
-    <string name="coder_quality_tips">（エンコード品質H265&gt; H264&gt; MPEG）</string>
+    <string name="coder_quality_tips">（エンコード品質H265> H264> MPEG）</string>
     <string name="density_quality_tips">（解像度が低いと、明瞭度が低下します）</string>
     <string name="failed">失敗した</string>
     <string name="processing">処理</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">キャッシュをクリア</string>
     <string name="warning">警告</string>
     <string name="clear_caches_tips">携帯電話からファイルを永久にクリアしますか？</string>
-    <string name="video_play_error">ビデオ再生エラー</string>
-    <string name="no_network">ネットワークエラー、接続されているか確認してください！</string>
-    <string name="video_load_error">ビデオの読み込みエラー</string>
-    <string name="lock_tip">画面のロックを解除してください</string>
-    <string name="unlocked">ロックを解除</string>
-    <string name="locked">ロック済み</string>
-    <string name="continue_play">プレイを続ける</string>
-    <string name="error_message">エラー</string>
-    <string name="replay">リプレイ</string>
-    <string name="retry">リトライ</string>
-    <string name="net_wifi_tip">モバイルネットワークを使用しています。</string>
-    <string name="double_speed">2.0倍速</string>
-    <string name="invalidate_video_resource">ビデオリソースを無効にしてください。再試行してください</string>
-    <string name="play_all_video_finish">このコンテンツのすべての動画が再生されました</string>
 </resources>

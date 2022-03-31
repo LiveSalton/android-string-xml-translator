@@ -28,7 +28,7 @@
     <string name="saturday">lørdag</string>
     <string name="sunday">søndag</string>
     <string name="rate_us">Rangere oss</string>
-    <string name="rate_us_tip">Hvis du liker oss, vennligst gi oss 5 stjerner.</string>
+    <string name="rate_us_tip">Hvis du liker oss, vennligst gi oss 5 stjerner. </string>
     <string name="here_s_your_5_stars">Femstjerners høy ros</string>
     <string name="four_stars">1-4 stjerner</string>
     <string name="privacy_policy">Personvernerklæring</string>
@@ -69,13 +69,13 @@
     <string name="close">Lukk</string>
     <string name="squeeze_statistics">Komprimerte %d videoer og lagre %s minne</string>
     <string name="please_grant_all_permissions">Vennligst gi alle tillatelser</string>
-    <string name="coder_quality_tips">(Kodningskvalitet H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Kodningskvalitet H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(lavere oppløsning gir dårligere klarhet)</string>
     <string name="failed">mislyktes</string>
     <string name="processing">behandling</string>
     <string name="delete_warning">Slett advarsel</string>
     <string name="no_permission">Ingen tillatelse</string>
-    <string name="permission_not_found">Tillatelse ikke nok.</string>
+    <string name="permission_not_found">Tillatelse ikke nok. </string>
     <string name="quit">Slutte</string>
     <string name="go_setting">Gå til Innstilling</string>
     <string name="build_hash">Bygg TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Tøm cacher</string>
     <string name="warning">Advarsel</string>
     <string name="clear_caches_tips">Vil du slette cachen for filen fra telefonen permanent?</string>
-    <string name="video_play_error">Videoavspillingsfeil</string>
-    <string name="no_network">Nettverksfeil, vennligst sjekk om du er tilkoblet!</string>
-    <string name="video_load_error">Feil ved innlasting av video</string>
-    <string name="lock_tip">Lås opp skjermen</string>
-    <string name="unlocked">Ulåst</string>
-    <string name="locked">Låst</string>
-    <string name="continue_play">Fortsett å spille</string>
-    <string name="error_message">Feil</string>
-    <string name="replay">Replay</string>
-    <string name="retry">Prøv på nytt</string>
-    <string name="net_wifi_tip">Du bruker mobilnettverket.</string>
-    <string name="double_speed">2,0x hastighet</string>
-    <string name="invalidate_video_resource">Ugyldig videoressurs, prøv igjen</string>
-    <string name="play_all_video_finish">Alle videoene i dette innholdet er avspilt</string>
 </resources>

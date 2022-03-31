@@ -28,7 +28,7 @@
     <string name="saturday">சனிக்கிழமை</string>
     <string name="sunday">ஞாயிற்றுக்கிழமை</string>
     <string name="rate_us">எங்களை மதிப்பிடு</string>
-    <string name="rate_us_tip">நீங்கள் எங்களை விரும்பினால், எங்களுக்கு 5 நட்சத்திரங்களைக் கொடுங்கள்.</string>
+    <string name="rate_us_tip">நீங்கள் எங்களை விரும்பினால், எங்களுக்கு 5 நட்சத்திரங்களைக் கொடுங்கள். </string>
     <string name="here_s_your_5_stars">ஐந்து நட்சத்திர உயர் பாராட்டு</string>
     <string name="four_stars">1-4 நட்சத்திரம்</string>
     <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
@@ -69,13 +69,13 @@
     <string name="close">நெருக்கமான</string>
     <string name="squeeze_statistics">%d வீடியோக்கள் சுருக்கப்பட்டு %s நினைவகத்தைச் சேமிக்கவும்</string>
     <string name="please_grant_all_permissions">அனைத்து அனுமதிகளையும் வழங்கவும்</string>
-    <string name="coder_quality_tips">(என்கோடிங் தரம் H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(என்கோடிங் தரம் H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(குறைந்த தெளிவுத்திறன் மோசமான தெளிவை ஏற்படுத்துகிறது)</string>
     <string name="failed">தோல்வி</string>
     <string name="processing">செயலாக்கம்</string>
     <string name="delete_warning">எச்சரிக்கையை நீக்கு</string>
     <string name="no_permission">அனுமதி இல்லை</string>
-    <string name="permission_not_found">அனுமதி போதாது.</string>
+    <string name="permission_not_found">அனுமதி போதாது. </string>
     <string name="quit">விட்டுவிட</string>
     <string name="go_setting">அமைப்பிற்குச் செல்லவும்</string>
     <string name="build_hash">TAG ஐ உருவாக்கவும்</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">தேக்ககங்களை அழிக்கவும்</string>
     <string name="warning">எச்சரிக்கை</string>
     <string name="clear_caches_tips">உங்கள் ஃபோனிலிருந்து கோப்பை தற்காலிக சேமிப்பை நிரந்தரமாக அழிக்க விரும்புகிறீர்களா?</string>
-    <string name="video_play_error">வீடியோ பின்னணி பிழை</string>
-    <string name="no_network">நெட்வொர்க் பிழை, நீங்கள் இணைக்கப்பட்டுள்ளீர்களா என்று சரிபார்க்கவும்!</string>
-    <string name="video_load_error">வீடியோ ஏற்றுவதில் பிழை</string>
-    <string name="lock_tip">உங்கள் திரையைத் திறக்கவும்</string>
-    <string name="unlocked">திறக்கப்பட்டது</string>
-    <string name="locked">பூட்டப்பட்டது</string>
-    <string name="continue_play">தொடர்ந்து விளையாடு</string>
-    <string name="error_message">பிழை</string>
-    <string name="replay">மறு</string>
-    <string name="retry">மீண்டும் முயற்சிக்கவும்</string>
-    <string name="net_wifi_tip">நீங்கள் மொபைல் நெட்வொர்க்கைப் பயன்படுத்துகிறீர்கள். </string>
-    <string name="double_speed">2.0x வேகம்</string>
-    <string name="invalidate_video_resource">வீடியோ ஆதாரத்தை செல்லாது, மீண்டும் முயற்சிக்கவும்</string>
-    <string name="play_all_video_finish">இந்த உள்ளடக்கத்தில் உள்ள அனைத்து வீடியோக்களும் இயக்கப்பட்டன</string>
 </resources>

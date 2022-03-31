@@ -28,7 +28,7 @@
     <string name="saturday">Saptu</string>
     <string name="sunday">Minggu</string>
     <string name="rate_us">Meunteun Kami</string>
-    <string name="rate_us_tip">Upami anjeun resep kami, punten pasihan kami 5 béntang.</string>
+    <string name="rate_us_tip">Upami anjeun resep kami, punten pasihan kami 5 béntang. </string>
     <string name="here_s_your_5_stars">Lima béntang pujian luhur</string>
     <string name="four_stars">1-4 Béntang</string>
     <string name="privacy_policy">Kabijakan privasi</string>
@@ -69,13 +69,13 @@
     <string name="close">Tutup</string>
     <string name="squeeze_statistics">%d video dikomprés tur nyimpen mémori %s</string>
     <string name="please_grant_all_permissions">Punten pasihan sadaya idin</string>
-    <string name="coder_quality_tips">(Kualitas encoding H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Kualitas encoding H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(Resolusi anu handap nyababkeun kajelasan anu langkung parah)</string>
     <string name="failed">gagal</string>
     <string name="processing">ngolah</string>
     <string name="delete_warning">Hapus Perhatosan</string>
     <string name="no_permission">Taya Idin</string>
-    <string name="permission_not_found">Idin teu cukup.</string>
+    <string name="permission_not_found">Idin teu cukup. </string>
     <string name="quit">Kaluar</string>
     <string name="go_setting">Buka Setélan</string>
     <string name="build_hash">Ngawangun TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Hapus Caches</string>
     <string name="warning">Awas</string>
     <string name="clear_caches_tips">Naha anjeun badé mupus caches file tina telepon anjeun sacara permanén?</string>
-    <string name="video_play_error">Kasalahan playback video</string>
-    <string name="no_network">Kasalahan jaringan, mangga parios upami anjeun nyambung!</string>
-    <string name="video_load_error">Kasalahan muatkeun pidéo</string>
-    <string name="lock_tip">Mangga muka konci layar Anjeun</string>
-    <string name="unlocked">Henteu dikonci</string>
-    <string name="locked">Kakonci</string>
-    <string name="continue_play">Nuluykeun maén</string>
-    <string name="error_message">Kasalahan</string>
-    <string name="replay">Muterkeun deui</string>
-    <string name="retry">Coba deui</string>
-    <string name="net_wifi_tip">Anjeun nganggo jaringan sélulér. </string>
-    <string name="double_speed">2.0x Laju</string>
-    <string name="invalidate_video_resource">Invalid sumber video, mangga cobian deui</string>
-    <string name="play_all_video_finish">Sadaya pidéo dina eusi ieu parantos diputer</string>
 </resources>

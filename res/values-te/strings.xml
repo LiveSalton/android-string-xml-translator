@@ -28,7 +28,7 @@
     <string name="saturday">శనివారం</string>
     <string name="sunday">ఆదివారం</string>
     <string name="rate_us">మాకు రేట్ చేయండి</string>
-    <string name="rate_us_tip">మీరు మమ్మల్ని ఇష్టపడితే, దయచేసి మాకు 5 నక్షత్రాలు ఇవ్వండి.</string>
+    <string name="rate_us_tip">మీరు మమ్మల్ని ఇష్టపడితే, దయచేసి మాకు 5 నక్షత్రాలు ఇవ్వండి. </string>
     <string name="here_s_your_5_stars">ఫైవ్ స్టార్ అధిక ప్రశంసలు</string>
     <string name="four_stars">1-4 నక్షత్రాలు</string>
     <string name="privacy_policy">గోప్యతా విధానం</string>
@@ -69,13 +69,13 @@
     <string name="close">దగ్గరగా</string>
     <string name="squeeze_statistics">కుదించబడిన %d వీడియోలు మరియు %s మెమరీని సేవ్ చేయండి</string>
     <string name="please_grant_all_permissions">దయచేసి అన్ని అనుమతులను మంజూరు చేయండి</string>
-    <string name="coder_quality_tips">(ఎన్‌కోడింగ్ నాణ్యత H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(ఎన్‌కోడింగ్ నాణ్యత H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(తక్కువ రిజల్యూషన్ ఫలితంగా అధ్వాన్నమైన స్పష్టత వస్తుంది)</string>
     <string name="failed">విఫలమయ్యారు</string>
     <string name="processing">ప్రాసెసింగ్</string>
     <string name="delete_warning">హెచ్చరికను తొలగించండి</string>
     <string name="no_permission">అనుమతి లేదు</string>
-    <string name="permission_not_found">అనుమతి సరిపోదు.</string>
+    <string name="permission_not_found">అనుమతి సరిపోదు. </string>
     <string name="quit">నిష్క్రమించు</string>
     <string name="go_setting">సెట్టింగ్‌కి వెళ్లండి</string>
     <string name="build_hash">TAGను రూపొందించండి</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">కాష్‌లను క్లియర్ చేయండి</string>
     <string name="warning">హెచ్చరిక</string>
     <string name="clear_caches_tips">మీరు మీ ఫోన్ నుండి ఫైల్‌ను శాశ్వతంగా కాష్‌లను క్లియర్ చేయాలనుకుంటున్నారా?</string>
-    <string name="video_play_error">వీడియో ప్లేబ్యాక్ లోపం</string>
-    <string name="no_network">నెట్‌వర్క్ లోపం, దయచేసి మీరు కనెక్ట్ అయ్యారో లేదో తనిఖీ చేయండి!</string>
-    <string name="video_load_error">వీడియో లోడింగ్ లోపం</string>
-    <string name="lock_tip">దయచేసి మీ స్క్రీన్‌ని అన్‌లాక్ చేయండి</string>
-    <string name="unlocked">అన్‌లాక్ చేయబడింది</string>
-    <string name="locked">లాక్ చేయబడింది</string>
-    <string name="continue_play">ఆట కొనసాగించండి</string>
-    <string name="error_message">లోపం</string>
-    <string name="replay">రీప్లే చేయండి</string>
-    <string name="retry">మళ్లీ ప్రయత్నించండి</string>
-    <string name="net_wifi_tip">మీరు మొబైల్ నెట్‌వర్క్‌ని ఉపయోగిస్తున్నారు. </string>
-    <string name="double_speed">2.0x వేగం</string>
-    <string name="invalidate_video_resource">వీడియో వనరును చెల్లుబాటు చేయవద్దు, దయచేసి మళ్లీ ప్రయత్నించండి</string>
-    <string name="play_all_video_finish">ఈ కంటెంట్‌లోని అన్ని వీడియోలు ప్లే ఓవర్ చేయబడ్డాయి</string>
 </resources>

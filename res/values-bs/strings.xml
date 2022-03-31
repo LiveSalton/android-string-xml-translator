@@ -28,7 +28,7 @@
     <string name="saturday">Subota</string>
     <string name="sunday">Nedjelja</string>
     <string name="rate_us">Ocjeni nas</string>
-    <string name="rate_us_tip">Ako vam se sviđamo, dajte nam 5 zvjezdica.</string>
+    <string name="rate_us_tip">Ako vam se sviđamo, dajte nam 5 zvjezdica. </string>
     <string name="here_s_your_5_stars">Pet zvjezdica visoke pohvale</string>
     <string name="four_stars">1-4 zvjezdice</string>
     <string name="privacy_policy">Politika privatnosti</string>
@@ -69,13 +69,13 @@
     <string name="close">Zatvori</string>
     <string name="squeeze_statistics">Kompresovano %d video zapisa i ušteda %s memorije</string>
     <string name="please_grant_all_permissions">Molimo da date sve dozvole</string>
-    <string name="coder_quality_tips">(Kvaliteta kodiranja H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Kvaliteta kodiranja H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(niža rezolucija rezultira lošijom jasnoćom)</string>
     <string name="failed">nije uspjelo</string>
     <string name="processing">obrada</string>
     <string name="delete_warning">Obriši upozorenje</string>
     <string name="no_permission">Bez dozvole</string>
-    <string name="permission_not_found">Dozvola nije dovoljna.</string>
+    <string name="permission_not_found">Dozvola nije dovoljna. </string>
     <string name="quit">Prestani</string>
     <string name="go_setting">Go Setting</string>
     <string name="build_hash">Build TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Obriši keš memorije</string>
     <string name="warning">Upozorenje</string>
     <string name="clear_caches_tips">Želite li trajno izbrisati keš datoteke sa svog telefona?</string>
-    <string name="video_play_error">Greška pri reprodukciji videa</string>
-    <string name="no_network">Mrežna greška, provjerite jeste li povezani!</string>
-    <string name="video_load_error">Greška pri učitavanju videa</string>
-    <string name="lock_tip">Molimo otključajte ekran</string>
-    <string name="unlocked">Otključano</string>
-    <string name="locked">Zaključano</string>
-    <string name="continue_play">Nastavite igrati</string>
-    <string name="error_message">Greška</string>
-    <string name="replay">Replay</string>
-    <string name="retry">Pokušajte ponovo</string>
-    <string name="net_wifi_tip">Koristite mobilnu mrežu.</string>
-    <string name="double_speed">2.0x Brzina</string>
-    <string name="invalidate_video_resource">Poništite video resurs, pokušajte ponovo</string>
-    <string name="play_all_video_finish">Svi videozapisi u ovom sadržaju su se reproducirali</string>
 </resources>

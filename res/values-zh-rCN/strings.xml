@@ -69,7 +69,7 @@
     <string name="close">关闭</string>
     <string name="squeeze_statistics">压缩 %d 个视频并节省 %s 内存</string>
     <string name="please_grant_all_permissions">请授予所有权限</string>
-    <string name="coder_quality_tips">（编码质量 H265 &gt; H264 &gt; MPEG）</string>
+    <string name="coder_quality_tips">（编码质量 H265 > H264 > MPEG）</string>
     <string name="density_quality_tips">（分辨率越低清晰度越差）</string>
     <string name="failed">失败了</string>
     <string name="processing">处理中</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">清除缓存</string>
     <string name="warning">警告</string>
     <string name="clear_caches_tips">您想永久清除手机中的缓存文件吗？</string>
-    <string name="video_play_error">视频播放错误</string>
-    <string name="no_network">网络错误，请检查是否已连接！</string>
-    <string name="video_load_error">视频加载错误</string>
-    <string name="lock_tip">请解锁您的屏幕</string>
-    <string name="unlocked">解锁</string>
-    <string name="locked">锁定</string>
-    <string name="continue_play">继续播放</string>
-    <string name="error_message">错误</string>
-    <string name="replay">重播</string>
-    <string name="retry">重试</string>
-    <string name="net_wifi_tip">您正在使用移动网络。</string>
-    <string name="double_speed">2.0 倍速度</string>
-    <string name="invalidate_video_resource">视频资源无效，请重试</string>
-    <string name="play_all_video_finish">此内容中的所有视频都已播放完毕</string>
 </resources>

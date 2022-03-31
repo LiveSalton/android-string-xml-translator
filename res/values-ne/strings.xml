@@ -28,7 +28,7 @@
     <string name="saturday">शनिबार</string>
     <string name="sunday">आइतबार</string>
     <string name="rate_us">हामीलाई मूल्याङ्कन गर्नुहोस्</string>
-    <string name="rate_us_tip">यदि तपाइँ हामीलाई मनपर्छ भने, कृपया हामीलाई 5 तारा दिनुहोस्।</string>
+    <string name="rate_us_tip">यदि तपाइँ हामीलाई मनपर्छ भने, कृपया हामीलाई 5 तारा दिनुहोस्। </string>
     <string name="here_s_your_5_stars">पाँच तारा उच्च प्रशंसा</string>
     <string name="four_stars">१-४ तारा</string>
     <string name="privacy_policy">गोपनीयता नीति</string>
@@ -69,13 +69,13 @@
     <string name="close">बन्द गर्नुहोस्</string>
     <string name="squeeze_statistics">कम्प्रेस गरिएको %d भिडियोहरू र %s मेमोरी बचत गर्नुहोस्</string>
     <string name="please_grant_all_permissions">कृपया सबै अनुमतिहरू दिनुहोस्</string>
-    <string name="coder_quality_tips">(इन्कोडिङ गुणस्तर H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(इन्कोडिङ गुणस्तर H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(कम रिजोल्युसनले खराब स्पष्टतामा परिणाम दिन्छ)</string>
     <string name="failed">असफल</string>
     <string name="processing">प्रशोधन</string>
     <string name="delete_warning">चेतावनी मेटाउनुहोस्</string>
     <string name="no_permission">अनुमति छैन</string>
-    <string name="permission_not_found">अनुमति पर्याप्त छैन।</string>
+    <string name="permission_not_found">अनुमति पर्याप्त छैन। </string>
     <string name="quit">छोड्नुहोस्</string>
     <string name="go_setting">सेटिङमा जानुहोस्</string>
     <string name="build_hash">TAG बनाउनुहोस्</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">क्यासहरू खाली गर्नुहोस्</string>
     <string name="warning">चेतावनी</string>
     <string name="clear_caches_tips">के तपाईँ आफ्नो फोनबाट स्थायी रूपमा क्यास फाइल खाली गर्न चाहनुहुन्छ?</string>
-    <string name="video_play_error">भिडियो प्लेब्याक त्रुटि</string>
-    <string name="no_network">नेटवर्क त्रुटि, यदि तपाइँ जडान हुनुहुन्छ भने जाँच गर्नुहोस्!</string>
-    <string name="video_load_error">भिडियो लोड गर्दा त्रुटि</string>
-    <string name="lock_tip">कृपया आफ्नो स्क्रिन अनलक गर्नुहोस्</string>
-    <string name="unlocked">अनलक</string>
-    <string name="locked">ताला लगाइएको</string>
-    <string name="continue_play">खेल जारी राख्नुहोस्</string>
-    <string name="error_message">त्रुटि</string>
-    <string name="replay">रिप्ले गर्नुहोस्</string>
-    <string name="retry">पुन: प्रयास गर्नुहोस्</string>
-    <string name="net_wifi_tip">तपाईं मोबाइल नेटवर्क प्रयोग गर्दै हुनुहुन्छ।</string>
-    <string name="double_speed">2.0x गति</string>
-    <string name="invalidate_video_resource">भिडियो स्रोत अमान्य गर्नुहोस्, कृपया पुन: प्रयास गर्नुहोस्</string>
-    <string name="play_all_video_finish">यस सामग्रीका सबै भिडियोहरू प्ले ओभर भइसकेका छन्</string>
 </resources>

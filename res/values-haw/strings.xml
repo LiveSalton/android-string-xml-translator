@@ -28,7 +28,7 @@
     <string name="saturday">Pōʻaono</string>
     <string name="sunday">Lāpule</string>
     <string name="rate_us">E helu iā mākou</string>
-    <string name="rate_us_tip">Inā makemake ʻoe iā mākou, e hāʻawi mai iā mākou i nā hōkū 5.</string>
+    <string name="rate_us_tip">Inā makemake ʻoe iā mākou, e hāʻawi mai iā mākou i nā hōkū 5. </string>
     <string name="here_s_your_5_stars">ʻElima hōkū mahalo</string>
     <string name="four_stars">1-4 Hoku</string>
     <string name="privacy_policy">Kulekele pilikino</string>
@@ -69,13 +69,13 @@
     <string name="close">Pani</string>
     <string name="squeeze_statistics">Hoʻopili ʻia nā wikiō %d a mālama i ka hoʻomanaʻo %s</string>
     <string name="please_grant_all_permissions">E ʻoluʻolu e hāʻawi i nā ʻae āpau</string>
-    <string name="coder_quality_tips">(Ke kūlana hoʻopāpā ʻana i H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Ke kūlana hoʻopāpā ʻana i H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(ʻoi aku ka maikaʻi o ka hoʻonā haʻahaʻa)</string>
     <string name="failed">hāʻule</string>
     <string name="processing">hana ʻana</string>
     <string name="delete_warning">Holoi ʻŌlelo Aʻo</string>
     <string name="no_permission">ʻAʻohe ʻae</string>
-    <string name="permission_not_found">ʻAʻole lawa ka ʻae.</string>
+    <string name="permission_not_found">ʻAʻole lawa ka ʻae. </string>
     <string name="quit">Haʻalele</string>
     <string name="go_setting">Hele Hoʻonohonoho</string>
     <string name="build_hash">Kūkulu ʻia TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Holoi i nā waihona</string>
     <string name="warning">ʻŌlelo aʻo</string>
     <string name="clear_caches_tips">Makemake ʻoe e hoʻomaʻemaʻe i ka waihona mai kāu kelepona mau loa?</string>
-    <string name="video_play_error">Ua hewa ke pāʻani wikiō</string>
-    <string name="no_network">Ua hewa ka pūnaewele, e ʻoluʻolu e nānā inā pili ʻoe!</string>
-    <string name="video_load_error">Ua hewa ka hoʻouka wikiō</string>
-    <string name="lock_tip">E ʻoluʻolu e wehe i kāu pale</string>
-    <string name="unlocked">Wehe ʻia</string>
-    <string name="locked">Paʻa</string>
-    <string name="continue_play">E hoʻomau i ka pāʻani</string>
-    <string name="error_message">Kuhihewa</string>
-    <string name="replay">Hoʻokani hou</string>
-    <string name="retry">E hoao hou</string>
-    <string name="net_wifi_tip">Ke hoʻohana nei ʻoe i ka pūnaewele kelepona. </string>
-    <string name="double_speed">2.0x ka māmā holo</string>
-    <string name="invalidate_video_resource">E hōʻole i ke kumu wikiō, e hoʻāʻo hou</string>
-    <string name="play_all_video_finish">Ua pāʻani ʻia nā wikiō a pau o kēia ʻike</string>
 </resources>

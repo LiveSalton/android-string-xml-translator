@@ -28,7 +28,7 @@
     <string name="saturday">Saturni</string>
     <string name="sunday">Solis</string>
     <string name="rate_us">Rate Us</string>
-    <string name="rate_us_tip">Si placet nobis, da nobis 5 astra.</string>
+    <string name="rate_us_tip">Si placet nobis, da nobis 5 astra. </string>
     <string name="here_s_your_5_stars">Quinque stella alta laude</string>
     <string name="four_stars">1-4 Star</string>
     <string name="privacy_policy">Privacy policy</string>
@@ -69,13 +69,13 @@
     <string name="close">Close</string>
     <string name="squeeze_statistics">Compressi% d videos ac nisi% memoria</string>
     <string name="please_grant_all_permissions">Quaeso concede omnes permissiones</string>
-    <string name="coder_quality_tips">( Encoding quality H264 &gt; MPEG )</string>
+    <string name="coder_quality_tips">( Encoding quality H264 > MPEG )</string>
     <string name="density_quality_tips">(Inferioribus resolutio praecessi in peius perspicuitate)</string>
     <string name="failed">defecit</string>
     <string name="processing">processus</string>
     <string name="delete_warning">Delere Admonitio</string>
     <string name="no_permission">Nulla licentia</string>
-    <string name="permission_not_found">Licentia non sufficit.</string>
+    <string name="permission_not_found">Licentia non sufficit. </string>
     <string name="quit">Quit</string>
     <string name="go_setting">Ite Profecti</string>
     <string name="build_hash">TAG aedificate</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Patet Caches</string>
     <string name="warning">Monitum</string>
     <string name="clear_caches_tips">Visne tabellam ex telephonicis tuis thesauris purgare perpetuo?</string>
-    <string name="video_play_error">Video playback error</string>
-    <string name="no_network">Error Network, commodo reprehendo si connexa sunt.</string>
-    <string name="video_load_error">Video loading error</string>
-    <string name="lock_tip">Quaeso reserare tuum screen</string>
-    <string name="unlocked">reserata</string>
-    <string name="locked">clausa</string>
-    <string name="continue_play">Perge fabula</string>
-    <string name="error_message">Error</string>
-    <string name="replay">Replay</string>
-    <string name="retry">Retry</string>
-    <string name="net_wifi_tip">Retis mobilis uteris.</string>
-    <string name="double_speed">2.0x Speed</string>
-    <string name="invalidate_video_resource">Infirmare video resource, iterum conare</string>
-    <string name="play_all_video_finish">Omnes videos in hoc contento ludere super</string>
 </resources>

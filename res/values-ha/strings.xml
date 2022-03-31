@@ -28,7 +28,7 @@
     <string name="saturday">Asabar</string>
     <string name="sunday">Lahadi</string>
     <string name="rate_us">Rage Mu</string>
-    <string name="rate_us_tip">Idan kuna son mu, da fatan za a ba mu taurari 5.</string>
+    <string name="rate_us_tip">Idan kuna son mu, da fatan za a ba mu taurari 5. </string>
     <string name="here_s_your_5_stars">Yabo mai tauraro biyar</string>
     <string name="four_stars">1-4 Tauraro</string>
     <string name="privacy_policy">Takardar kebantawa</string>
@@ -69,13 +69,13 @@
     <string name="close">Kusa</string>
     <string name="squeeze_statistics">Matsa %d bidiyo kuma ajiye %s ƙwaƙwalwar ajiya</string>
     <string name="please_grant_all_permissions">Da fatan za a ba da duk izini</string>
-    <string name="coder_quality_tips">(Ingantacciyar rikodi H265&gt; H264&gt; MPEG)</string>
+    <string name="coder_quality_tips">(Ingantacciyar rikodi H265> H264> MPEG)</string>
     <string name="density_quality_tips">(ƙananan ƙuduri yana haifar da mummunan haske)</string>
     <string name="failed">kasa</string>
     <string name="processing">sarrafawa</string>
     <string name="delete_warning">Share Gargaɗi</string>
     <string name="no_permission">Babu Izini</string>
-    <string name="permission_not_found">Izin bai isa ba.</string>
+    <string name="permission_not_found">Izin bai isa ba. </string>
     <string name="quit">Bar</string>
     <string name="go_setting">Tafi Saituna</string>
     <string name="build_hash">Gina TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Share Caches</string>
     <string name="warning">Gargadi</string>
     <string name="clear_caches_tips">Kuna son share caches ɗin fayil ɗin daga wayarka ta dindindin?</string>
-    <string name="video_play_error">Kuskuren sake kunna bidiyo</string>
-    <string name="no_network">Kuskuren hanyar sadarwa, da fatan za a duba idan an haɗa ku!</string>
-    <string name="video_load_error">Kuskuren loda bidiyo</string>
-    <string name="lock_tip">Da fatan za a buɗe allonku</string>
-    <string name="unlocked">An buɗe</string>
-    <string name="locked">Kulle</string>
-    <string name="continue_play">Ci gaba da wasa</string>
-    <string name="error_message">Kuskure</string>
-    <string name="replay">Sake kunnawa</string>
-    <string name="retry">Sake gwadawa</string>
-    <string name="net_wifi_tip">Kuna amfani da hanyar sadarwar wayar hannu.</string>
-    <string name="double_speed">2.0x Sauri</string>
-    <string name="invalidate_video_resource">Haɓaka albarkatun bidiyo, da fatan za a sake gwadawa</string>
-    <string name="play_all_video_finish">Duk bidiyon da ke cikin wannan abun cikin sun ƙare</string>
 </resources>

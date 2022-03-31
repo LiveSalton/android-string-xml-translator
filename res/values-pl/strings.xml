@@ -28,7 +28,7 @@
     <string name="saturday">sobota</string>
     <string name="sunday">niedziela</string>
     <string name="rate_us">Oceń nas</string>
-    <string name="rate_us_tip">Jeśli nas lubisz, daj nam 5 gwiazdek.</string>
+    <string name="rate_us_tip">Jeśli nas lubisz, daj nam 5 gwiazdek. </string>
     <string name="here_s_your_5_stars">Pięć gwiazdek wysokiej pochwały</string>
     <string name="four_stars">1-4 gwiazdki</string>
     <string name="privacy_policy">Polityka prywatności</string>
@@ -69,13 +69,13 @@
     <string name="close">Blisko</string>
     <string name="squeeze_statistics">Skompresowano %d filmy i zaoszczędzono %s pamięci</string>
     <string name="please_grant_all_permissions">Proszę o przyznanie wszystkich uprawnień</string>
-    <string name="coder_quality_tips">(Jakość kodowania H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Jakość kodowania H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(niższa rozdzielczość skutkuje gorszą wyrazistością)</string>
     <string name="failed">przegrany</string>
     <string name="processing">przetwarzanie</string>
     <string name="delete_warning">Usuń ostrzeżenie</string>
     <string name="no_permission">Brak pozwolenia</string>
-    <string name="permission_not_found">Nie wystarczy pozwolenie.</string>
+    <string name="permission_not_found">Nie wystarczy pozwolenie. </string>
     <string name="quit">Zrezygnować</string>
     <string name="go_setting">Przejdź do ustawień</string>
     <string name="build_hash">Zbuduj TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Wyczyść pamięć podręczną</string>
     <string name="warning">Ostrzeżenie</string>
     <string name="clear_caches_tips">Czy chcesz trwale wyczyścić pamięć podręczną pliku z telefonu?</string>
-    <string name="video_play_error">Błąd odtwarzania wideo</string>
-    <string name="no_network">Błąd sieci, sprawdź, czy masz połączenie！</string>
-    <string name="video_load_error">Błąd ładowania wideo</string>
-    <string name="lock_tip">Odblokuj ekran</string>
-    <string name="unlocked">Odblokowany</string>
-    <string name="locked">Zablokowany</string>
-    <string name="continue_play">Kontynuuj grę</string>
-    <string name="error_message">Błąd</string>
-    <string name="replay">Powtórna rozgrywka</string>
-    <string name="retry">Spróbować ponownie</string>
-    <string name="net_wifi_tip">Korzystasz z sieci komórkowej.</string>
-    <string name="double_speed">2,0x prędkość</string>
-    <string name="invalidate_video_resource">Nieprawidłowy zasób wideo, spróbuj ponownie</string>
-    <string name="play_all_video_finish">Wszystkie filmy w tej treści zostały odtworzone</string>
 </resources>

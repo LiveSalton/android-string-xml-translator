@@ -28,7 +28,7 @@
     <string name="saturday">Sabti</string>
     <string name="sunday">Axad</string>
     <string name="rate_us">Nagu qiimee</string>
-    <string name="rate_us_tip">Haddii aad na jeceshahay, fadlan na sii 5 xiddigood.</string>
+    <string name="rate_us_tip">Haddii aad na jeceshahay, fadlan na sii 5 xiddigood. </string>
     <string name="here_s_your_5_stars">Shanta xiddigood ammaan sare</string>
     <string name="four_stars">1-4 Xiddiga</string>
     <string name="privacy_policy">Qaanuunka Arrimaha Khaaska ah</string>
@@ -69,13 +69,13 @@
     <string name="close">Xir</string>
     <string name="squeeze_statistics">Fiidyowyada %d la tuujiyey oo kaydiya %s xusuusta</string>
     <string name="please_grant_all_permissions">Fadlan bixi dhammaan oggolaanshaha</string>
-    <string name="coder_quality_tips">(Xoojinta tayada H265&gt; H264&gt; MPEG)</string>
+    <string name="coder_quality_tips">(Xoojinta tayada H265> H264> MPEG)</string>
     <string name="density_quality_tips">(xallinta hoose waxay keentaa caddayn ka sii xun)</string>
     <string name="failed">fashilantay</string>
     <string name="processing">farsamaynta</string>
     <string name="delete_warning">Tirtir Digniinta</string>
     <string name="no_permission">Ogolaansho malaha</string>
-    <string name="permission_not_found">Ogolaanshaha kuma filna.</string>
+    <string name="permission_not_found">Ogolaanshaha kuma filna. </string>
     <string name="quit">Jooji</string>
     <string name="go_setting">Tag Dejinta</string>
     <string name="build_hash">Dhis TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Nadiifi khasnadaha</string>
     <string name="warning">Digniin</string>
     <string name="clear_caches_tips">Ma doonaysaa in aad si joogto ah uga nadiifiso kaydka faylka taleefankaaga?</string>
-    <string name="video_play_error">Cilada dib-u-ciyaarista fiidyaha</string>
-    <string name="no_network">Cilad shabakadeed, fadlan hubi inaad ku xidhan tahay!</string>
-    <string name="video_load_error">Cilada soo dejinta fiidyaha</string>
-    <string name="lock_tip">Fadlan fur shaashaddaada</string>
-    <string name="unlocked">Furmay</string>
-    <string name="locked">Quful</string>
-    <string name="continue_play">Ciyaarta sii wad</string>
-    <string name="error_message">Khalad</string>
-    <string name="replay">Ku celi</string>
-    <string name="retry">Isku day</string>
-    <string name="net_wifi_tip">Waxaad isticmaalaysaa shabakadda mobaylka. </string>
-    <string name="double_speed">2.0x Xawaaraha</string>
-    <string name="invalidate_video_resource">Burburin kheyraadka fiidyaha, fadlan isku day mar kale</string>
-    <string name="play_all_video_finish">Dhammaan fiidiyowyada ku jira nuxurkan way wada ciyaareen</string>
 </resources>

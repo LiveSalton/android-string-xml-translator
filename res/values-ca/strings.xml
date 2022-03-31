@@ -28,7 +28,7 @@
     <string name="saturday">dissabte</string>
     <string name="sunday">diumenge</string>
     <string name="rate_us">Puntua\'ns</string>
-    <string name="rate_us_tip">Si us agraden, doneu-nos 5 estrelles.</string>
+    <string name="rate_us_tip">Si us agraden, doneu-nos 5 estrelles. </string>
     <string name="here_s_your_5_stars">Elogis de cinc estrelles</string>
     <string name="four_stars">1-4 estrelles</string>
     <string name="privacy_policy">Política de privacitat</string>
@@ -69,13 +69,13 @@
     <string name="close">Tanca</string>
     <string name="squeeze_statistics">S\'han comprimit %d vídeos i s\'han estalviat %s memòria</string>
     <string name="please_grant_all_permissions">Si us plau, concediu tots els permisos</string>
-    <string name="coder_quality_tips">(Qualitat de codificació H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Qualitat de codificació H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(una resolució més baixa dóna com a resultat una pitjor claredat)</string>
     <string name="failed">fracassat</string>
     <string name="processing">processament</string>
     <string name="delete_warning">Elimina l\'avís</string>
     <string name="no_permission">Sense permís</string>
-    <string name="permission_not_found">El permís no és suficient.</string>
+    <string name="permission_not_found">El permís no és suficient. </string>
     <string name="quit">Surt</string>
     <string name="go_setting">Vés a Configuració</string>
     <string name="build_hash">Construeix TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Esborra les memòries cau</string>
     <string name="warning">Avís</string>
     <string name="clear_caches_tips">Voleu esborrar la memòria cau del fitxer del vostre telèfon de manera permanent?</string>
-    <string name="video_play_error">Error de reproducció de vídeo</string>
-    <string name="no_network">Error de xarxa, comproveu si esteu connectat!</string>
-    <string name="video_load_error">Error de càrrega del vídeo</string>
-    <string name="lock_tip">Desbloquegeu la pantalla</string>
-    <string name="unlocked">Desbloquejat</string>
-    <string name="locked">Tancat</string>
-    <string name="continue_play">Continua jugant</string>
-    <string name="error_message">Error</string>
-    <string name="replay">Repetició</string>
-    <string name="retry">Torna-ho a provar</string>
-    <string name="net_wifi_tip">Esteu utilitzant la xarxa mòbil.</string>
-    <string name="double_speed">Velocitat 2.0x</string>
-    <string name="invalidate_video_resource">Invalideu el recurs de vídeo, torneu-ho a provar</string>
-    <string name="play_all_video_finish">Tots els vídeos d'aquest contingut s'han reproduït</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="saturday">Sabtu</string>
     <string name="sunday">Ahad</string>
     <string name="rate_us">Nilaikan Kami</string>
-    <string name="rate_us_tip">Jika anda menyukai kami, sila berikan kami 5 bintang.</string>
+    <string name="rate_us_tip">Jika anda menyukai kami, sila berikan kami 5 bintang. </string>
     <string name="here_s_your_5_stars">Pujian tinggi lima bintang</string>
     <string name="four_stars">1-4 Bintang</string>
     <string name="privacy_policy">Dasar privasi</string>
@@ -69,13 +69,13 @@
     <string name="close">tutup</string>
     <string name="squeeze_statistics">%d video dimampatkan dan simpan %s memori</string>
     <string name="please_grant_all_permissions">Tolong berikan semua kebenaran</string>
-    <string name="coder_quality_tips">(Kualiti pengekodan H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Kualiti pengekodan H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(peleraian yang lebih rendah menghasilkan kejelasan yang lebih buruk)</string>
     <string name="failed">gagal</string>
     <string name="processing">pemprosesan</string>
     <string name="delete_warning">Padamkan Amaran</string>
     <string name="no_permission">Tiada Kebenaran</string>
-    <string name="permission_not_found">Keizinan tidak mencukupi.</string>
+    <string name="permission_not_found">Keizinan tidak mencukupi. </string>
     <string name="quit">Berhenti</string>
     <string name="go_setting">Pergi Tetapan</string>
     <string name="build_hash">Bina TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Kosongkan Cache</string>
     <string name="warning">Amaran</string>
     <string name="clear_caches_tips">Adakah anda ingin mengosongkan cache fail daripada telefon anda secara kekal?</string>
-    <string name="video_play_error">Ralat main balik video</string>
-    <string name="no_network">Ralat rangkaian, sila semak sama ada anda disambungkan！</string>
-    <string name="video_load_error">Ralat memuatkan video</string>
-    <string name="lock_tip">Sila buka kunci skrin anda</string>
-    <string name="unlocked">Tidak berkunci</string>
-    <string name="locked">Terkunci</string>
-    <string name="continue_play">Teruskan bermain</string>
-    <string name="error_message">ralat</string>
-    <string name="replay">Main semula</string>
-    <string name="retry">Cuba semula</string>
-    <string name="net_wifi_tip">Anda menggunakan rangkaian mudah alih.</string>
-    <string name="double_speed">2.0x Kelajuan</string>
-    <string name="invalidate_video_resource">Sumber video tidak sah, sila cuba lagi</string>
-    <string name="play_all_video_finish">Semua video dalam kandungan ini telah dimainkan</string>
 </resources>

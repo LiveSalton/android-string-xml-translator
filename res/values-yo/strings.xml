@@ -28,7 +28,7 @@
     <string name="saturday">Satidee</string>
     <string name="sunday">Sunday</string>
     <string name="rate_us">Oṣuwọn Wa</string>
-    <string name="rate_us_tip">Ti o ba fẹran wa, jọwọ fun wa ni irawọ 5.</string>
+    <string name="rate_us_tip">Ti o ba fẹran wa, jọwọ fun wa ni irawọ 5. </string>
     <string name="here_s_your_5_stars">Marun star ga iyin</string>
     <string name="four_stars">1-4 Irawọ</string>
     <string name="privacy_policy">Ilana ikọkọ</string>
@@ -69,13 +69,13 @@
     <string name="close">Sunmọ</string>
     <string name="squeeze_statistics">Fisinu awọn fidio %d ati fi %s iranti pamọ</string>
     <string name="please_grant_all_permissions">Jọwọ fun gbogbo awọn igbanilaaye</string>
-    <string name="coder_quality_tips">(Didara fifi koodu H265&gt; H264&gt; MPEG)</string>
+    <string name="coder_quality_tips">(Didara fifi koodu H265> H264> MPEG)</string>
     <string name="density_quality_tips">(ipinnu ti o kere ju ni alaye ti o buru ju)</string>
     <string name="failed">kuna</string>
     <string name="processing">processing</string>
     <string name="delete_warning">Pa Ikilọ rẹ</string>
     <string name="no_permission">Ko si Igbanilaaye</string>
-    <string name="permission_not_found">Igbanilaaye ko to.</string>
+    <string name="permission_not_found">Igbanilaaye ko to. </string>
     <string name="quit">Jade</string>
     <string name="go_setting">Lọ Eto</string>
     <string name="build_hash">Kọ TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Ko awọn caches kuro</string>
     <string name="warning">Ikilo</string>
     <string name="clear_caches_tips">Ṣe o fẹ lati ko awọn caches kuro lati foonu rẹ patapata bi?</string>
-    <string name="video_play_error">Aṣiṣe ṣiṣiṣẹsẹhin fidio</string>
-    <string name="no_network">Aṣiṣe nẹtiwọki, jọwọ ṣayẹwo ti o ba ti sopọ!</string>
-    <string name="video_load_error">Aṣiṣe ikojọpọ fidio</string>
-    <string name="lock_tip">Jọwọ ṣii iboju rẹ</string>
-    <string name="unlocked">Ṣii silẹ</string>
-    <string name="locked">Titiipa</string>
-    <string name="continue_play">Tesiwaju ere</string>
-    <string name="error_message">Asise</string>
-    <string name="replay">Tun ṣe</string>
-    <string name="retry">Tun gbiyanju</string>
-    <string name="net_wifi_tip">O nlo nẹtiwọọki alagbeka. </string>
-    <string name="double_speed">2.0x Iyara</string>
-    <string name="invalidate_video_resource">Nu orisun fidio di aisi, jọwọ gbiyanju lẹẹkansi</string>
-    <string name="play_all_video_finish">Gbogbo awọn fidio ti o wa ninu akoonu yii ti ṣiṣẹ</string>
 </resources>

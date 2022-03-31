@@ -28,7 +28,7 @@
     <string name="saturday">يوم السبت</string>
     <string name="sunday">الأحد</string>
     <string name="rate_us">قيمنا</string>
-    <string name="rate_us_tip">إذا كنت تحبنا ، فيرجى إعطائنا 5 نجوم.</string>
+    <string name="rate_us_tip">إذا كنت تحبنا ، فيرجى إعطائنا 5 نجوم. </string>
     <string name="here_s_your_5_stars">خمس نجوم الثناء</string>
     <string name="four_stars">1-4 نجمة</string>
     <string name="privacy_policy">سياسة خاصة</string>
@@ -69,13 +69,13 @@
     <string name="close">يغلق</string>
     <string name="squeeze_statistics">تم ضغط٪ d من مقاطع الفيديو وحفظ٪ s في الذاكرة</string>
     <string name="please_grant_all_permissions">الرجاء منح كافة الأذونات</string>
-    <string name="coder_quality_tips">(جودة الترميز H265&gt; H264&gt; MPEG)</string>
+    <string name="coder_quality_tips">(جودة الترميز H265> H264> MPEG)</string>
     <string name="density_quality_tips">(دقة أقل تؤدي إلى وضوح أسوأ)</string>
     <string name="failed">باءت بالفشل</string>
     <string name="processing">معالجة</string>
     <string name="delete_warning">حذف تحذير</string>
     <string name="no_permission">لا يوجد إذن</string>
-    <string name="permission_not_found">الإذن لا يكفي.</string>
+    <string name="permission_not_found">الإذن لا يكفي. </string>
     <string name="quit">يترك</string>
     <string name="go_setting">اذهب الإعداد</string>
     <string name="build_hash">بناء TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">مسح مخابئ</string>
     <string name="warning">تحذير</string>
     <string name="clear_caches_tips">هل تريد مسح ذاكرة التخزين المؤقت للملف من هاتفك بشكل دائم؟</string>
-    <string name="video_play_error">خطأ في تشغيل الفيديو</string>
-    <string name="no_network">خطأ في الشبكة ، يرجى التحقق مما إذا كنت متصلاً！</string>
-    <string name="video_load_error">خطأ في تحميل الفيديو</string>
-    <string name="lock_tip">الرجاء فتح الشاشة الخاصة بك</string>
-    <string name="unlocked">مفتوحة</string>
-    <string name="locked">مقفل</string>
-    <string name="continue_play">واصل اللعب</string>
-    <string name="error_message">خطأ</string>
-    <string name="replay">اعادتها</string>
-    <string name="retry">أعد المحاولة</string>
-    <string name="net_wifi_tip">أنت تستخدم شبكة الهاتف المحمول.</string>
-    <string name="double_speed">2.0x السرعة</string>
-    <string name="invalidate_video_resource">مورد الفيديو غير صالح ، يرجى المحاولة مرة أخرى</string>
-    <string name="play_all_video_finish">تم تشغيل جميع مقاطع الفيديو في هذا المحتوى</string>
 </resources>

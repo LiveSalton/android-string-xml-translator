@@ -28,7 +28,7 @@
     <string name="saturday">Ишемби</string>
     <string name="sunday">Жекшемби</string>
     <string name="rate_us">Бизди баалаңыз</string>
-    <string name="rate_us_tip">Бизди жактырсаңыз, бизге 5 жылдыз бериңиз.</string>
+    <string name="rate_us_tip">Бизди жактырсаңыз, бизге 5 жылдыз бериңиз. </string>
     <string name="here_s_your_5_stars">Беш жылдыздуу жогорку мактоо</string>
     <string name="four_stars">1-4 жылдыз</string>
     <string name="privacy_policy">Купуялык саясаты</string>
@@ -69,13 +69,13 @@
     <string name="close">Жабуу</string>
     <string name="squeeze_statistics">Кысылган %d видео жана %s эстутумун сактаңыз</string>
     <string name="please_grant_all_permissions">Сураныч, бардык уруксаттарды бериңиз</string>
-    <string name="coder_quality_tips">(Коддоо сапаты H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Коддоо сапаты H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(төмөн резолюция начарраак айкындуулукка алып келет)</string>
     <string name="failed">ишке ашкан жок</string>
     <string name="processing">иштетүү</string>
     <string name="delete_warning">Эскертүүнү жок кылуу</string>
     <string name="no_permission">Уруксат жок</string>
-    <string name="permission_not_found">Уруксат жетишсиз.</string>
+    <string name="permission_not_found">Уруксат жетишсиз. </string>
     <string name="quit">Чыгыңыз</string>
     <string name="go_setting">Жөндөөлөргө өтүңүз</string>
     <string name="build_hash">TAG куруу</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Кэштерди тазалоо</string>
     <string name="warning">Эскертүү</string>
     <string name="clear_caches_tips">Телефонуңуздагы файлдын кэштерин биротоло тазалагыңыз келеби?</string>
-    <string name="video_play_error">Видеону ойнотуу катасы</string>
-    <string name="no_network">Тармак катасы, туташканыңызды текшериңиз!</string>
-    <string name="video_load_error">Видео жүктөө катасы</string>
-    <string name="lock_tip">Сураныч, экраныңыздын кулпусун ачыңыз</string>
-    <string name="unlocked">Кулпусу ачылган</string>
-    <string name="locked">Кулпуланган</string>
-    <string name="continue_play">Оюнду улантуу</string>
-    <string name="error_message">Ката</string>
-    <string name="replay">Кайра ойнотуу</string>
-    <string name="retry">Кайталап көрүңүз</string>
-    <string name="net_wifi_tip">Сиз мобилдик тармакты колдонуп жатасыз.</string>
-    <string name="double_speed">2.0x ылдамдык</string>
-    <string name="invalidate_video_resource">Видео булагы жараксыз, кайра аракет кылыңыз</string>
-    <string name="play_all_video_finish">Бул мазмундагы бардык видеолор ойнотулду</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="saturday">ଶନିବାର</string>
     <string name="sunday">ରବିବାର</string>
     <string name="rate_us">ଆମକୁ ମୂଲ୍ୟାଙ୍କନ କର |</string>
-    <string name="rate_us_tip">ଯଦି ଆପଣ ଆମକୁ ପସନ୍ଦ କରନ୍ତି, ଦୟାକରି ଆମକୁ 5 ତାରକା ଦିଅନ୍ତୁ |</string>
+    <string name="rate_us_tip">ଯଦି ଆପଣ ଆମକୁ ପସନ୍ଦ କରନ୍ତି, ଦୟାକରି ଆମକୁ 5 ତାରକା ଦିଅନ୍ତୁ | </string>
     <string name="here_s_your_5_stars">ପାଞ୍ଚ ତାରକା ଉଚ୍ଚ ପ୍ରଶଂସା |</string>
     <string name="four_stars">1-4 ତାରା |</string>
     <string name="privacy_policy">ଗୋପନୀୟତା ନୀତି</string>
@@ -69,13 +69,13 @@
     <string name="close">ବନ୍ଦ</string>
     <string name="squeeze_statistics">ସଙ୍କୋଚିତ% d ଭିଡିଓ ଏବଂ% s ମେମୋରୀ ସଞ୍ଚୟ କରନ୍ତୁ |</string>
     <string name="please_grant_all_permissions">ଦୟାକରି ସମସ୍ତ ଅନୁମତି ଦିଅନ୍ତୁ |</string>
-    <string name="coder_quality_tips">(ଏନକୋଡିଂ ଗୁଣବତ୍ତା H265&gt; H264&gt; MPEG)</string>
+    <string name="coder_quality_tips">(ଏନକୋଡିଂ ଗୁଣବତ୍ତା H265> H264> MPEG)</string>
     <string name="density_quality_tips">(ନିମ୍ନ ରେଜୋଲୁସନ ଏକ ଖରାପ ସ୍ ity ଚ୍ଛତା ଫଳାଫଳ କରେ)</string>
     <string name="failed">ବିଫଳ ହେଲା |</string>
     <string name="processing">ପ୍ରକ୍ରିୟାକରଣ</string>
     <string name="delete_warning">ଚେତାବନୀ ବିଲୋପ କରନ୍ତୁ |</string>
     <string name="no_permission">କ No ଣସି ଅନୁମତି ନାହିଁ |</string>
-    <string name="permission_not_found">ଅନୁମତି ଯଥେଷ୍ଟ ନୁହେଁ |</string>
+    <string name="permission_not_found">ଅନୁମତି ଯଥେଷ୍ଟ ନୁହେଁ | </string>
     <string name="quit">ଛାଡ</string>
     <string name="go_setting">ସେଟିଂକୁ ଯାଆନ୍ତୁ |</string>
     <string name="build_hash">TAG ନିର୍ମାଣ କରନ୍ତୁ |</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">କ୍ୟାଚ୍ ସଫା କରନ୍ତୁ |</string>
     <string name="warning">ଚେତାବନୀ</string>
     <string name="clear_caches_tips">ଆପଣ ନିଜ ଫୋନରୁ ଫାଇଲକୁ କ୍ୟାଚ୍ ସଫା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?</string>
-    <string name="video_play_error">ଭିଡିଓ ପ୍ଲେକ୍ ତ୍ରୁଟି |</string>
-    <string name="no_network">ନେଟୱର୍କ ତ୍ରୁଟି, ଦୟାକରି ଆପଣ ସଂଯୁକ୍ତ କି ନାହିଁ ଯାଞ୍ଚ କରନ୍ତୁ！</string>
-    <string name="video_load_error">ଭିଡିଓ ଲୋଡିଂ ତ୍ରୁଟି |</string>
-    <string name="lock_tip">ଦୟାକରି ଆପଣଙ୍କର ସ୍କ୍ରିନ୍ ଅନଲକ୍ କରନ୍ତୁ |</string>
-    <string name="unlocked">ଅନଲକ୍ ହୋଇଛି |</string>
-    <string name="locked">ଲକ୍ ହୋଇଛି |</string>
-    <string name="continue_play">ଖେଳ ଜାରି ରଖ |</string>
-    <string name="error_message">ତ୍ରୁଟି |</string>
-    <string name="replay">ରିପ୍ଲେ</string>
-    <string name="retry">ପୁନ ry ଚେଷ୍ଟା କରନ୍ତୁ |</string>
-    <string name="net_wifi_tip">ଆପଣ ମୋବାଇଲ୍ ନେଟୱାର୍କ ବ୍ୟବହାର କରୁଛନ୍ତି | </string>
-    <string name="double_speed">2.0x ଗତି</string>
-    <string name="invalidate_video_resource">ଭିଡିଓ ଉତ୍ସକୁ ଅବ val ଧ କରନ୍ତୁ, ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</string>
-    <string name="play_all_video_finish">ଏହି ବିଷୟବସ୍ତୁରେ ଥିବା ସମସ୍ତ ଭିଡିଓଗୁଡ଼ିକ ଶେଷ ହୋଇଛି |</string>
 </resources>

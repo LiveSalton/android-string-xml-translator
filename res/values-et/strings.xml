@@ -28,7 +28,7 @@
     <string name="saturday">laupäeval</string>
     <string name="sunday">pühapäev</string>
     <string name="rate_us">Hinda meid</string>
-    <string name="rate_us_tip">Kui me teile meeldime, andke meile 5 tärni.</string>
+    <string name="rate_us_tip">Kui me teile meeldime, andke meile 5 tärni. </string>
     <string name="here_s_your_5_stars">Viie tärni kõrge kiitus</string>
     <string name="four_stars">1-4 tärni</string>
     <string name="privacy_policy">Privaatsuspoliitika</string>
@@ -69,13 +69,13 @@
     <string name="close">Sulge</string>
     <string name="squeeze_statistics">Tihendatud %d videot ja salvestatud %s mälu</string>
     <string name="please_grant_all_permissions">Andke kõik load</string>
-    <string name="coder_quality_tips">(Kodeerimiskvaliteet H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Kodeerimiskvaliteet H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(madalama eraldusvõime tulemuseks on halvem selgus)</string>
     <string name="failed">ebaõnnestunud</string>
     <string name="processing">töötlemine</string>
     <string name="delete_warning">Kustuta hoiatus</string>
     <string name="no_permission">Luba puudub</string>
-    <string name="permission_not_found">Lubast ei piisa.</string>
+    <string name="permission_not_found">Lubast ei piisa. </string>
     <string name="quit">Lõpeta</string>
     <string name="go_setting">Avage seaded</string>
     <string name="build_hash">Ehitage TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Tühjenda vahemälud</string>
     <string name="warning">Hoiatus</string>
     <string name="clear_caches_tips">Kas soovite faili vahemälu jäädavalt tühjendada?</string>
-    <string name="video_play_error">Video taasesituse viga</string>
-    <string name="no_network">Võrgutõrge, kontrollige, kas olete ühendatud!</string>
-    <string name="video_load_error">Video laadimise viga</string>
-    <string name="lock_tip">Avage ekraan</string>
-    <string name="unlocked">Lukustamata</string>
-    <string name="locked">Lukustatud</string>
-    <string name="continue_play">Jätkake mängimist</string>
-    <string name="error_message">Viga</string>
-    <string name="replay">Kordus</string>
-    <string name="retry">Uuesti proovima</string>
-    <string name="net_wifi_tip">Kasutate mobiilsidevõrku.</string>
-    <string name="double_speed">2,0x kiirus</string>
-    <string name="invalidate_video_resource">Videoressursi kehtetuks tunnistamine, proovige uuesti</string>
-    <string name="play_all_video_finish">Kõik selle sisu videod on taasesitatud</string>
 </resources>

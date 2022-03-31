@@ -2,9 +2,9 @@
 <resources>
     <string name="input_new_name">Veuillez entrer un nouveau nom</string>
     <string name="ok">D\'accord</string>
-    <string name="video_delete_success">Vidéo supprimée réussie&nbsp;!</string>
-    <string name="video_delete_failed">Échec de la suppression de la vidéo&nbsp;!</string>
-    <string name="delete_tips">Voulez-vous supprimer définitivement le fichier de votre téléphone&nbsp;?</string>
+    <string name="video_delete_success">Vidéo supprimée réussie !</string>
+    <string name="video_delete_failed">Échec de la suppression de la vidéo !</string>
+    <string name="delete_tips">Voulez-vous supprimer définitivement le fichier de votre téléphone ?</string>
     <string name="delete_tips_two">* Une fois supprimé, ne peut pas être récupéré.</string>
     <string name="not_found_video_data">Impossible de trouver une vidéo</string>
     <string name="rename_failed">Échec du renommage, réessayez plus tard</string>
@@ -28,7 +28,7 @@
     <string name="saturday">samedi</string>
     <string name="sunday">dimanche</string>
     <string name="rate_us">Évaluez nous</string>
-    <string name="rate_us_tip">Si vous nous aimez, veuillez nous donner 5 étoiles.</string>
+    <string name="rate_us_tip">Si vous nous aimez, veuillez nous donner 5 étoiles. </string>
     <string name="here_s_your_5_stars">Éloges cinq étoiles</string>
     <string name="four_stars">1-4 étoiles</string>
     <string name="privacy_policy">Politique de confidentialité</string>
@@ -43,7 +43,7 @@
     <string name="origin_file">Fichier d\'origine</string>
     <string name="squeezed_file">Fichier compressé</string>
     <string name="squeezed_option">Options de compression</string>
-    <string name="move_to_gallery_tips">La vidéo en cours va être déplacée dans votre album, confirmez l\'opération&nbsp;?</string>
+    <string name="move_to_gallery_tips">La vidéo en cours va être déplacée dans votre album, confirmez l\'opération ?</string>
     <string name="add_to_favorite">Ajouter aux Favoris</string>
     <string name="start">Démarrer</string>
     <string name="has_add_to_favorite">%s a été ajouté aux favoris</string>
@@ -67,15 +67,15 @@
     <string name="channel">Canal</string>
     <string name="language">Langue</string>
     <string name="close">Fermer</string>
-    <string name="squeeze_statistics">Compressez %d&nbsp;vidéos et économisez %s de mémoire</string>
+    <string name="squeeze_statistics">Compressez %d vidéos et économisez %s de mémoire</string>
     <string name="please_grant_all_permissions">Veuillez accorder toutes les autorisations</string>
-    <string name="coder_quality_tips">(Qualité d\'encodage H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Qualité d\'encodage H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(une résolution inférieure entraîne une moins bonne clarté)</string>
     <string name="failed">échoué</string>
     <string name="processing">En traitement</string>
     <string name="delete_warning">Supprimer l\'avertissement</string>
     <string name="no_permission">Aucune autorisation</string>
-    <string name="permission_not_found">L\'autorisation ne suffit pas.</string>
+    <string name="permission_not_found">L\'autorisation ne suffit pas. </string>
     <string name="quit">Quitter</string>
     <string name="go_setting">Aller au réglage</string>
     <string name="build_hash">Créer un TAG</string>
@@ -83,7 +83,7 @@
     <string name="web_site">Site Internet</string>
     <string name="email">E-mail</string>
     <string name="favorite_list">Liste des favoris</string>
-    <string name="storage_path">Chemin de stockage&nbsp;: %s</string>
+    <string name="storage_path">Chemin de stockage : %s</string>
     <string name="play">Lire la vidéo</string>
     <string name="info">Info</string>
     <string name="favorite">Collecter</string>
@@ -93,19 +93,5 @@
     <string name="share">Partager</string>
     <string name="clear_caches">Effacer les caches</string>
     <string name="warning">Avertissement</string>
-    <string name="clear_caches_tips">Voulez-vous effacer définitivement les caches du fichier de votre téléphone&nbsp;?</string>
-    <string name="video_play_error">Erreur de lecture vidéo</string>
-    <string name="no_network">Erreur réseau, veuillez vérifier si vous êtes connecté！</string>
-    <string name="video_load_error">Erreur de chargement de la vidéo</string>
-    <string name="lock_tip">Veuillez déverrouiller votre écran</string>
-    <string name="unlocked">Débloqué</string>
-    <string name="locked">Fermé à clé</string>
-    <string name="continue_play">Continuer à jouer</string>
-    <string name="error_message">Erreur</string>
-    <string name="replay">Rejouer</string>
-    <string name="retry">Réessayez</string>
-    <string name="net_wifi_tip">Vous utilisez le réseau mobile.</string>
-    <string name="double_speed">Vitesse 2.0x</string>
-    <string name="invalidate_video_resource">Ressource vidéo non valide, veuillez réessayer</string>
-    <string name="play_all_video_finish">Toutes les vidéos de ce contenu ont été lues</string>
+    <string name="clear_caches_tips">Voulez-vous effacer définitivement les caches du fichier de votre téléphone ?</string>
 </resources>

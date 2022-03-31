@@ -28,7 +28,7 @@
     <string name="saturday">შაბათი</string>
     <string name="sunday">კვირა</string>
     <string name="rate_us">Შეგვაფასეთ</string>
-    <string name="rate_us_tip">თუ მოგწონთ, გთხოვთ მოგვცეს 5 ვარსკვლავი.</string>
+    <string name="rate_us_tip">თუ მოგწონთ, გთხოვთ მოგვცეს 5 ვარსკვლავი. </string>
     <string name="here_s_your_5_stars">ხუთვარსკვლავიანი მაღალი შეფასება</string>
     <string name="four_stars">1-4 ვარსკვლავი</string>
     <string name="privacy_policy">Კონფიდენციალურობის პოლიტიკა</string>
@@ -69,13 +69,13 @@
     <string name="close">დახურვა</string>
     <string name="squeeze_statistics">შეკუმშულია %d ვიდეო და შეინახება %s მეხსიერება</string>
     <string name="please_grant_all_permissions">გთხოვთ, მიანიჭოთ ყველა ნებართვა</string>
-    <string name="coder_quality_tips">(დაშიფვრის ხარისხი H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(დაშიფვრის ხარისხი H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(დაბალი გარჩევადობა იწვევს უარეს სიცხადეს)</string>
     <string name="failed">ვერ მოხერხდა</string>
     <string name="processing">დამუშავება</string>
     <string name="delete_warning">გაფრთხილების წაშლა</string>
     <string name="no_permission">Უფლების, ნებართვის გარეშე</string>
-    <string name="permission_not_found">ნებართვა არ არის საკმარისი.</string>
+    <string name="permission_not_found">ნებართვა არ არის საკმარისი. </string>
     <string name="quit">თავი დაანებე</string>
     <string name="go_setting">გადადით პარამეტრებზე</string>
     <string name="build_hash">TAG-ის აშენება</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">ქეშების გასუფთავება</string>
     <string name="warning">გაფრთხილება</string>
     <string name="clear_caches_tips">გსურთ სამუდამოდ გაასუფთავოთ ქეში ფაილი თქვენი ტელეფონიდან?</string>
-    <string name="video_play_error">ვიდეოს დაკვრის შეცდომა</string>
-    <string name="no_network">ქსელის შეცდომა, გთხოვთ შეამოწმოთ დაკავშირებული ხართ თუ არა!</string>
-    <string name="video_load_error">ვიდეო ჩატვირთვის შეცდომა</string>
-    <string name="lock_tip">გთხოვთ განბლოკოთ თქვენი ეკრანი</string>
-    <string name="unlocked">განბლოკილია</string>
-    <string name="locked">ჩაკეტილი</string>
-    <string name="continue_play">განაგრძეთ თამაში</string>
-    <string name="error_message">შეცდომა</string>
-    <string name="replay">გამეორება</string>
-    <string name="retry">ხელახლა სცადეთ</string>
-    <string name="net_wifi_tip">თქვენ იყენებთ მობილურ ქსელს.</string>
-    <string name="double_speed">2.0x სიჩქარე</string>
-    <string name="invalidate_video_resource">გააუქმეთ ვიდეო რესურსი, გთხოვთ, სცადოთ ხელახლა</string>
-    <string name="play_all_video_finish">ამ კონტენტის ყველა ვიდეო დაკვრა დასრულდა</string>
 </resources>

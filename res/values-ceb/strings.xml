@@ -28,7 +28,7 @@
     <string name="saturday">Sabado</string>
     <string name="sunday">Domingo</string>
     <string name="rate_us">I-rate Kami</string>
-    <string name="rate_us_tip">Kung ganahan ka namo, palihog hatagi mi ug 5 ka bituon.</string>
+    <string name="rate_us_tip">Kung ganahan ka namo, palihog hatagi mi ug 5 ka bituon. </string>
     <string name="here_s_your_5_stars">Lima ka bituon nga taas nga pagdayeg</string>
     <string name="four_stars">1-4 ka bituon</string>
     <string name="privacy_policy">Polisiya sa pagkapribado</string>
@@ -69,13 +69,13 @@
     <string name="close">Suod nga</string>
     <string name="squeeze_statistics">Gi-compress ang %d nga mga video ug gitipigan ang %s nga memorya</string>
     <string name="please_grant_all_permissions">Palihug ihatag ang tanan nga pagtugot</string>
-    <string name="coder_quality_tips">(Kalidad sa pag-encode H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Kalidad sa pag-encode H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(ubos nga resolusyon moresulta sa mas grabe nga katin-aw)</string>
     <string name="failed">napakyas</string>
     <string name="processing">pagproseso</string>
     <string name="delete_warning">Pagtangtang sa Pasidaan</string>
     <string name="no_permission">Walay Permiso</string>
-    <string name="permission_not_found">Dili igo ang pagtugot.</string>
+    <string name="permission_not_found">Dili igo ang pagtugot. </string>
     <string name="quit">Hunong</string>
     <string name="go_setting">Adto sa Setting</string>
     <string name="build_hash">Paghimo og TAG</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Hawani ang mga Cache</string>
     <string name="warning">Pasidaan</string>
     <string name="clear_caches_tips">Gusto ba nimo nga malimpyohan ang mga cache sa file gikan sa imong telepono nga permanente?</string>
-    <string name="video_play_error">Sayop sa pagdula sa video</string>
-    <string name="no_network">Kasaypanan sa network, palihug susiha kung konektado ka!</string>
-    <string name="video_load_error">Sayop sa pagkarga sa video</string>
-    <string name="lock_tip">Palihug ablihi ang imong screen</string>
-    <string name="unlocked">Giablihan</string>
-    <string name="locked">Gi-lock</string>
-    <string name="continue_play">Padayon sa pagdula</string>
-    <string name="error_message">Sayop</string>
-    <string name="replay">Replay</string>
-    <string name="retry">Sulayi pag-usab</string>
-    <string name="net_wifi_tip">Gigamit nimo ang mobile network. </string>
-    <string name="double_speed">2.0x nga Bilis</string>
-    <string name="invalidate_video_resource">Dili balido ang kapanguhaan sa video, palihog sulayi pag-usab</string>
-    <string name="play_all_video_finish">Ang tanan nga mga video sa kini nga sulud gidula na</string>
 </resources>

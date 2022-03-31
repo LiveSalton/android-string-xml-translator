@@ -28,7 +28,7 @@
     <string name="saturday">ہفتہ</string>
     <string name="sunday">اتوار</string>
     <string name="rate_us">ہمیں درجہ دیں۔</string>
-    <string name="rate_us_tip">اگر آپ ہمیں پسند کرتے ہیں، تو براہ کرم ہمیں 5 ستارے دیں۔</string>
+    <string name="rate_us_tip">اگر آپ ہمیں پسند کرتے ہیں، تو براہ کرم ہمیں 5 ستارے دیں۔ </string>
     <string name="here_s_your_5_stars">پانچ ستارہ اعلی تعریف</string>
     <string name="four_stars">1-4 ستارہ</string>
     <string name="privacy_policy">رازداری کی پالیسی</string>
@@ -69,13 +69,13 @@
     <string name="close">بند کریں</string>
     <string name="squeeze_statistics">%d ویڈیوز سکیڑیں اور %s میموری محفوظ کریں۔</string>
     <string name="please_grant_all_permissions">براہ کرم تمام اجازتیں دیں۔</string>
-    <string name="coder_quality_tips">(انکوڈنگ کوالٹی H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(انکوڈنگ کوالٹی H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(کم ریزولوشن کے نتیجے میں بدتر وضاحت ہوتی ہے)</string>
     <string name="failed">ناکام</string>
     <string name="processing">پروسیسنگ</string>
     <string name="delete_warning">تنبیہ کو حذف کریں۔</string>
     <string name="no_permission">اجازت نہیں</string>
-    <string name="permission_not_found">اجازت کافی نہیں۔</string>
+    <string name="permission_not_found">اجازت کافی نہیں۔ </string>
     <string name="quit">چھوڑو</string>
     <string name="go_setting">سیٹنگ پر جائیں۔</string>
     <string name="build_hash">TAG بنائیں</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">کیچز کو صاف کریں۔</string>
     <string name="warning">وارننگ</string>
     <string name="clear_caches_tips">کیا آپ اپنے فون سے کیش فائل کو مستقل طور پر صاف کرنا چاہتے ہیں؟</string>
-    <string name="video_play_error">ویڈیو پلے بیک کی خرابی۔</string>
-    <string name="no_network">نیٹ ورک کی خرابی، براہ کرم چیک کریں کہ آیا آپ منسلک ہیں！</string>
-    <string name="video_load_error">ویڈیو لوڈ کرنے میں خرابی۔</string>
-    <string name="lock_tip">براہ کرم اپنی اسکرین کو غیر مقفل کریں۔</string>
-    <string name="unlocked">کھلا</string>
-    <string name="locked">مقفل</string>
-    <string name="continue_play">کھیل جاری رکھیں</string>
-    <string name="error_message">خرابی</string>
-    <string name="replay">دوبارہ چلائیں</string>
-    <string name="retry">دوبارہ کوشش کریں۔</string>
-    <string name="net_wifi_tip">آپ موبائل نیٹ ورک استعمال کر رہے ہیں۔ </string>
-    <string name="double_speed">2.0x رفتار</string>
-    <string name="invalidate_video_resource">ویڈیو وسائل کو غلط کریں، براہ کرم دوبارہ کوشش کریں۔</string>
-    <string name="play_all_video_finish">اس مواد کے تمام ویڈیوز پلے اوور ہو چکے ہیں۔</string>
 </resources>

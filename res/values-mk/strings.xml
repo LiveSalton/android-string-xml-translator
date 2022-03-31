@@ -28,7 +28,7 @@
     <string name="saturday">сабота</string>
     <string name="sunday">недела</string>
     <string name="rate_us">Оцени нас</string>
-    <string name="rate_us_tip">Ако ви се допаѓаме, ве молиме дајте ни 5 ѕвезди.</string>
+    <string name="rate_us_tip">Ако ви се допаѓаме, ве молиме дајте ни 5 ѕвезди. </string>
     <string name="here_s_your_5_stars">Пет ѕвездички високи пофалби</string>
     <string name="four_stars">1-4 ѕвезда</string>
     <string name="privacy_policy">Политика за приватност</string>
@@ -69,13 +69,13 @@
     <string name="close">Затвори</string>
     <string name="squeeze_statistics">Компресира %d видеа и зачува %s меморија</string>
     <string name="please_grant_all_permissions">Ве молиме дајте ги сите дозволи</string>
-    <string name="coder_quality_tips">(Квалитет на кодирање H265 &gt; H264 &gt; MPEG)</string>
+    <string name="coder_quality_tips">(Квалитет на кодирање H265 > H264 > MPEG)</string>
     <string name="density_quality_tips">(пониската резолуција резултира со полоша јасност)</string>
     <string name="failed">не успеа</string>
     <string name="processing">обработка</string>
     <string name="delete_warning">Избриши предупредување</string>
     <string name="no_permission">Нема дозвола</string>
-    <string name="permission_not_found">Дозволата не е доволна.</string>
+    <string name="permission_not_found">Дозволата не е доволна. </string>
     <string name="quit">Откажи</string>
     <string name="go_setting">Оди поставка</string>
     <string name="build_hash">Изградете ТАГ</string>
@@ -94,18 +94,4 @@
     <string name="clear_caches">Исчистете ги кешовите</string>
     <string name="warning">Предупредување</string>
     <string name="clear_caches_tips">Дали сакате трајно да ја исчистите кешот на датотеката од вашиот телефон?</string>
-    <string name="video_play_error">Грешка при репродукција на видео</string>
-    <string name="no_network">Мрежна грешка, ве молиме проверете дали сте поврзани!</string>
-    <string name="video_load_error">Грешка при вчитување на видеото</string>
-    <string name="lock_tip">Отклучете го екранот</string>
-    <string name="unlocked">Отклучен</string>
-    <string name="locked">Заклучен</string>
-    <string name="continue_play">Продолжи со играње</string>
-    <string name="error_message">Грешка</string>
-    <string name="replay">Реприза</string>
-    <string name="retry">Обидете се повторно</string>
-    <string name="net_wifi_tip">Ја користите мобилната мрежа.</string>
-    <string name="double_speed">2,0x Брзина</string>
-    <string name="invalidate_video_resource">Неважечки видео ресурс, обидете се повторно</string>
-    <string name="play_all_video_finish">Сите видеа во оваа содржина се репродуцираат</string>
 </resources>
