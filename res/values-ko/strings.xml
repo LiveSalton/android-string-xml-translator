@@ -28,7 +28,7 @@
     <string name="saturday">토요일</string>
     <string name="sunday">일요일</string>
     <string name="rate_us">평가</string>
-    <string name="rate_us_tip">당신이 우리를 좋아한다면, 우리에게 별 5개를 주십시오. </string>
+    <string name="rate_us_tip">당신이 우리를 좋아한다면, 우리에게 별 5개를 주십시오.</string>
     <string name="here_s_your_5_stars">별 다섯 개 높은 평가</string>
     <string name="four_stars">1-4 스타</string>
     <string name="privacy_policy">개인 정보 정책</string>
@@ -75,7 +75,7 @@
     <string name="processing">처리</string>
     <string name="delete_warning">경고 삭제</string>
     <string name="no_permission">비허가</string>
-    <string name="permission_not_found">권한이 충분하지 않습니다. </string>
+    <string name="permission_not_found">권한이 충분하지 않습니다.</string>
     <string name="quit">그만두 다</string>
     <string name="go_setting">설정으로 이동</string>
     <string name="build_hash">빌드 태그</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">캐시 지우기</string>
     <string name="warning">경고</string>
     <string name="clear_caches_tips">휴대 전화에서 파일을 영구적으로 지우시겠습니까?</string>
+    <string name="video_play_error">동영상 재생 오류</string>
+    <string name="no_network">네트워크 오류입니다. 연결되어 있는지 확인하세요!</string>
+    <string name="video_load_error">동영상 로딩 오류</string>
+    <string name="lock_tip">화면 잠금을 해제하세요</string>
+    <string name="unlocked">잠금 해제</string>
+    <string name="locked">잠김</string>
+    <string name="continue_play">계속 플레이</string>
+    <string name="error_message">오류</string>
+    <string name="replay">다시 하다</string>
+    <string name="retry">다시 해 보다</string>
+    <string name="net_wifi_tip">모바일 네트워크를 사용하고 있습니다. </string>
+    <string name="double_speed">2.0배속</string>
+    <string name="invalidate_video_resource">비디오 리소스가 무효화되었습니다. 다시 시도하십시오.</string>
+    <string name="play_all_video_finish">이 콘텐츠의 모든 동영상이 재생되었습니다.</string>
 </resources>

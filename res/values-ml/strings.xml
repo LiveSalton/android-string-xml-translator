@@ -28,7 +28,7 @@
     <string name="saturday">ശനിയാഴ്ച</string>
     <string name="sunday">ഞായറാഴ്ച</string>
     <string name="rate_us">ഞങ്ങളെ റേറ്റുചെയ്യുക</string>
-    <string name="rate_us_tip">നിങ്ങൾക്ക് ഞങ്ങളെ ഇഷ്ടമാണെങ്കിൽ, ദയവായി ഞങ്ങൾക്ക് 5 നക്ഷത്രങ്ങൾ നൽകുക. </string>
+    <string name="rate_us_tip">നിങ്ങൾക്ക് ഞങ്ങളെ ഇഷ്ടമാണെങ്കിൽ, ദയവായി ഞങ്ങൾക്ക് 5 നക്ഷത്രങ്ങൾ നൽകുക.</string>
     <string name="here_s_your_5_stars">ഫൈവ് സ്റ്റാർ ഉയർന്ന പ്രശംസ</string>
     <string name="four_stars">1-4 നക്ഷത്രം</string>
     <string name="privacy_policy">സ്വകാര്യതാ നയം</string>
@@ -75,7 +75,7 @@
     <string name="processing">പ്രോസസ്സിംഗ്</string>
     <string name="delete_warning">മുന്നറിയിപ്പ് ഇല്ലാതാക്കുക</string>
     <string name="no_permission">അനുവാദമില്ല</string>
-    <string name="permission_not_found">അനുമതി പോരാ. </string>
+    <string name="permission_not_found">അനുമതി പോരാ.</string>
     <string name="quit">ഉപേക്ഷിക്കുക</string>
     <string name="go_setting">ക്രമീകരണത്തിലേക്ക് പോകുക</string>
     <string name="build_hash">TAG നിർമ്മിക്കുക</string>
@@ -83,7 +83,7 @@
     <string name="web_site">വെബ് സൈറ്റ്</string>
     <string name="email">ഇമെയിൽ</string>
     <string name="favorite_list">പ്രിയപ്പെട്ട ലിസ്റ്റ്</string>
-    <string name="storage_path">സംഭരണ ​​പാത:%s</string>
+    <string name="storage_path">സംഭരണ പാത:%s</string>
     <string name="play">വീഡിയോ പ്ലേ ചെയ്യുക</string>
     <string name="info">വിവരം</string>
     <string name="favorite">ശേഖരിക്കുക</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">കാഷെകൾ മായ്‌ക്കുക</string>
     <string name="warning">മുന്നറിയിപ്പ്</string>
     <string name="clear_caches_tips">നിങ്ങളുടെ ഫോണിൽ നിന്ന് ഫയൽ കാഷെകൾ ശാശ്വതമായി മായ്‌ക്കണോ?</string>
+    <string name="video_play_error">വീഡിയോ പ്ലേ പിശക്</string>
+    <string name="no_network">നെറ്റ്‌വർക്ക് പിശക്, നിങ്ങൾ കണക്‌റ്റ് ചെയ്‌തിട്ടുണ്ടോയെന്ന് പരിശോധിക്കുക!</string>
+    <string name="video_load_error">വീഡിയോ ലോഡ് ചെയ്യുന്നതിൽ പിശക്</string>
+    <string name="lock_tip">നിങ്ങളുടെ സ്‌ക്രീൻ അൺലോക്ക് ചെയ്യുക</string>
+    <string name="unlocked">അൺലോക്ക് ചെയ്തു</string>
+    <string name="locked">പൂട്ടി</string>
+    <string name="continue_play">കളി തുടരുക</string>
+    <string name="error_message">പിശക്</string>
+    <string name="replay">വീണ്ടും പ്ലേ ചെയ്യുക</string>
+    <string name="retry">വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="net_wifi_tip">നിങ്ങൾ മൊബൈൽ നെറ്റ്‌വർക്ക് ഉപയോഗിക്കുന്നു. </string>
+    <string name="double_speed">2.0x വേഗത</string>
+    <string name="invalidate_video_resource">വീഡിയോ ഉറവിടം അസാധുവാക്കുക, വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="play_all_video_finish">ഈ ഉള്ളടക്കത്തിലെ എല്ലാ വീഡിയോകളും പ്ലേ ഓവർ ആയി</string>
 </resources>

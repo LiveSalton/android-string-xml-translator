@@ -28,7 +28,7 @@
     <string name="saturday">субота</string>
     <string name="sunday">неділя</string>
     <string name="rate_us">Оцініть нас</string>
-    <string name="rate_us_tip">Якщо ми вам подобається, будь ласка, поставте нам 5 зірок. </string>
+    <string name="rate_us_tip">Якщо ми вам подобається, будь ласка, поставте нам 5 зірок.</string>
     <string name="here_s_your_5_stars">П\'ять зірок висока оцінка</string>
     <string name="four_stars">1-4 зірки</string>
     <string name="privacy_policy">Політика конфіденційності</string>
@@ -75,7 +75,7 @@
     <string name="processing">обробка</string>
     <string name="delete_warning">Видалити попередження</string>
     <string name="no_permission">Немає дозволу</string>
-    <string name="permission_not_found">Недостатньо дозволу. </string>
+    <string name="permission_not_found">Недостатньо дозволу.</string>
     <string name="quit">Вийти</string>
     <string name="go_setting">Перейти Налаштування</string>
     <string name="build_hash">Побудувати TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Очистити кеші</string>
     <string name="warning">Увага</string>
     <string name="clear_caches_tips">Ви хочете назавжди очистити кеш-пам’ять файлу зі свого телефону?</string>
+    <string name="video_play_error">Помилка відтворення відео</string>
+    <string name="no_network">Помилка мережі, будь ласка, перевірте, чи ви підключені!</string>
+    <string name="video_load_error">Помилка завантаження відео</string>
+    <string name="lock_tip">Розблокуйте екран</string>
+    <string name="unlocked">Розблоковано</string>
+    <string name="locked">Заблоковано</string>
+    <string name="continue_play">Продовжуйте гру</string>
+    <string name="error_message">Помилка</string>
+    <string name="replay">Повторити</string>
+    <string name="retry">Повторіть спробу</string>
+    <string name="net_wifi_tip">Ви використовуєте мобільну мережу. </string>
+    <string name="double_speed">Швидкість 2,0x</string>
+    <string name="invalidate_video_resource">Скасуйте відеоресурс, спробуйте ще раз</string>
+    <string name="play_all_video_finish">Відтворення всіх відео в цьому вмісті завершено</string>
 </resources>

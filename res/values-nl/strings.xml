@@ -28,7 +28,7 @@
     <string name="saturday">zaterdag</string>
     <string name="sunday">zondag</string>
     <string name="rate_us">Beoordeel ons</string>
-    <string name="rate_us_tip">Als je ons leuk vindt, geef ons dan 5 sterren. </string>
+    <string name="rate_us_tip">Als je ons leuk vindt, geef ons dan 5 sterren.</string>
     <string name="here_s_your_5_stars">Vijf sterren veel lof</string>
     <string name="four_stars">1-4 ster</string>
     <string name="privacy_policy">Privacybeleid</string>
@@ -75,7 +75,7 @@
     <string name="processing">verwerken</string>
     <string name="delete_warning">Waarschuwing verwijderen</string>
     <string name="no_permission">Geen toestemming</string>
-    <string name="permission_not_found">Toestemming niet genoeg. </string>
+    <string name="permission_not_found">Toestemming niet genoeg.</string>
     <string name="quit">Ontslag nemen</string>
     <string name="go_setting">Ga naar instelling</string>
     <string name="build_hash">TAG bouwen</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Caches wissen</string>
     <string name="warning">Waarschuwing</string>
     <string name="clear_caches_tips">Wilt u de cache van het bestand permanent van uw telefoon wissen?</string>
+    <string name="video_play_error">Fout bij afspelen van video</string>
+    <string name="no_network">Netwerkfout, controleer of u verbonden bent！</string>
+    <string name="video_load_error">Fout bij het laden van video</string>
+    <string name="lock_tip">Ontgrendel je scherm a.u.b.</string>
+    <string name="unlocked">ontgrendeld</string>
+    <string name="locked">Op slot</string>
+    <string name="continue_play">Doorgaan met spelen</string>
+    <string name="error_message">Fout</string>
+    <string name="replay">Herhaling</string>
+    <string name="retry">Opnieuw proberen</string>
+    <string name="net_wifi_tip">U maakt gebruik van het mobiele netwerk. </string>
+    <string name="double_speed">2.0x snelheid</string>
+    <string name="invalidate_video_resource">Videobron ongeldig maken, probeer het opnieuw</string>
+    <string name="play_all_video_finish">Alle video\'s in deze inhoud hebben play over</string>
 </resources>

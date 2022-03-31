@@ -94,4 +94,18 @@
     <string name="clear_caches">清除緩存</string>
     <string name="warning">警告</string>
     <string name="clear_caches_tips">您想永久清除手機中的緩存文件嗎？</string>
+    <string name="video_play_error">視頻播放錯誤</string>
+    <string name="no_network">網絡錯誤，請檢查是否已連接！</string>
+    <string name="video_load_error">視頻加載錯誤</string>
+    <string name="lock_tip">請解鎖您的屏幕</string>
+    <string name="unlocked">解鎖</string>
+    <string name="locked">鎖定</string>
+    <string name="continue_play">繼續玩</string>
+    <string name="error_message">錯誤</string>
+    <string name="replay">重播</string>
+    <string name="retry">重試</string>
+    <string name="net_wifi_tip">您正在使用移動網絡。</string>
+    <string name="double_speed">2.0 倍速度</string>
+    <string name="invalidate_video_resource">視頻資源無效，請重試</string>
+    <string name="play_all_video_finish">此內容中的所有視頻都已播放完畢</string>
 </resources>

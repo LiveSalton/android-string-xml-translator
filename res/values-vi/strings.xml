@@ -28,7 +28,7 @@
     <string name="saturday">Thứ bảy</string>
     <string name="sunday">chủ nhật</string>
     <string name="rate_us">Đánh giá chúng tôi</string>
-    <string name="rate_us_tip">Nếu bạn thích chúng tôi, xin vui lòng cho chúng tôi 5 sao. </string>
+    <string name="rate_us_tip">Nếu bạn thích chúng tôi, xin vui lòng cho chúng tôi 5 sao.</string>
     <string name="here_s_your_5_stars">Khen ngợi cao năm sao</string>
     <string name="four_stars">1-4 sao</string>
     <string name="privacy_policy">Chính sách bảo mật</string>
@@ -75,7 +75,7 @@
     <string name="processing">Chế biến</string>
     <string name="delete_warning">Xóa cảnh báo</string>
     <string name="no_permission">Không cho phép</string>
-    <string name="permission_not_found">Quyền không đủ. </string>
+    <string name="permission_not_found">Quyền không đủ.</string>
     <string name="quit">Từ bỏ</string>
     <string name="go_setting">Chuyển sang cài đặt</string>
     <string name="build_hash">Xây dựng TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Xóa bộ nhớ đệm</string>
     <string name="warning">Cảnh báo</string>
     <string name="clear_caches_tips">Bạn có muốn xóa vĩnh viễn tệp khỏi bộ nhớ đệm trên điện thoại của mình không?</string>
+    <string name="video_play_error">Lỗi phát video</string>
+    <string name="no_network">Lỗi mạng, vui lòng kiểm tra xem bạn đã kết nối chưa！</string>
+    <string name="video_load_error">Lỗi tải video</string>
+    <string name="lock_tip">Vui lòng mở khóa màn hình của bạn</string>
+    <string name="unlocked">Đã mở khóa</string>
+    <string name="locked">Đã khóa</string>
+    <string name="continue_play">Tiếp tục chơi</string>
+    <string name="error_message">Lỗi</string>
+    <string name="replay">phát lại</string>
+    <string name="retry">Thử lại</string>
+    <string name="net_wifi_tip">Bạn đang sử dụng mạng di động. </string>
+    <string name="double_speed">Tốc độ 2.0x</string>
+    <string name="invalidate_video_resource">Tài nguyên video không hợp lệ, vui lòng thử lại</string>
+    <string name="play_all_video_finish">Tất cả các video trong nội dung này đã phát hết</string>
 </resources>

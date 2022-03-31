@@ -28,7 +28,7 @@
     <string name="saturday">uMgqibelo</string>
     <string name="sunday">iCawe</string>
     <string name="rate_us">Isilinganisele</string>
-    <string name="rate_us_tip">Ukuba uyasithanda, nceda usinike iinkwenkwezi ezi-5. </string>
+    <string name="rate_us_tip">Ukuba uyasithanda, nceda usinike iinkwenkwezi ezi-5.</string>
     <string name="here_s_your_5_stars">Iinkwenkwezi ezintlanu indumiso ephezulu</string>
     <string name="four_stars">1-4 Inkwenkwezi</string>
     <string name="privacy_policy">Umthetho wabucala</string>
@@ -75,7 +75,7 @@
     <string name="processing">ukuqhubekeka</string>
     <string name="delete_warning">Cima Isilumkiso</string>
     <string name="no_permission">Akukho Mvume</string>
-    <string name="permission_not_found">Imvume ayonelanga. </string>
+    <string name="permission_not_found">Imvume ayonelanga.</string>
     <string name="quit">Yeka</string>
     <string name="go_setting">Yiya kwisetingi</string>
     <string name="build_hash">Yakha i-TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Cima iiCache</string>
     <string name="warning">Isilumkiso</string>
     <string name="clear_caches_tips">Ngaba uyafuna ukucima i-cache yefayile kwifowuni yakho ngokusisigxina?</string>
+    <string name="video_play_error">Impazamo yokudlala ividiyo</string>
+    <string name="no_network">Impazamo yenethiwekhi, nceda ujonge ukuba uqhagamshelwe!</string>
+    <string name="video_load_error">Impazamo yokulayisha ividiyo</string>
+    <string name="lock_tip">Nceda uvule isikrini sakho</string>
+    <string name="unlocked">Ivuliwe</string>
+    <string name="locked">Itshixiwe</string>
+    <string name="continue_play">Qhubeka nokudlala</string>
+    <string name="error_message">Impazamo</string>
+    <string name="replay">Phinda udlale</string>
+    <string name="retry">Zama kwakhona</string>
+    <string name="net_wifi_tip">Usebenzisa inethiwekhi yeselula. </string>
+    <string name="double_speed">2.0x Isantya</string>
+    <string name="invalidate_video_resource">Isixhobo sevidiyo esingasebenziyo, nceda uzame kwakhona</string>
+    <string name="play_all_video_finish">Zonke iividiyo ezikulo mxholo zidlaliwe</string>
 </resources>

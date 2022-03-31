@@ -28,7 +28,7 @@
     <string name="saturday">Rāhoroi</string>
     <string name="sunday">Rātapu</string>
     <string name="rate_us">Whakatauria Tatou</string>
-    <string name="rate_us_tip">Mena kei te pai koe ki a maatau, tena koa homai nga whetu 5. </string>
+    <string name="rate_us_tip">Mena kei te pai koe ki a maatau, tena koa homai nga whetu 5.</string>
     <string name="here_s_your_5_stars">E rima whetu te whakanui</string>
     <string name="four_stars">1-4 Whetu</string>
     <string name="privacy_policy">Kaupapahere tūmataiti</string>
@@ -75,7 +75,7 @@
     <string name="processing">tukatuka</string>
     <string name="delete_warning">Mukua Whakatupato</string>
     <string name="no_permission">Kaore he Whakaaetanga</string>
-    <string name="permission_not_found">He iti rawa te whakaaetanga. </string>
+    <string name="permission_not_found">He iti rawa te whakaaetanga.</string>
     <string name="quit">Whakamutua</string>
     <string name="go_setting">Haere Tautuhinga</string>
     <string name="build_hash">Hanga TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Ūkui Keteroki</string>
     <string name="warning">Whakatupato</string>
     <string name="clear_caches_tips">Kei te pirangi koe ki te ūkui keteroki te konae mai i to waea waea?</string>
+    <string name="video_play_error">Hapa purei ataata</string>
+    <string name="no_network">Hapa whatunga, tirohia mena kei te hono koe!</string>
+    <string name="video_load_error">Hapa uta ataata</string>
+    <string name="lock_tip">Wewete koa to mata</string>
+    <string name="unlocked">Wewete</string>
+    <string name="locked">Kua maukati</string>
+    <string name="continue_play">Haere tonu te purei</string>
+    <string name="error_message">Hapa</string>
+    <string name="replay">Whakatangihia</string>
+    <string name="retry">Ngana ano</string>
+    <string name="net_wifi_tip">Kei te whakamahi koe i te whatunga pūkoro. </string>
+    <string name="double_speed">2.0x Tere</string>
+    <string name="invalidate_video_resource">Whakakorehia te rauemi ataata, ngana ano</string>
+    <string name="play_all_video_finish">Ko nga ataata katoa i roto i tenei ihirangi kua purei</string>
 </resources>

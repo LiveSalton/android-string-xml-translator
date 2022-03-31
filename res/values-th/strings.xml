@@ -28,7 +28,7 @@
     <string name="saturday">วันเสาร์</string>
     <string name="sunday">วันอาทิตย์</string>
     <string name="rate_us">ให้คะแนนเรา</string>
-    <string name="rate_us_tip">ถ้าคุณชอบเราโปรดให้เรา 5 ดาว </string>
+    <string name="rate_us_tip">ถ้าคุณชอบเราโปรดให้เรา 5 ดาว</string>
     <string name="here_s_your_5_stars">ห้าดาวสรรเสริญสูง</string>
     <string name="four_stars">1-4 ดาว</string>
     <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
@@ -75,7 +75,7 @@
     <string name="processing">กำลังประมวลผล</string>
     <string name="delete_warning">ลบคำเตือน</string>
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
-    <string name="permission_not_found">สิทธิ์ไม่เพียงพอ </string>
+    <string name="permission_not_found">สิทธิ์ไม่เพียงพอ</string>
     <string name="quit">เลิก</string>
     <string name="go_setting">ไปตั้งค่า</string>
     <string name="build_hash">สร้าง TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">ล้างแคช</string>
     <string name="warning">คำเตือน</string>
     <string name="clear_caches_tips">คุณต้องการล้างแคชไฟล์จากโทรศัพท์ของคุณอย่างถาวรหรือไม่?</string>
+    <string name="video_play_error">ข้อผิดพลาดในการเล่นวิดีโอ</string>
+    <string name="no_network">เครือข่ายผิดพลาด โปรดตรวจสอบว่าคุณเชื่อมต่อแล้ว！</string>
+    <string name="video_load_error">ข้อผิดพลาดในการโหลดวิดีโอ</string>
+    <string name="lock_tip">กรุณาปลดล็อคหน้าจอของคุณ</string>
+    <string name="unlocked">ปลดล็อคแล้ว</string>
+    <string name="locked">ถูกล็อค</string>
+    <string name="continue_play">เล่นต่อ</string>
+    <string name="error_message">ข้อผิดพลาด</string>
+    <string name="replay">เล่นซ้ำ</string>
+    <string name="retry">ลองอีกครั้ง</string>
+    <string name="net_wifi_tip">คุณกำลังใช้เครือข่ายมือถือ </string>
+    <string name="double_speed">ความเร็ว 2.0x</string>
+    <string name="invalidate_video_resource">ทำให้ทรัพยากรวิดีโอไม่ถูกต้อง โปรดลองอีกครั้ง</string>
+    <string name="play_all_video_finish">วิดีโอทั้งหมดในเนื้อหานี้มีการเล่นมากกว่า</string>
 </resources>

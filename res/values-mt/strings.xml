@@ -28,7 +28,7 @@
     <string name="saturday">is-Sibt</string>
     <string name="sunday">il-Ħadd</string>
     <string name="rate_us">Rata lilna</string>
-    <string name="rate_us_tip">Jekk togħġobna, jekk jogħġbok agħtina 5 stilel. </string>
+    <string name="rate_us_tip">Jekk togħġobna, jekk jogħġbok agħtina 5 stilel.</string>
     <string name="here_s_your_5_stars">Tifħir kbir ħames stilel</string>
     <string name="four_stars">1-4 Star</string>
     <string name="privacy_policy">Regoli tal-privatezza</string>
@@ -75,7 +75,7 @@
     <string name="processing">ipproċessar</string>
     <string name="delete_warning">Ħassar Twissija</string>
     <string name="no_permission">Ebda Permess</string>
-    <string name="permission_not_found">Permess mhux biżżejjed. </string>
+    <string name="permission_not_found">Permess mhux biżżejjed.</string>
     <string name="quit">Nieqaf</string>
     <string name="go_setting">Mur Issettjar</string>
     <string name="build_hash">Ibni TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Ċar Caches</string>
     <string name="warning">Twissija</string>
     <string name="clear_caches_tips">Trid tneħħi l-caches tal-fajl mit-telefon tiegħek b\'mod permanenti?</string>
+    <string name="video_play_error">Żball tal-logħob tal-vidjo</string>
+    <string name="no_network">Żball tan-netwerk, jekk jogħġbok iċċekkja jekk intix konness!</string>
+    <string name="video_load_error">Żball fit-tagħbija tal-vidjo</string>
+    <string name="lock_tip">Jekk jogħġbok nisfrutta l-iskrin tiegħek</string>
+    <string name="unlocked">Jinfetaħ</string>
+    <string name="locked">Imsakkar</string>
+    <string name="continue_play">Kompli tilgħab</string>
+    <string name="error_message">Żball</string>
+    <string name="replay">Replay</string>
+    <string name="retry">Erġa\' pprova</string>
+    <string name="net_wifi_tip">Qed tuża n-netwerk mobbli. </string>
+    <string name="double_speed">2.0x Veloċità</string>
+    <string name="invalidate_video_resource">Invalida r-riżorsa tal-vidjo, jekk jogħġbok erġa\' pprova</string>
+    <string name="play_all_video_finish">Il-videos kollha f\'dan il-kontenut għandhom play over</string>
 </resources>

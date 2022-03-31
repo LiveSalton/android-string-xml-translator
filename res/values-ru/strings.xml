@@ -28,7 +28,7 @@
     <string name="saturday">Суббота</string>
     <string name="sunday">Воскресенье</string>
     <string name="rate_us">Оцените нас</string>
-    <string name="rate_us_tip">Если мы вам нравимся, пожалуйста, дайте нам 5 звезд. </string>
+    <string name="rate_us_tip">Если мы вам нравимся, пожалуйста, дайте нам 5 звезд.</string>
     <string name="here_s_your_5_stars">Пять звезд высокая оценка</string>
     <string name="four_stars">1-4 звезды</string>
     <string name="privacy_policy">Политика конфиденциальности</string>
@@ -75,7 +75,7 @@
     <string name="processing">обработка</string>
     <string name="delete_warning">Удалить предупреждение</string>
     <string name="no_permission">Отсутствует разрешение</string>
-    <string name="permission_not_found">Разрешения недостаточно. </string>
+    <string name="permission_not_found">Разрешения недостаточно.</string>
     <string name="quit">Покидать</string>
     <string name="go_setting">Перейти к настройке</string>
     <string name="build_hash">Создать тег</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Очистить кеши</string>
     <string name="warning">Предупреждение</string>
     <string name="clear_caches_tips">Вы хотите навсегда очистить кеш файла с вашего телефона?</string>
+    <string name="video_play_error">Ошибка воспроизведения видео</string>
+    <string name="no_network">Ошибка сети, проверьте, подключены ли вы!</string>
+    <string name="video_load_error">Ошибка загрузки видео</string>
+    <string name="lock_tip">Пожалуйста, разблокируйте экран</string>
+    <string name="unlocked">разблокирован</string>
+    <string name="locked">Заблокировано</string>
+    <string name="continue_play">Продолжить игру</string>
+    <string name="error_message">Ошибка</string>
+    <string name="replay">Повтор</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="net_wifi_tip">Вы используете мобильную сеть. </string>
+    <string name="double_speed">2,0-кратная скорость</string>
+    <string name="invalidate_video_resource">Недействительный видеоресурс, повторите попытку.</string>
+    <string name="play_all_video_finish">Воспроизведение всех видео в этом контенте завершено</string>
 </resources>

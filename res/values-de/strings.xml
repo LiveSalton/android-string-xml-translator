@@ -28,7 +28,7 @@
     <string name="saturday">Samstag</string>
     <string name="sunday">Sonntag</string>
     <string name="rate_us">Bewerten Sie uns</string>
-    <string name="rate_us_tip">Wenn Sie uns mögen, geben Sie uns bitte 5 Sterne. </string>
+    <string name="rate_us_tip">Wenn Sie uns mögen, geben Sie uns bitte 5 Sterne.</string>
     <string name="here_s_your_5_stars">Fünf Sterne großes Lob</string>
     <string name="four_stars">1-4 Sterne</string>
     <string name="privacy_policy">Datenschutz-Bestimmungen</string>
@@ -75,7 +75,7 @@
     <string name="processing">wird bearbeitet</string>
     <string name="delete_warning">Warnung löschen</string>
     <string name="no_permission">Keine Erlaubnis</string>
-    <string name="permission_not_found">Erlaubnis nicht genug. </string>
+    <string name="permission_not_found">Erlaubnis nicht genug.</string>
     <string name="quit">Aufhören</string>
     <string name="go_setting">Gehen Sie zu Einstellung</string>
     <string name="build_hash">TAG bauen</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Caches löschen</string>
     <string name="warning">Warnung</string>
     <string name="clear_caches_tips">Möchten Sie die Caches der Datei dauerhaft von Ihrem Telefon löschen?</string>
+    <string name="video_play_error">Fehler bei der Videowiedergabe</string>
+    <string name="no_network">Netzwerkfehler, bitte überprüfen Sie, ob Sie verbunden sind！</string>
+    <string name="video_load_error">Fehler beim Laden des Videos</string>
+    <string name="lock_tip">Bitte entsperren Sie Ihren Bildschirm</string>
+    <string name="unlocked">Entsperrt</string>
+    <string name="locked">Gesperrt</string>
+    <string name="continue_play">Spielen Sie weiter</string>
+    <string name="error_message">Fehler</string>
+    <string name="replay">Wiederholung</string>
+    <string name="retry">Wiederholen</string>
+    <string name="net_wifi_tip">Sie verwenden das Mobilfunknetz. </string>
+    <string name="double_speed">2,0-fache Geschwindigkeit</string>
+    <string name="invalidate_video_resource">Videoressource ungültig machen, bitte versuchen Sie es erneut</string>
+    <string name="play_all_video_finish">Alle Videos in diesem Inhalt wurden überspielt</string>
 </resources>

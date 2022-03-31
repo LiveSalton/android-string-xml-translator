@@ -28,7 +28,7 @@
     <string name="saturday">Satọde</string>
     <string name="sunday">Sọnde</string>
     <string name="rate_us">Nye anyị ọnụ</string>
-    <string name="rate_us_tip">Ọ bụrụ na-amasị gị, biko nye anyị kpakpando ise. </string>
+    <string name="rate_us_tip">Ọ bụrụ na-amasị gị, biko nye anyị kpakpando ise.</string>
     <string name="here_s_your_5_stars">Otuto dị elu kpakpando ise</string>
     <string name="four_stars">1-4 Kpakpando</string>
     <string name="privacy_policy">Amụma nzuzo</string>
@@ -75,7 +75,7 @@
     <string name="processing">nhazi</string>
     <string name="delete_warning">Hichapụ ịdọ aka ná ntị</string>
     <string name="no_permission">Enweghị ikike</string>
-    <string name="permission_not_found">Ikike ezughi oke. </string>
+    <string name="permission_not_found">Ikike ezughi oke.</string>
     <string name="quit">Kwụsị</string>
     <string name="go_setting">Gaa Ntọala</string>
     <string name="build_hash">Mee TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Kpochapụ cache</string>
     <string name="warning">Ịdọ aka ná ntị</string>
     <string name="clear_caches_tips">Ịchọrọ ikpochapụ caches faịlụ na ekwentị gị kpamkpam?</string>
+    <string name="video_play_error">Njehie ọkpụkpọ vidiyo</string>
+    <string name="no_network">Njehie netwọkụ, biko lelee ma ejikọrọ gị!</string>
+    <string name="video_load_error">Njehie nbudata vidiyo</string>
+    <string name="lock_tip">Biko kpọghee ihuenyo gị</string>
+    <string name="unlocked">Emechiri</string>
+    <string name="locked">Akpọchiri</string>
+    <string name="continue_play">Gaa n\'ihu egwuregwu</string>
+    <string name="error_message">Njehie</string>
+    <string name="replay">Tinyegharịa</string>
+    <string name="retry">Gbalịa ọzọ</string>
+    <string name="net_wifi_tip">Ị na-eji netwọk mkpanaka. </string>
+    <string name="double_speed">2.0x ọsọ</string>
+    <string name="invalidate_video_resource">Mebie akụrụngwa vidiyo, biko nwaa ọzọ</string>
+    <string name="play_all_video_finish">Vidiyo niile dị na ọdịnaya a agwụla</string>
 </resources>

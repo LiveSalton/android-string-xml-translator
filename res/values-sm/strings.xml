@@ -28,7 +28,7 @@
     <string name="saturday">Aso Tonaʻi</string>
     <string name="sunday">Aso Sa</string>
     <string name="rate_us">Fa\'atatau i matou</string>
-    <string name="rate_us_tip">Afai e te fiafia ia i matou, faamolemole tuu mai ia i matou 5 fetu. </string>
+    <string name="rate_us_tip">Afai e te fiafia ia i matou, faamolemole tuu mai ia i matou 5 fetu.</string>
     <string name="here_s_your_5_stars">E lima fetu le viiga</string>
     <string name="four_stars">1-4 Fetu</string>
     <string name="privacy_policy">Faiga fa\'alilolilo</string>
@@ -75,7 +75,7 @@
     <string name="processing">faiga</string>
     <string name="delete_warning">Aveese Lapataiga</string>
     <string name="no_permission">Leai se Fa\'atagaga</string>
-    <string name="permission_not_found">E le lava le faatagaga. </string>
+    <string name="permission_not_found">E le lava le faatagaga.</string>
     <string name="quit">Tu\'u</string>
     <string name="go_setting">Alu Seti</string>
     <string name="build_hash">Fausia TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Fa\'amama Caches</string>
     <string name="warning">Lapataiga</string>
     <string name="clear_caches_tips">E te mana\'o e fa\'amama fa\'amau le faila mai lau telefoni?</string>
+    <string name="video_play_error">Sese ta\'aloga vitiō</string>
+    <string name="no_network">Sese feso\'otaiga, fa\'amolemole siaki pe o e feso\'ota\'i!</string>
+    <string name="video_load_error">Sese le utaina o ata</string>
+    <string name="lock_tip">Fa\'amolemole tatala lau mata</string>
+    <string name="unlocked">Tatala</string>
+    <string name="locked">Loka</string>
+    <string name="continue_play">Fa\'aauau le ta\'aloga</string>
+    <string name="error_message">Sese</string>
+    <string name="replay">Toe fai</string>
+    <string name="retry">Toe taumafai</string>
+    <string name="net_wifi_tip">O lo\'o e fa\'aogaina le feso\'ota\'iga feavea\'i. </string>
+    <string name="double_speed">2.0x Saosaoa</string>
+    <string name="invalidate_video_resource">Fa\'aleaogaina punaoa vitiō, fa\'amolemole toe taumafai</string>
+    <string name="play_all_video_finish">O vitio uma i totonu o lenei anotusi ua toe ta\'alo</string>
 </resources>

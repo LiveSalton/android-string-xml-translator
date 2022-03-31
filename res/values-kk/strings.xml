@@ -28,7 +28,7 @@
     <string name="saturday">сенбі</string>
     <string name="sunday">Жексенбі</string>
     <string name="rate_us">Бізге баға беріңіз</string>
-    <string name="rate_us_tip">Бізді ұнатсаңыз, бізге 5 жұлдыз беріңіз. </string>
+    <string name="rate_us_tip">Бізді ұнатсаңыз, бізге 5 жұлдыз беріңіз.</string>
     <string name="here_s_your_5_stars">Бес жұлдызды жоғары мақтау</string>
     <string name="four_stars">1-4 жұлдыз</string>
     <string name="privacy_policy">Құпиялылық саясаты</string>
@@ -75,7 +75,7 @@
     <string name="processing">өңдеу</string>
     <string name="delete_warning">Ескертуді жою</string>
     <string name="no_permission">Рұқсат жоқ</string>
-    <string name="permission_not_found">Рұқсат жеткіліксіз. </string>
+    <string name="permission_not_found">Рұқсат жеткіліксіз.</string>
     <string name="quit">Шығу</string>
     <string name="go_setting">Параметрге өтіңіз</string>
     <string name="build_hash">TAG құрастыру</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Кэштерді тазалау</string>
     <string name="warning">Ескерту</string>
     <string name="clear_caches_tips">Телефоныңыздағы файлдың кэштерін біржола тазалағыңыз келе ме?</string>
+    <string name="video_play_error">Бейнені ойнату қатесі</string>
+    <string name="no_network">Желі қатесі, қосылғаныңызды тексеріңіз!</string>
+    <string name="video_load_error">Бейнені жүктеу қатесі</string>
+    <string name="lock_tip">Экран құлпын ашыңыз</string>
+    <string name="unlocked">Құлып ашылды</string>
+    <string name="locked">Құлыпталған</string>
+    <string name="continue_play">Ойынды жалғастыру</string>
+    <string name="error_message">Қате</string>
+    <string name="replay">Қайталау</string>
+    <string name="retry">Қайталап көріңіз</string>
+    <string name="net_wifi_tip">Сіз ұялы желіні пайдаланып жатырсыз. </string>
+    <string name="double_speed">2,0x жылдамдық</string>
+    <string name="invalidate_video_resource">Бейне ресурсын жарамсыз, әрекетті қайталаңыз</string>
+    <string name="play_all_video_finish">Бұл мазмұндағы барлық бейнелер ойнатылды</string>
 </resources>

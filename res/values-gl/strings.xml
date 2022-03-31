@@ -28,7 +28,7 @@
     <string name="saturday">sábado</string>
     <string name="sunday">domingo</string>
     <string name="rate_us">Califica connosco</string>
-    <string name="rate_us_tip">Se che gusta de nós, dános 5 estrelas. </string>
+    <string name="rate_us_tip">Se che gusta de nós, dános 5 estrelas.</string>
     <string name="here_s_your_5_stars">Eloxios de cinco estrelas</string>
     <string name="four_stars">1-4 estrelas</string>
     <string name="privacy_policy">Política de Privacidade</string>
@@ -75,7 +75,7 @@
     <string name="processing">procesamento</string>
     <string name="delete_warning">Eliminar aviso</string>
     <string name="no_permission">Sen permiso</string>
-    <string name="permission_not_found">O permiso non é suficiente. </string>
+    <string name="permission_not_found">O permiso non é suficiente.</string>
     <string name="quit">Saír</string>
     <string name="go_setting">Ir Configuración</string>
     <string name="build_hash">Construír TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Borrar cachés</string>
     <string name="warning">Aviso</string>
     <string name="clear_caches_tips">Queres borrar permanentemente a caché do ficheiro do teu teléfono?</string>
+    <string name="video_play_error">Erro de reprodución de vídeo</string>
+    <string name="no_network">Erro de rede, comprobe se estás conectado!</string>
+    <string name="video_load_error">Erro ao cargar o vídeo</string>
+    <string name="lock_tip">Desbloquea a túa pantalla</string>
+    <string name="unlocked">Desbloqueado</string>
+    <string name="locked">Pechado</string>
+    <string name="continue_play">Continuar xogando</string>
+    <string name="error_message">Erro</string>
+    <string name="replay">Reprodución</string>
+    <string name="retry">Volve tentar</string>
+    <string name="net_wifi_tip">Estás a usar a rede móbil. </string>
+    <string name="double_speed">Velocidade 2.0x</string>
+    <string name="invalidate_video_resource">Invalida o recurso de vídeo, téntao de novo</string>
+    <string name="play_all_video_finish">Todos os vídeos deste contido reprodúcense</string>
 </resources>

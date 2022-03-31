@@ -28,7 +28,7 @@
     <string name="saturday">Şemî</string>
     <string name="sunday">Yekşem</string>
     <string name="rate_us">Binirxînin Us</string>
-    <string name="rate_us_tip">Heke hûn ji me hez dikin, ji kerema xwe 5 stêrk bidin me. </string>
+    <string name="rate_us_tip">Heke hûn ji me hez dikin, ji kerema xwe 5 stêrk bidin me.</string>
     <string name="here_s_your_5_stars">Pênc stêrk pesnê bilind</string>
     <string name="four_stars">1-4 Stêrk</string>
     <string name="privacy_policy">Siyaseta taybetîtiyê</string>
@@ -75,7 +75,7 @@
     <string name="processing">xebitandinî</string>
     <string name="delete_warning">Hişyarî jêbirin</string>
     <string name="no_permission">Destûr nîne</string>
-    <string name="permission_not_found">Destûr têrê nake. </string>
+    <string name="permission_not_found">Destûr têrê nake.</string>
     <string name="quit">Devjêberdan</string>
     <string name="go_setting">Biçe Mîhengê</string>
     <string name="build_hash">TAG ava bikin</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Caches Paqij bikin</string>
     <string name="warning">Gazî</string>
     <string name="clear_caches_tips">Ma hûn dixwazin pelê kaşê ji têlefona xwe bi domdarî paqij bikin?</string>
+    <string name="video_play_error">Çewtiya lîstika vîdyoyê</string>
+    <string name="no_network">Çewtiya torê, ji kerema xwe kontrol bikin ka hûn girêdayî ne!</string>
+    <string name="video_load_error">Çewtiya barkirina vîdyoyê</string>
+    <string name="lock_tip">Ji kerema xwe kilîtkirina ekrana xwe vekin</string>
+    <string name="unlocked">Vekirî</string>
+    <string name="locked">Girtî kirin</string>
+    <string name="continue_play">Lîstik bidomînin</string>
+    <string name="error_message">Şaşî</string>
+    <string name="replay">Replay</string>
+    <string name="retry">Ji nû ve biceribîne</string>
+    <string name="net_wifi_tip">Hûn tora mobîl bikar tînin. </string>
+    <string name="double_speed">2.0x Leza</string>
+    <string name="invalidate_video_resource">Çavkaniya vîdyoyê betal bike, ji kerema xwe dîsa biceribîne</string>
+    <string name="play_all_video_finish">Hemî vîdyoyên di vê naverokê de têne lîstin</string>
 </resources>

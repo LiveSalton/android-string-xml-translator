@@ -28,7 +28,7 @@
     <string name="saturday">Hnub Saturday</string>
     <string name="sunday">Hnub Sunday</string>
     <string name="rate_us">Ntsuas peb</string>
-    <string name="rate_us_tip">Yog tias koj nyiam peb, thov muab 5 hnub qub rau peb. </string>
+    <string name="rate_us_tip">Yog tias koj nyiam peb, thov muab 5 hnub qub rau peb.</string>
     <string name="here_s_your_5_stars">Tsib lub hnub qub qhuas qhuas</string>
     <string name="four_stars">1-4 Hnub qub</string>
     <string name="privacy_policy">Txoj cai ntiag tug</string>
@@ -75,7 +75,7 @@
     <string name="processing">ua</string>
     <string name="delete_warning">Rho tawm ceeb toom</string>
     <string name="no_permission">Tsis Tso Cai</string>
-    <string name="permission_not_found">Tso cai tsis txaus. </string>
+    <string name="permission_not_found">Tso cai tsis txaus.</string>
     <string name="quit">Tawm</string>
     <string name="go_setting">Mus Chaw</string>
     <string name="build_hash">Tsim TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Clear Caches</string>
     <string name="warning">Ceeb toom</string>
     <string name="clear_caches_tips">Koj puas xav tshem cache cov ntaub ntawv los ntawm koj lub xov tooj mus tas li?</string>
+    <string name="video_play_error">Video ua si yuam kev</string>
+    <string name="no_network">Network yuam kev, thov xyuas yog tias koj txuas!</string>
+    <string name="video_load_error">Video loading yuam kev</string>
+    <string name="lock_tip">Thov qhib koj lub vijtsam</string>
+    <string name="unlocked">Xauv</string>
+    <string name="locked">Xauv</string>
+    <string name="continue_play">Mus ua si</string>
+    <string name="error_message">yuam kev</string>
+    <string name="replay">Rov ua dua</string>
+    <string name="retry">Rov sim dua</string>
+    <string name="net_wifi_tip">Koj siv mobile network. </string>
+    <string name="double_speed">2.0x ceev</string>
+    <string name="invalidate_video_resource">Invalidate video resource, thov rov sim dua</string>
+    <string name="play_all_video_finish">Tag nrho cov yeeb yaj kiab hauv cov ntsiab lus no tau ua dhau los</string>
 </resources>

@@ -3,7 +3,7 @@
     <string name="input_new_name">សូមបញ្ចូលឈ្មោះថ្មី។</string>
     <string name="ok">យល់ព្រម</string>
     <string name="video_delete_success">វីដេអូត្រូវបានលុបជោគជ័យ!</string>
-    <string name="video_delete_failed">វីដេអូ​ត្រូវ​បាន​លុប​មិន​បាន​សម្រេច!</string>
+    <string name="video_delete_failed">វីដេអូត្រូវបានលុបមិនបានសម្រេច!</string>
     <string name="delete_tips">តើអ្នកចង់លុបឯកសារចេញពីទូរសព្ទរបស់អ្នកជាអចិន្ត្រៃយ៍ទេ?</string>
     <string name="delete_tips_two">* ពេលលុបហើយ មិនអាចយកមកវិញបានទេ។</string>
     <string name="not_found_video_data">រកមិនឃើញវីដេអូណាមួយទេ។</string>
@@ -28,16 +28,16 @@
     <string name="saturday">ថ្ងៃសៅរ៍</string>
     <string name="sunday">ថ្ងៃអាទិត្យ</string>
     <string name="rate_us">វាយតម្លៃពួកយើង</string>
-    <string name="rate_us_tip">ប្រសិនបើអ្នកចូលចិត្តយើងសូមផ្តល់ឱ្យយើងនូវផ្កាយ 5 ។ </string>
+    <string name="rate_us_tip">ប្រសិនបើអ្នកចូលចិត្តយើងសូមផ្តល់ឱ្យយើងនូវផ្កាយ 5 ។</string>
     <string name="here_s_your_5_stars">ផ្កាយប្រាំសរសើរ</string>
     <string name="four_stars">ផ្កាយ 1-4</string>
-    <string name="privacy_policy">គោលការណ៍​ភាព​ឯកជន</string>
-    <string name="terms_of_service">លក្ខខណ្ឌ​នៃ​សេវាកម្ម</string>
+    <string name="privacy_policy">គោលការណ៍ភាពឯកជន</string>
+    <string name="terms_of_service">លក្ខខណ្ឌនៃសេវាកម្ម</string>
     <string name="contacts">ទំនាក់ទំនង</string>
     <string name="setting_title">ការកំណត់</string>
     <string name="setting_cache">ជម្រះឃ្លាំងសម្ងាត់</string>
     <string name="setting_auto">ចូលដោយស្វ័យប្រវត្តិ</string>
-    <string name="setting_about">អំពី​ពួក​យើង</string>
+    <string name="setting_about">អំពីពួកយើង</string>
     <string name="setting_exit">ចាកចេញ</string>
     <string name="ver">កំណែ</string>
     <string name="origin_file">ឯកសារដើម</string>
@@ -75,7 +75,7 @@
     <string name="processing">ដំណើរការ</string>
     <string name="delete_warning">លុបការព្រមាន</string>
     <string name="no_permission">គ្មានការអនុញ្ញាត</string>
-    <string name="permission_not_found">ការអនុញ្ញាតមិនគ្រប់គ្រាន់ទេ។ </string>
+    <string name="permission_not_found">ការអនុញ្ញាតមិនគ្រប់គ្រាន់ទេ។</string>
     <string name="quit">ឈប់</string>
     <string name="go_setting">ចូលទៅកាន់ការកំណត់</string>
     <string name="build_hash">បង្កើត TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">ជម្រះឃ្លាំងសម្ងាត់</string>
     <string name="warning">ការព្រមាន</string>
     <string name="clear_caches_tips">តើអ្នកចង់សម្អាតឃ្លាំងសម្ងាត់ឯកសារចេញពីទូរសព្ទរបស់អ្នកជាអចិន្ត្រៃយ៍ទេ?</string>
+    <string name="video_play_error">កំហុសក្នុងការលេងវីដេអូ</string>
+    <string name="no_network">បណ្តាញមានបញ្ហា សូមពិនិត្យមើលថាតើអ្នកបានភ្ជាប់ឬអត់!</string>
+    <string name="video_load_error">កំហុសក្នុងការផ្ទុកវីដេអូ</string>
+    <string name="lock_tip">សូមដោះសោអេក្រង់របស់អ្នក។</string>
+    <string name="unlocked">ដោះសោ</string>
+    <string name="locked">ចាក់សោ</string>
+    <string name="continue_play">បន្តលេង</string>
+    <string name="error_message">កំហុស</string>
+    <string name="replay">ចាក់ឡើងវិញ</string>
+    <string name="retry">ព្យាយាមម្តងទៀត</string>
+    <string name="net_wifi_tip">អ្នកកំពុងប្រើបណ្តាញទូរស័ព្ទចល័ត។ </string>
+    <string name="double_speed">2.0x ល្បឿន</string>
+    <string name="invalidate_video_resource">ធ្វើឱ្យធនធានវីដេអូមិនត្រឹមត្រូវ សូមព្យាយាមម្តងទៀត</string>
+    <string name="play_all_video_finish">វីដេអូ​ទាំងអស់​ក្នុង​ខ្លឹមសារ​នេះ​បាន​ចាក់​ចប់</string>
 </resources>

@@ -28,7 +28,7 @@
     <string name="saturday">ቅዳሜ</string>
     <string name="sunday">እሁድ</string>
     <string name="rate_us">ደረጃ ይስጡን።</string>
-    <string name="rate_us_tip">ከወደዳችሁ እባኮትን 5 ኮከቦችን ስጡን። </string>
+    <string name="rate_us_tip">ከወደዳችሁ እባኮትን 5 ኮከቦችን ስጡን።</string>
     <string name="here_s_your_5_stars">ባለ አምስት ኮከብ ከፍተኛ ምስጋና</string>
     <string name="four_stars">1-4 ኮከብ</string>
     <string name="privacy_policy">የ ግል የሆነ</string>
@@ -75,7 +75,7 @@
     <string name="processing">ማቀነባበር</string>
     <string name="delete_warning">ማስጠንቀቂያ ሰርዝ</string>
     <string name="no_permission">ፍቃድ የለም</string>
-    <string name="permission_not_found">ፍቃድ በቂ አይደለም። </string>
+    <string name="permission_not_found">ፍቃድ በቂ አይደለም።</string>
     <string name="quit">አቁም</string>
     <string name="go_setting">ወደ ቅንብር ይሂዱ</string>
     <string name="build_hash">TAG ገንባ</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">መሸጎጫዎችን ያጽዱ</string>
     <string name="warning">ማስጠንቀቂያ</string>
     <string name="clear_caches_tips">መሸጎጫዎችን ከስልክዎ በቋሚነት ማጽዳት ይፈልጋሉ?</string>
+    <string name="video_play_error">የቪዲዮ ጨዋታ ስህተት</string>
+    <string name="no_network">የአውታረ መረብ ስህተት፣ እባክህ እንደተገናኘህ አረጋግጥ!</string>
+    <string name="video_load_error">ቪዲዮ የመጫን ስህተት</string>
+    <string name="lock_tip">እባክህ ስክሪንህን ክፈት።</string>
+    <string name="unlocked">ተከፍቷል።</string>
+    <string name="locked">ተቆልፏል</string>
+    <string name="continue_play">መጫወቱን ይቀጥሉ</string>
+    <string name="error_message">ስህተት</string>
+    <string name="replay">እንደገና አጫውት።</string>
+    <string name="retry">እንደገና ይሞክሩ</string>
+    <string name="net_wifi_tip">የሞባይል ኔትወርክን እየተጠቀምክ ነው። </string>
+    <string name="double_speed">2.0x ፍጥነት</string>
+    <string name="invalidate_video_resource">የቪዲዮ ግብአትን አጥፋ፣ እባክህ እንደገና ሞክር</string>
+    <string name="play_all_video_finish">በዚህ ይዘት ውስጥ ያሉት ሁሉም ቪዲዮዎች ተጫውተዋል።</string>
 </resources>

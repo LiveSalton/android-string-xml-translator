@@ -28,7 +28,7 @@
     <string name="saturday">Sabtu</string>
     <string name="sunday">minggu</string>
     <string name="rate_us">Nilai Kami</string>
-    <string name="rate_us_tip">Jika Anda menyukai kami, tolong beri kami 5 bintang. </string>
+    <string name="rate_us_tip">Jika Anda menyukai kami, tolong beri kami 5 bintang.</string>
     <string name="here_s_your_5_stars">Pujian tinggi bintang lima</string>
     <string name="four_stars">1-4 Bintang</string>
     <string name="privacy_policy">Kebijakan pribadi</string>
@@ -75,7 +75,7 @@
     <string name="processing">pengolahan</string>
     <string name="delete_warning">Hapus Peringatan</string>
     <string name="no_permission">Tidak ada izin</string>
-    <string name="permission_not_found">Izin tidak cukup. </string>
+    <string name="permission_not_found">Izin tidak cukup.</string>
     <string name="quit">Berhenti</string>
     <string name="go_setting">Buka Pengaturan</string>
     <string name="build_hash">Bangun TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Hapus Cache</string>
     <string name="warning">Peringatan</string>
     <string name="clear_caches_tips">Apakah Anda ingin menghapus cache file dari ponsel Anda secara permanen?</string>
+    <string name="video_play_error">Kesalahan pemutaran video</string>
+    <string name="no_network">Kesalahan jaringan, harap periksa apakah Anda terhubung！</string>
+    <string name="video_load_error">Kesalahan pemuatan video</string>
+    <string name="lock_tip">Silakan buka kunci layar Anda</string>
+    <string name="unlocked">Tidak terkunci</string>
+    <string name="locked">Terkunci</string>
+    <string name="continue_play">Lanjutkan bermain</string>
+    <string name="error_message">Kesalahan</string>
+    <string name="replay">Memutar ulang</string>
+    <string name="retry">Mencoba kembali</string>
+    <string name="net_wifi_tip">Anda menggunakan jaringan seluler. </string>
+    <string name="double_speed">2.0x Kecepatan</string>
+    <string name="invalidate_video_resource">Sumber daya video tidak valid, harap coba lagi</string>
+    <string name="play_all_video_finish">Semua video dalam konten ini telah diputar</string>
 </resources>

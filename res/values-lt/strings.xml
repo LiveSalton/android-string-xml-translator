@@ -28,7 +28,7 @@
     <string name="saturday">šeštadienis</string>
     <string name="sunday">sekmadienis</string>
     <string name="rate_us">Įvertinkite mus</string>
-    <string name="rate_us_tip">Jei mes jums patinkame, suteikite mums 5 žvaigždutes. </string>
+    <string name="rate_us_tip">Jei mes jums patinkame, suteikite mums 5 žvaigždutes.</string>
     <string name="here_s_your_5_stars">Penkių žvaigždučių įvertinimas</string>
     <string name="four_stars">1-4 žvaigždutės</string>
     <string name="privacy_policy">Privatumo politika</string>
@@ -75,7 +75,7 @@
     <string name="processing">apdorojimas</string>
     <string name="delete_warning">Ištrinti įspėjimą</string>
     <string name="no_permission">Nėra leidimo</string>
-    <string name="permission_not_found">Neužtenka leidimo. </string>
+    <string name="permission_not_found">Neužtenka leidimo.</string>
     <string name="quit">Išeik</string>
     <string name="go_setting">Eikite į nustatymą</string>
     <string name="build_hash">Sukurkite TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Išvalyti talpyklas</string>
     <string name="warning">Įspėjimas</string>
     <string name="clear_caches_tips">Ar norite visam laikui išvalyti failo talpyklą iš savo telefono?</string>
+    <string name="video_play_error">Vaizdo įrašo atkūrimo klaida</string>
+    <string name="no_network">Tinklo klaida, patikrinkite, ar esate prisijungę!</string>
+    <string name="video_load_error">Vaizdo įrašo įkėlimo klaida</string>
+    <string name="lock_tip">Atrakinkite ekraną</string>
+    <string name="unlocked">Atrakinta</string>
+    <string name="locked">Užrakinta</string>
+    <string name="continue_play">Tęsti žaidimą</string>
+    <string name="error_message">Klaida</string>
+    <string name="replay">Pakartotinai</string>
+    <string name="retry">Bandykite dar kartą</string>
+    <string name="net_wifi_tip">Naudojate mobiliojo ryšio tinklą. </string>
+    <string name="double_speed">2,0x greitis</string>
+    <string name="invalidate_video_resource">Negaliojantis vaizdo įrašo šaltinis, bandykite dar kartą</string>
+    <string name="play_all_video_finish">Visi šio turinio vaizdo įrašai buvo atkurti</string>
 </resources>

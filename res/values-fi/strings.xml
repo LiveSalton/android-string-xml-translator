@@ -28,7 +28,7 @@
     <string name="saturday">lauantaina</string>
     <string name="sunday">sunnuntai</string>
     <string name="rate_us">Arvioi meidät</string>
-    <string name="rate_us_tip">Jos pidät meistä, anna meille 5 tähteä. </string>
+    <string name="rate_us_tip">Jos pidät meistä, anna meille 5 tähteä.</string>
     <string name="here_s_your_5_stars">Viiden tähden suuri kiitos</string>
     <string name="four_stars">1-4 tähteä</string>
     <string name="privacy_policy">Tietosuojakäytäntö</string>
@@ -75,7 +75,7 @@
     <string name="processing">käsittelyä</string>
     <string name="delete_warning">Poista varoitus</string>
     <string name="no_permission">Ei lupaa</string>
-    <string name="permission_not_found">Lupa ei riitä. </string>
+    <string name="permission_not_found">Lupa ei riitä.</string>
     <string name="quit">Lopettaa</string>
     <string name="go_setting">Siirry asetuksiin</string>
     <string name="build_hash">Rakenna TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Tyhjennä välimuistit</string>
     <string name="warning">Varoitus</string>
     <string name="clear_caches_tips">Haluatko tyhjentää tiedoston välimuistista pysyvästi?</string>
+    <string name="video_play_error">Videon toistovirhe</string>
+    <string name="no_network">Verkkovirhe, tarkista, oletko yhteydessä!</string>
+    <string name="video_load_error">Videon latausvirhe</string>
+    <string name="lock_tip">Avaa näytön lukitus</string>
+    <string name="unlocked">Avattu</string>
+    <string name="locked">Lukittu</string>
+    <string name="continue_play">Jatka pelaamista</string>
+    <string name="error_message">Virhe</string>
+    <string name="replay">Uusinta</string>
+    <string name="retry">Yritä uudelleen</string>
+    <string name="net_wifi_tip">Käytät mobiiliverkkoa. </string>
+    <string name="double_speed">2,0x nopeus</string>
+    <string name="invalidate_video_resource">Virheellinen videoresurssi, yritä uudelleen</string>
+    <string name="play_all_video_finish">Kaikki tämän sisällön videot on toistettu</string>
 </resources>

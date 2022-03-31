@@ -28,7 +28,7 @@
     <string name="saturday">e shtunë</string>
     <string name="sunday">të dielën</string>
     <string name="rate_us">Na vleresoni</string>
-    <string name="rate_us_tip">Nëse ju pëlqeni, ju lutemi na jepni 5 yje. </string>
+    <string name="rate_us_tip">Nëse ju pëlqeni, ju lutemi na jepni 5 yje.</string>
     <string name="here_s_your_5_stars">Lavdërim i lartë me pesë yje</string>
     <string name="four_stars">1-4 yje</string>
     <string name="privacy_policy">Politika e privatësisë</string>
@@ -75,7 +75,7 @@
     <string name="processing">përpunimit</string>
     <string name="delete_warning">Fshi paralajmërimin</string>
     <string name="no_permission">Pa leje</string>
-    <string name="permission_not_found">Leja nuk mjafton. </string>
+    <string name="permission_not_found">Leja nuk mjafton.</string>
     <string name="quit">Hiq dorë</string>
     <string name="go_setting">Shkoni Setting</string>
     <string name="build_hash">Ndërtoni TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Pastro cache</string>
     <string name="warning">Paralajmërim</string>
     <string name="clear_caches_tips">Dëshironi të pastroni përgjithmonë memorien e skedarit nga telefoni juaj?</string>
+    <string name="video_play_error">Gabim në luajtjen e videos</string>
+    <string name="no_network">Gabim rrjeti, ju lutemi kontrolloni nëse jeni lidhur!</string>
+    <string name="video_load_error">Gabim në ngarkimin e videos</string>
+    <string name="lock_tip">Ju lutemi zhbllokoni ekranin tuaj</string>
+    <string name="unlocked">E shkyçur</string>
+    <string name="locked">I mbyllur</string>
+    <string name="continue_play">Vazhdoni të luani</string>
+    <string name="error_message">Gabim</string>
+    <string name="replay">Riluaje</string>
+    <string name="retry">Provo sërish</string>
+    <string name="net_wifi_tip">Jeni duke përdorur rrjetin celular. </string>
+    <string name="double_speed">Shpejtësia 2.0x</string>
+    <string name="invalidate_video_resource">Anuloni burimin e videos, ju lutemi provoni përsëri</string>
+    <string name="play_all_video_finish">Të gjitha videot në këtë përmbajtje janë riprodhuar</string>
 </resources>

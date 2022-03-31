@@ -20,7 +20,7 @@ object Translator {
             toTranslateList.forEach { left ->
                 translatedList.find { it.first == left.first }?.let {
                     println("find:${it.first}")
-                    left.second = it.second.replace("\'","\\'")
+                    left.second = it.second
                 } ?: kotlin.run {
                     val translatedContent = googleTranslator.translate(left.second, language.code)
                     println("translate:${left.first},$translatedContent")

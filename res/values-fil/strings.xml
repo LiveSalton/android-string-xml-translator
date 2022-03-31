@@ -28,7 +28,7 @@
     <string name="saturday">Sabado</string>
     <string name="sunday">Linggo</string>
     <string name="rate_us">I-rate Kami</string>
-    <string name="rate_us_tip">Kung gusto mo kami, mangyaring bigyan kami ng 5 bituin. </string>
+    <string name="rate_us_tip">Kung gusto mo kami, mangyaring bigyan kami ng 5 bituin.</string>
     <string name="here_s_your_5_stars">Limang bituin ang mataas na papuri</string>
     <string name="four_stars">1-4 Bituin</string>
     <string name="privacy_policy">Patakaran sa privacy</string>
@@ -75,7 +75,7 @@
     <string name="processing">pagpoproseso</string>
     <string name="delete_warning">Tanggalin ang Babala</string>
     <string name="no_permission">Walang pahintulot</string>
-    <string name="permission_not_found">Hindi sapat ang pahintulot. </string>
+    <string name="permission_not_found">Hindi sapat ang pahintulot.</string>
     <string name="quit">quit</string>
     <string name="go_setting">Pumunta sa Setting</string>
     <string name="build_hash">Bumuo ng TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">I-clear ang mga Cache</string>
     <string name="warning">Babala</string>
     <string name="clear_caches_tips">Gusto mo bang permanenteng i-clear ang mga cache ng file mula sa iyong telepono?</string>
+    <string name="video_play_error">Error sa pag-play ng video</string>
+    <string name="no_network">Error sa network, pakitingnan kung nakakonekta ka!</string>
+    <string name="video_load_error">Error sa pag-load ng video</string>
+    <string name="lock_tip">Mangyaring i-unlock ang iyong screen</string>
+    <string name="unlocked">Na-unlock</string>
+    <string name="locked">Naka-lock</string>
+    <string name="continue_play">Ipagpatuloy ang paglalaro</string>
+    <string name="error_message">Error</string>
+    <string name="replay">I-replay</string>
+    <string name="retry">Subukan muli</string>
+    <string name="net_wifi_tip">Ginagamit mo ang mobile network. </string>
+    <string name="double_speed">2.0x na Bilis</string>
+    <string name="invalidate_video_resource">I-invalidate ang video resource, pakisubukang muli</string>
+    <string name="play_all_video_finish">Na-play na ang lahat ng video sa content na ito</string>
 </resources>

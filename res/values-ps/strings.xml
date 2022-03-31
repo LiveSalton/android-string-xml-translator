@@ -28,7 +28,7 @@
     <string name="saturday">شنبه</string>
     <string name="sunday">یک شنبه</string>
     <string name="rate_us">موږ ته درجه ورکړئ</string>
-    <string name="rate_us_tip">که تاسو موږ خوښ کړئ، مهرباني وکړئ موږ ته 5 ستوري ورکړئ. </string>
+    <string name="rate_us_tip">که تاسو موږ خوښ کړئ، مهرباني وکړئ موږ ته 5 ستوري ورکړئ.</string>
     <string name="here_s_your_5_stars">پنځه ستوري لوړ ستاینه</string>
     <string name="four_stars">1-4 ستوری</string>
     <string name="privacy_policy">د پټتیا تګلاره</string>
@@ -75,7 +75,7 @@
     <string name="processing">پروسس کول</string>
     <string name="delete_warning">خبرداری ړنګول</string>
     <string name="no_permission">اجازه نشته</string>
-    <string name="permission_not_found">اجازه کافی نه ده. </string>
+    <string name="permission_not_found">اجازه کافی نه ده.</string>
     <string name="quit">پریږده</string>
     <string name="go_setting">ترتیبات ته لاړ شئ</string>
     <string name="build_hash">TAG جوړ کړئ</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">کیچونه پاک کړئ</string>
     <string name="warning">خبرتیا</string>
     <string name="clear_caches_tips">ایا تاسو غواړئ د تل لپاره د خپل تلیفون څخه کیچ فایل پاک کړئ؟</string>
+    <string name="video_play_error">د ویډیو پلی کولو تېروتنه</string>
+    <string name="no_network">د شبکې تېروتنه، مهرباني وکړئ وګورئ چې تاسو وصل یاست！</string>
+    <string name="video_load_error">د ویډیو پورته کولو تېروتنه</string>
+    <string name="lock_tip">مهرباني وکړئ خپل سکرین خلاص کړئ</string>
+    <string name="unlocked">خلاص شوی</string>
+    <string name="locked">تړل شوی</string>
+    <string name="continue_play">لوبې ته دوام ورکړئ</string>
+    <string name="error_message">تېروتنه</string>
+    <string name="replay">بیا پلی کول</string>
+    <string name="retry">بیا هڅه وکړئ</string>
+    <string name="net_wifi_tip">تاسو د ګرځنده شبکې کاروئ. </string>
+    <string name="double_speed">2.0x سرعت</string>
+    <string name="invalidate_video_resource">د ویډیو سرچینه باطله کړئ، مهرباني وکړئ بیا هڅه وکړئ</string>
+    <string name="play_all_video_finish">په دې منځپانګې کې ټولې ویډیوګانې پلی شوې</string>
 </resources>

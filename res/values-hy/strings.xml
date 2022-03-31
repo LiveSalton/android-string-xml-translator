@@ -28,7 +28,7 @@
     <string name="saturday">շաբաթ օրը</string>
     <string name="sunday">Կիրակի</string>
     <string name="rate_us">Գնահատեք մեզ</string>
-    <string name="rate_us_tip">Եթե ​​ձեզ դուր է գալիս մեզ, խնդրում ենք մեզ տալ 5 աստղ: </string>
+    <string name="rate_us_tip">Եթե ձեզ դուր է գալիս մեզ, խնդրում ենք մեզ տալ 5 աստղ:</string>
     <string name="here_s_your_5_stars">Հինգ աստղանի բարձր գովասանք</string>
     <string name="four_stars">1-4 աստղ</string>
     <string name="privacy_policy">Գաղտնիության քաղաքականություն</string>
@@ -75,7 +75,7 @@
     <string name="processing">վերամշակում</string>
     <string name="delete_warning">Ջնջել զգուշացումը</string>
     <string name="no_permission">Թույլտվություն չկա</string>
-    <string name="permission_not_found">Թույլտվությունը բավարար չէ։ </string>
+    <string name="permission_not_found">Թույլտվությունը բավարար չէ։</string>
     <string name="quit">Դուրս գալ</string>
     <string name="go_setting">Գնալ Կարգավորում</string>
     <string name="build_hash">Կառուցել TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Մաքրել քեշերը</string>
     <string name="warning">Զգուշացում</string>
     <string name="clear_caches_tips">Ցանկանու՞մ եք ընդմիշտ ջնջել ֆայլի քեշերը ձեր հեռախոսից:</string>
+    <string name="video_play_error">Տեսանյութի նվագարկման սխալ</string>
+    <string name="no_network">Ցանցի սխալ, խնդրում ենք ստուգել, ​​արդյոք միացված եք:</string>
+    <string name="video_load_error">Տեսանյութի բեռնման սխալ</string>
+    <string name="lock_tip">Խնդրում ենք ապակողպել ձեր էկրանը</string>
+    <string name="unlocked">Ապակողպված է</string>
+    <string name="locked">Կողպված է</string>
+    <string name="continue_play">Շարունակեք խաղալ</string>
+    <string name="error_message">Սխալ</string>
+    <string name="replay">Կրկնել</string>
+    <string name="retry">Կրկին փորձեք</string>
+    <string name="net_wifi_tip">Դուք օգտվում եք բջջային ցանցից: </string>
+    <string name="double_speed">2.0x Արագություն</string>
+    <string name="invalidate_video_resource">Անվավեր ճանաչեք տեսանյութի ռեսուրսը, խնդրում ենք կրկին փորձել</string>
+    <string name="play_all_video_finish">Այս բովանդակության բոլոր տեսանյութերը վերարտադրվել են</string>
 </resources>

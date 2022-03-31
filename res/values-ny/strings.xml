@@ -28,7 +28,7 @@
     <string name="saturday">Loweruka</string>
     <string name="sunday">Lamlungu</string>
     <string name="rate_us">Tivotereni</string>
-    <string name="rate_us_tip">Ngati mungatikonde, chonde tipatseni nyenyezi zisanu. </string>
+    <string name="rate_us_tip">Ngati mungatikonde, chonde tipatseni nyenyezi zisanu.</string>
     <string name="here_s_your_5_stars">Nyenyezi zisanu kutamandidwa kwakukulu</string>
     <string name="four_stars">1-4 Nyenyezi</string>
     <string name="privacy_policy">Mfundo Zazinsinsi</string>
@@ -75,7 +75,7 @@
     <string name="processing">kukonza</string>
     <string name="delete_warning">Chotsani Chenjezo</string>
     <string name="no_permission">Palibe Chilolezo</string>
-    <string name="permission_not_found">Chilolezo sichikwanira. </string>
+    <string name="permission_not_found">Chilolezo sichikwanira.</string>
     <string name="quit">Siyani</string>
     <string name="go_setting">Pitani Zikhazikiko</string>
     <string name="build_hash">Pangani TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Chotsani Cache</string>
     <string name="warning">Chenjezo</string>
     <string name="clear_caches_tips">Kodi mukufuna kuchotsa cache wapamwamba pa foni yanu kwamuyaya?</string>
+    <string name="video_play_error">Vuto pakuseweredwa kwamakanema</string>
+    <string name="no_network">Zolakwika pamanetiweki, chonde onani ngati mwalumikizidwa!</string>
+    <string name="video_load_error">Vuto pakutsegula kwamakanema</string>
+    <string name="lock_tip">Chonde tsegulani chophimba chanu</string>
+    <string name="unlocked">Zotsegulidwa</string>
+    <string name="locked">Zokhoma</string>
+    <string name="continue_play">Pitirizani kusewera</string>
+    <string name="error_message">Cholakwika</string>
+    <string name="replay">Seweraninso</string>
+    <string name="retry">Yesaninso</string>
+    <string name="net_wifi_tip">Mukugwiritsa ntchito netiweki yam\'manja. </string>
+    <string name="double_speed">2.0x Kuthamanga</string>
+    <string name="invalidate_video_resource">Kanema wosavomerezeka, chonde yesaninso</string>
+    <string name="play_all_video_finish">Makanema onse omwe ali munkhaniyi asinthidwa</string>
 </resources>

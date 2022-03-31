@@ -4,7 +4,7 @@
     <string name="ok">אקעי</string>
     <string name="video_delete_success">ווידעא אויסגעמעקט הצלחה!</string>
     <string name="video_delete_failed">ווידעא אויסגעמעקט ניט אַנדערש!</string>
-    <string name="delete_tips">צי איר ווילן צו ויסמעקן די טעקע פון ​​דיין טעלעפאָן פּערמאַנאַנטלי?</string>
+    <string name="delete_tips">צי איר ווילן צו ויסמעקן די טעקע פון דיין טעלעפאָן פּערמאַנאַנטלי?</string>
     <string name="delete_tips_two">* אַמאָל אויסגעמעקט, קענען ניט זיין ריקאַווערד.</string>
     <string name="not_found_video_data">קען נישט געפֿינען קיין ווידעא</string>
     <string name="rename_failed">רענאַמע ניט אַנדערש, פּרוּווט ווידער שפּעטער</string>
@@ -28,7 +28,7 @@
     <string name="saturday">שבת</string>
     <string name="sunday">זונטיק</string>
     <string name="rate_us">קורס אונדז</string>
-    <string name="rate_us_tip">אויב איר ווי אונדז, ביטע געבן אונדז 5 שטערן. </string>
+    <string name="rate_us_tip">אויב איר ווי אונדז, ביטע געבן אונדז 5 שטערן.</string>
     <string name="here_s_your_5_stars">פינף שטערן הויך לויב</string>
     <string name="four_stars">1-4 שטערן</string>
     <string name="privacy_policy">פּריוואַטקייט פּאָליטיק</string>
@@ -75,7 +75,7 @@
     <string name="processing">פּראַסעסינג</string>
     <string name="delete_warning">ויסמעקן ווארענונג</string>
     <string name="no_permission">קיין רשות</string>
-    <string name="permission_not_found">רשות נישט גענוג. </string>
+    <string name="permission_not_found">רשות נישט גענוג.</string>
     <string name="quit">פאַרלאָזן</string>
     <string name="go_setting">גיין צו באַשטעטיקן</string>
     <string name="build_hash">בויען TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">קלאָר קאַטשעס</string>
     <string name="warning">ווארענונג</string>
     <string name="clear_caches_tips">צי איר ווילן צו ויסמעקן די קאַש פון די טעקע פֿון דיין טעלעפאָן פּערמאַנאַנטלי?</string>
+    <string name="video_play_error">ווידעא שפּיל טעות</string>
+    <string name="no_network">נעץ טעות, ביטע טשעק אויב איר זענט קאָננעקטעד!</string>
+    <string name="video_load_error">ווידעא לאָודינג טעות</string>
+    <string name="lock_tip">ביטע ופשליסן דיין פאַרשטעלן</string>
+    <string name="unlocked">אַנלאַקט</string>
+    <string name="locked">פארשפארט</string>
+    <string name="continue_play">פאָרזעצן שפּיל</string>
+    <string name="error_message">טעות</string>
+    <string name="replay">ריפּליי</string>
+    <string name="retry">פרובירט ווידער</string>
+    <string name="net_wifi_tip">איר נוצן די רירעוודיק נעץ. </string>
+    <string name="double_speed">2.0 קס ספּיד</string>
+    <string name="invalidate_video_resource">פאַרקריפּלט ווידעא מיטל, ביטע פּרובירן ווידער</string>
+    <string name="play_all_video_finish">אַלע די ווידיאס אין דעם אינהאַלט האָבן פּלייַעד</string>
 </resources>

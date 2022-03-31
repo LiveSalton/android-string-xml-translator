@@ -28,7 +28,7 @@
     <string name="saturday">Disathairne</string>
     <string name="sunday">Didòmhnaich</string>
     <string name="rate_us">Dèan measadh oirnn</string>
-    <string name="rate_us_tip">Mas toil leat sinne, feuch an toir thu dhuinn 5 rionnagan. </string>
+    <string name="rate_us_tip">Mas toil leat sinne, feuch an toir thu dhuinn 5 rionnagan.</string>
     <string name="here_s_your_5_stars">Moladh àrd còig rionnagan</string>
     <string name="four_stars">1-4 rionnag</string>
     <string name="privacy_policy">Poileasaidh prìobhaideachd</string>
@@ -75,7 +75,7 @@
     <string name="processing">giollachd</string>
     <string name="delete_warning">Sguab às Rabhadh</string>
     <string name="no_permission">Gun chead</string>
-    <string name="permission_not_found">Chan eil cead gu leòr. </string>
+    <string name="permission_not_found">Chan eil cead gu leòr.</string>
     <string name="quit">Cuidhtich</string>
     <string name="go_setting">Rach gu suidheachadh</string>
     <string name="build_hash">Tog TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Glan tasgadan</string>
     <string name="warning">Rabhadh</string>
     <string name="clear_caches_tips">A bheil thu airson am faidhle tasgadan a ghlanadh bhon fhòn agad gu buan?</string>
+    <string name="video_play_error">Tha mearachd cluich bhidio</string>
+    <string name="no_network">Mearachd lìonra, feuch an dèan thu cinnteach a bheil thu ceangailte！</string>
+    <string name="video_load_error">Thachair mearachd leis a \' bhidio a luchdadh a-nuas</string>
+    <string name="lock_tip">Feuch an fosgail thu an scrion agad</string>
+    <string name="unlocked">Gun fhosgladh</string>
+    <string name="locked">Air a ghlasadh</string>
+    <string name="continue_play">Lean air adhart a’ cluich</string>
+    <string name="error_message">Mearachd</string>
+    <string name="replay">Ath-chluich</string>
+    <string name="retry">Feuch a-rithist</string>
+    <string name="net_wifi_tip">Tha thu a’ cleachdadh an lìonra gluasadach. </string>
+    <string name="double_speed">Astar 2.0x</string>
+    <string name="invalidate_video_resource">Stòras bhidio mì-dhligheach, feuch a-rithist</string>
+    <string name="play_all_video_finish">Tha a h-uile bhidio san t-susbaint seo air cluich thairis</string>
 </resources>

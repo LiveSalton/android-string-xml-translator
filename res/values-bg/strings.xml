@@ -28,7 +28,7 @@
     <string name="saturday">събота</string>
     <string name="sunday">неделя</string>
     <string name="rate_us">Оцени ни</string>
-    <string name="rate_us_tip">Ако ни харесвате, моля, дайте ни 5 звезди. </string>
+    <string name="rate_us_tip">Ако ни харесвате, моля, дайте ни 5 звезди.</string>
     <string name="here_s_your_5_stars">Пет звезди висока оценка</string>
     <string name="four_stars">1-4 звезди</string>
     <string name="privacy_policy">Политика за поверителност</string>
@@ -75,7 +75,7 @@
     <string name="processing">обработка</string>
     <string name="delete_warning">Предупреждение за изтриване</string>
     <string name="no_permission">Няма разрешение</string>
-    <string name="permission_not_found">Разрешението не е достатъчно. </string>
+    <string name="permission_not_found">Разрешението не е достатъчно.</string>
     <string name="quit">Откажи се</string>
     <string name="go_setting">Отидете Настройка</string>
     <string name="build_hash">Създайте TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Изчистване на кеша</string>
     <string name="warning">Внимание</string>
     <string name="clear_caches_tips">Искате ли да изчистите кеша на файла от телефона си за постоянно?</string>
+    <string name="video_play_error">Грешка при възпроизвеждане на видео</string>
+    <string name="no_network">Грешка в мрежата, моля, проверете дали сте свързани!</string>
+    <string name="video_load_error">Грешка при зареждане на видео</string>
+    <string name="lock_tip">Моля, отключете екрана си</string>
+    <string name="unlocked">Отключен</string>
+    <string name="locked">Заключен</string>
+    <string name="continue_play">Продължете да играете</string>
+    <string name="error_message">Грешка</string>
+    <string name="replay">Повторете</string>
+    <string name="retry">Опитайте отново</string>
+    <string name="net_wifi_tip">Използвате мобилната мрежа. </string>
+    <string name="double_speed">2.0x скорост</string>
+    <string name="invalidate_video_resource">Невалиден видео ресурс, моля, опитайте отново</string>
+    <string name="play_all_video_finish">Всички видеоклипове в това съдържание са възпроизвеждани</string>
 </resources>

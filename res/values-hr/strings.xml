@@ -28,7 +28,7 @@
     <string name="saturday">subota</string>
     <string name="sunday">nedjelja</string>
     <string name="rate_us">Ocijeni nas</string>
-    <string name="rate_us_tip">Ako vam se sviđamo, dajte nam 5 zvjezdica. </string>
+    <string name="rate_us_tip">Ako vam se sviđamo, dajte nam 5 zvjezdica.</string>
     <string name="here_s_your_5_stars">Visoke pohvale s pet zvjezdica</string>
     <string name="four_stars">1-4 zvjezdice</string>
     <string name="privacy_policy">Politika privatnosti</string>
@@ -75,7 +75,7 @@
     <string name="processing">obrada</string>
     <string name="delete_warning">Izbriši upozorenje</string>
     <string name="no_permission">Bez dozvole</string>
-    <string name="permission_not_found">Dozvola nije dovoljna. </string>
+    <string name="permission_not_found">Dozvola nije dovoljna.</string>
     <string name="quit">Prestati</string>
     <string name="go_setting">Idi Postavljanje</string>
     <string name="build_hash">Izgradi TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Očisti predmemorije</string>
     <string name="warning">Upozorenje</string>
     <string name="clear_caches_tips">Želite li trajno izbrisati predmemoriju datoteke sa svog telefona?</string>
+    <string name="video_play_error">Pogreška reprodukcije videozapisa</string>
+    <string name="no_network">Mrežna pogreška, provjerite jeste li povezani!</string>
+    <string name="video_load_error">Pogreška pri učitavanju videa</string>
+    <string name="lock_tip">Otključajte zaslon</string>
+    <string name="unlocked">Otključan</string>
+    <string name="locked">Zaključan</string>
+    <string name="continue_play">Nastavite igrati</string>
+    <string name="error_message">Greška</string>
+    <string name="replay">Replay</string>
+    <string name="retry">Pokušajte ponovo</string>
+    <string name="net_wifi_tip">Koristite mobilnu mrežu. </string>
+    <string name="double_speed">2,0x brzina</string>
+    <string name="invalidate_video_resource">Poništite video resurs, pokušajte ponovno</string>
+    <string name="play_all_video_finish">Svi videozapisi u ovom sadržaju su se reproducirali</string>
 </resources>

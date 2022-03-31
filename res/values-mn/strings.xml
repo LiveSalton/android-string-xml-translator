@@ -28,7 +28,7 @@
     <string name="saturday">Бямба гариг</string>
     <string name="sunday">Ням гараг</string>
     <string name="rate_us">Биднийг дүгнэнэ үү</string>
-    <string name="rate_us_tip">Хэрэв танд таалагдаж байвал 5 од өгөөрэй. </string>
+    <string name="rate_us_tip">Хэрэв танд таалагдаж байвал 5 од өгөөрэй.</string>
     <string name="here_s_your_5_stars">Таван одтой өндөр магтаал</string>
     <string name="four_stars">1-4 одтой</string>
     <string name="privacy_policy">Нууцлалын бодлого</string>
@@ -75,7 +75,7 @@
     <string name="processing">боловсруулах</string>
     <string name="delete_warning">Устгах анхааруулга</string>
     <string name="no_permission">Зөвшөөрөлгүй</string>
-    <string name="permission_not_found">Зөвшөөрөл хангалтгүй. </string>
+    <string name="permission_not_found">Зөвшөөрөл хангалтгүй.</string>
     <string name="quit">Гар</string>
     <string name="go_setting">Тохиргоо руу очно уу</string>
     <string name="build_hash">TAG бүтээх</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Кэшүүдийг цэвэрлэх</string>
     <string name="warning">Анхааруулга</string>
     <string name="clear_caches_tips">Та утаснаасаа файлын кэшийг бүрмөсөн устгахыг хүсэж байна уу?</string>
+    <string name="video_play_error">Видео тоглуулах алдаа</string>
+    <string name="no_network">Сүлжээний алдаа гарлаа, холбогдсон эсэхээ шалгана уу!</string>
+    <string name="video_load_error">Видео ачаалах алдаа</string>
+    <string name="lock_tip">Дэлгэцийн түгжээг тайлна уу</string>
+    <string name="unlocked">Түгжээг тайлсан</string>
+    <string name="locked">Түгжигдсэн</string>
+    <string name="continue_play">Үргэлжлүүлэн тоглох</string>
+    <string name="error_message">Алдаа</string>
+    <string name="replay">Дахин тоглуулах</string>
+    <string name="retry">Дахин оролдоно уу</string>
+    <string name="net_wifi_tip">Та гар утасны сүлжээ ашиглаж байна. </string>
+    <string name="double_speed">2.0x хурд</string>
+    <string name="invalidate_video_resource">Видео нөөцийг хүчингүй болго, дахин оролдоно уу</string>
+    <string name="play_all_video_finish">Энэ агуулгын бүх видеонууд дууссан байна</string>
 </resources>

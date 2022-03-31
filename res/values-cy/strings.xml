@@ -28,7 +28,7 @@
     <string name="saturday">dydd Sadwrn</string>
     <string name="sunday">Sul</string>
     <string name="rate_us">Graddio Ni</string>
-    <string name="rate_us_tip">Os ydych chi\'n hoffi ni, rhowch 5 seren i ni. </string>
+    <string name="rate_us_tip">Os ydych chi\'n hoffi ni, rhowch 5 seren i ni.</string>
     <string name="here_s_your_5_stars">Canmoliaeth uchel pum seren</string>
     <string name="four_stars">1-4 Seren</string>
     <string name="privacy_policy">Polisi preifatrwydd</string>
@@ -75,7 +75,7 @@
     <string name="processing">prosesu</string>
     <string name="delete_warning">Dileu Rhybudd</string>
     <string name="no_permission">Dim Caniatâd</string>
-    <string name="permission_not_found">Dim digon o ganiatâd. </string>
+    <string name="permission_not_found">Dim digon o ganiatâd.</string>
     <string name="quit">Ymadael</string>
     <string name="go_setting">Ewch Gosod</string>
     <string name="build_hash">Adeiladu TAG</string>
@@ -94,4 +94,18 @@
     <string name="clear_caches">Caches Clir</string>
     <string name="warning">Rhybudd</string>
     <string name="clear_caches_tips">Ydych chi am glirio caches y ffeil o\'ch ffôn yn barhaol?</string>
+    <string name="video_play_error">Gwall chwarae fideo</string>
+    <string name="no_network">Gwall rhwydwaith, gwiriwch a ydych wedi\'ch cysylltu！</string>
+    <string name="video_load_error">Gwall llwytho fideo</string>
+    <string name="lock_tip">Os gwelwch yn dda datgloi eich sgrin</string>
+    <string name="unlocked">Wedi\'i ddatgloi</string>
+    <string name="locked">Wedi\'i gloi</string>
+    <string name="continue_play">Parhewch i chwarae</string>
+    <string name="error_message">Gwall</string>
+    <string name="replay">Ailchwarae</string>
+    <string name="retry">Ceisiwch eto</string>
+    <string name="net_wifi_tip">Rydych chi\'n defnyddio\'r rhwydwaith symudol. </string>
+    <string name="double_speed">Cyflymder 2.0x</string>
+    <string name="invalidate_video_resource">Annilysu adnodd fideo, ceisiwch eto</string>
+    <string name="play_all_video_finish">Mae\'r holl fideos yn y cynnwys hwn wedi\'u chwarae drosodd</string>
 </resources>
