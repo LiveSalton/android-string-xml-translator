@@ -96,7 +96,7 @@
     <string name="clear_caches_tips">Do you want to clear caches the file from your phone permanently?</string>
     <string name="video_play_error">Video play error</string>
     <string name="no_network">Network error, please check if you are connected！</string>
-    <string name="video_load_error">Video loading <error></error></string>
+    <string name="video_load_error">Video loading error</string>
     <string name="lock_tip">Please unlock your screen</string>
     <string name="unlocked">Unlocked</string>
     <string name="locked">Locked</string>

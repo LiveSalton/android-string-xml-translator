@@ -12,6 +12,7 @@ object Main {
 //        PoiManager.test()
 //        PoiManager.writeStringXmlToExecl()
 //        PoiManager.updateStringTranslation()
+//        Translator.translate("res/values/strings.xml", Languages.FRENCH)
         translate()
     }
 

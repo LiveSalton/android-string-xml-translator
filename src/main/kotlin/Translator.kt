@@ -51,7 +51,7 @@ object Translator {
         val toTranslateList: MutableList<Pair> = mutableListOf()
         for (index in 0 until elements.childrenSize()) {
             val name = elements.child(index).attr("name")
-            val text = elements.child(index).html()
+            val text = elements.child(index).text()
             toTranslateList.add(Pair(name, text))
         }
         return toTranslateList
